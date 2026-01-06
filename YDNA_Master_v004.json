@@ -1,0 +1,99 @@
+{
+  "indexes": {
+    "by_branch": {
+      "EDMOND SR.": [
+        "2Z"
+      ]
+    },
+    "by_haplogroup": {
+      "R": [
+        "2Z"
+      ]
+    },
+    "by_subject_id": {
+      "2Z": "2Z"
+    },
+    "by_surname": {
+      "DEAN": [
+        "2Z"
+      ]
+    },
+    "by_terminal_snp": {
+      "R-FTC31155": [
+        "2Z"
+      ]
+    }
+  },
+  "project": {
+    "metadata_schema": "master_meta_v001",
+    "project_id": "dean-ralph",
+    "master_type": "YDNA",
+    "rev": "v004",
+    "filename": "YDNA_Master_v004.json",
+    "timezone": "America/Chicago",
+    "updated_at_utc": "2026-01-06T01:02:46Z",
+    "created_at_utc": "2025-12-11T00:00:00Z",
+    "name": "Dean–Ralph Y-DNA Engine",
+    "description": "Y-DNA testers, EKAs, and lineage mapping for the DEAN / DEEN / RALPH / PRIDGEON project."
+  },
+  "schema_version": "1.0",
+  "testers": {
+    "2Z": {
+      "branch": {
+        "cluster_tags": [
+          "NC Bunch",
+          "Texas",
+          "Edmond SNP"
+        ],
+        "major_line": "Edmond Sr.",
+        "sub_line": "WPM branch"
+      },
+      "eka": {
+        "birth_year": 1830,
+        "death_year": 1908,
+        "name": "William Pridgeon Marion Dean",
+        "notes": "Earliest Known Ancestor for subject 2Z; patriarch of the Texas Dean line.",
+        "place": {
+          "country": "USA",
+          "county": "Jasper County",
+          "note": "EKA residence for WPM line; born in Mississippi but anchored in Jasper/Tyler region.",
+          "place": null,
+          "place_raw": "Jasper County, Texas, USA",
+          "state": "Texas"
+        }
+      },
+      "flags": {
+        "candidate_founder": false,
+        "on_naughty_list": false
+      },
+      "haplogroup": "R-FTC31155",
+      "haplogroup_notes": "Edmond-line SNP; sits below LAB → FTC26900 → FTC31155.",
+      "kit_number": null,
+      "lineage_label": "W.P.M. Dean line (Edmond Sr. branch)",
+      "linked_person_id": "P00001",
+      "matches": [],
+      "snps": {
+        "equivalents": [],
+        "private": [],
+        "terminal": "R-FTC31155",
+        "upstream": [
+          "R-FTC26900"
+        ]
+      },
+      "status": {
+        "confidence": 0.98,
+        "notes": "Tester is a well-documented WPM descendant; SNP position R-FTC31155 confirmed as Edmond-line anchor.",
+        "research_status": "proven"
+      },
+      "subject_id": "2Z",
+      "surname": "Dean",
+      "tags": [
+        "R-haplogroup",
+        "BigY",
+        "Edmond-line",
+        "WPM-descendant"
+      ],
+      "terminal_snp": "R-FTC31155"
+    }
+  }
+}

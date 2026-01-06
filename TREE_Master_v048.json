@@ -1,0 +1,6720 @@
+{
+  "indexes": {
+    "by_alt_name": {
+      "Bedford Deen": [
+        "P00023"
+      ],
+      "Burket Deens": [
+        "P00062"
+      ],
+      "Burkett Dean": [
+        "P00062"
+      ],
+      "Burkit Dean": [
+        "P00062"
+      ],
+      "Cornelius Dean": [
+        "P00022"
+      ],
+      "Cornelius Deen": [
+        "P00022"
+      ],
+      "Cornelius Deens": [
+        "P00022"
+      ],
+      "Drury Dean": [
+        "P00016"
+      ],
+      "Drury Deen": [
+        "P00016"
+      ],
+      "Edmond Deane": [
+        "P00002"
+      ],
+      "Edmond Deen": [
+        "P00002"
+      ],
+      "Edmond Deens": [
+        "P00002"
+      ],
+      "Eunice Lea": [
+        "P00061"
+      ],
+      "Garrason Dean": [
+        "P00034"
+      ],
+      "Garretson Dean": [
+        "P00034"
+      ],
+      "Henry Dean": [
+        "P00015"
+      ],
+      "Henry Deen": [
+        "P00015"
+      ],
+      "Jeremiah Dean": [
+        "P00008"
+      ],
+      "Jeremiah Deen": [
+        "P00008"
+      ],
+      "Lucretia Dean": [
+        "P00017",
+        "P00017"
+      ],
+      "Lucretia Deen": [
+        "P00017"
+      ],
+      "Mary Dean": [
+        "P00009",
+        "P00018"
+      ],
+      "Mary Deen": [
+        "P00018",
+        "P00035"
+      ],
+      "Mary Deens": [
+        "P00009",
+        "P00035"
+      ],
+      "Mary Gilmore": [
+        "P00035"
+      ],
+      "Mary Polly Dean": [
+        "P00035"
+      ],
+      "Molley": [
+        "P00009"
+      ],
+      "Molly Taylor": [
+        "P00009"
+      ],
+      "Nathaniel Peirce Dean": [
+        "P00036"
+      ],
+      "Nathaniel Pierce Dean": [
+        "P00036"
+      ],
+      "Old Jeremiah": [
+        "P00008"
+      ],
+      "Polly": [
+        "P00018"
+      ],
+      "Polly Dean": [
+        "P00035"
+      ],
+      "Polly Gilmore": [
+        "P00035"
+      ],
+      "Richard Dean": [
+        "P00013",
+        "P00013"
+      ],
+      "Richard Deen": [
+        "P00013",
+        "P00013"
+      ],
+      "Sermon Deen": [
+        "P00032"
+      ],
+      "Sherrod Dean": [
+        "P00011"
+      ],
+      "Sherrod Deen": [
+        "P00011"
+      ],
+      "Sophia Dean": [
+        "P00003"
+      ],
+      "Sophia Ralph": [
+        "P00003"
+      ],
+      "Temperance Dean": [
+        "P00010"
+      ],
+      "Temperance Deen": [
+        "P00010"
+      ],
+      "Thomas Dean": [
+        "P00014"
+      ],
+      "Thomas Deen": [
+        "P00014"
+      ],
+      "Willis Dean": [
+        "P00012"
+      ],
+      "Willis Deen": [
+        "P00012"
+      ],
+      "Zack Doles": [
+        "P00005"
+      ],
+      "the Younger": [
+        "P00013"
+      ]
+    },
+    "by_branch": {
+      "Doles line": [
+        "P00004",
+        "P00005"
+      ],
+      "FAN/Collateral": [
+        "P00049",
+        "P00050",
+        "P00051",
+        "P00052",
+        "P00053",
+        "P00054",
+        "P00055",
+        "P00056",
+        "P00057",
+        "P00058",
+        "P00059"
+      ],
+      "Old Jeremiah": [
+        "P00002",
+        "P00008",
+        "P00010",
+        "P00011",
+        "P00012",
+        "P00013",
+        "P00014",
+        "P00015",
+        "P00016",
+        "P00017",
+        "P00018"
+      ],
+      "Ralph line": [
+        "P00006",
+        "P00007"
+      ],
+      "Sophia / Texas matriarch": [
+        "P00003"
+      ],
+      "Turkey Creek cluster": [
+        "P00038"
+      ]
+    },
+    "by_primary_name": {
+      "Arthur Taylor": [
+        "P00045"
+      ],
+      "Augustin Bass": [
+        "P00057"
+      ],
+      "Bedford Dean": [
+        "P00023"
+      ],
+      "Burket Dean": [
+        "P00062"
+      ],
+      "Charity Dean": [
+        "P00029"
+      ],
+      "Cornelius \"the Ghost\" Dean": [
+        "P00022"
+      ],
+      "Cornelius Taylor": [
+        "P00049"
+      ],
+      "Delpha Young": [
+        "P00019"
+      ],
+      "Drury Deens": [
+        "P00016"
+      ],
+      "Elizabeth Deens": [
+        "P00055"
+      ],
+      "Elizabeth Pussell": [
+        "P00058"
+      ],
+      "Eunice Lea Dean": [
+        "P00061"
+      ],
+      "Garrison Dean": [
+        "P00034"
+      ],
+      "Henry Deens": [
+        "P00015"
+      ],
+      "Henry Smith Ralph": [
+        "P00007"
+      ],
+      "Hilliard Judge Dean": [
+        "P00033"
+      ],
+      "James Russell Gilmore": [
+        "P00042"
+      ],
+      "Jefferson Dean": [
+        "P00021"
+      ],
+      "Jeremiah \"Old Jeremiah\" Deens": [
+        "P00008"
+      ],
+      "Jeremiah Dean": [
+        "P00024"
+      ],
+      "John Deens": [
+        "P00053"
+      ],
+      "Lemon Doles": [
+        "P00004"
+      ],
+      "Lide Deens": [
+        "P00052"
+      ],
+      "Lucretia Deens": [
+        "P00017"
+      ],
+      "Lucretia Gilmore": [
+        "P00040"
+      ],
+      "Mary \"Molley\" Taylor": [
+        "P00009"
+      ],
+      "Mary \"Polly\" Dean": [
+        "P00035"
+      ],
+      "Mary \"Polly\" Deens": [
+        "P00018"
+      ],
+      "Matthew Gilmore": [
+        "P00044"
+      ],
+      "Meeky Laily Dean": [
+        "P00030"
+      ],
+      "Nathan Sermon": [
+        "P00047"
+      ],
+      "Nathaniel Dean": [
+        "P00060"
+      ],
+      "Nathaniel Pearce Dean": [
+        "P00036"
+      ],
+      "Richard Deens (the Younger)": [
+        "P00013"
+      ],
+      "Samuel Ralph": [
+        "P00006"
+      ],
+      "Sermon Dean": [
+        "P00032"
+      ],
+      "Sherrod Deens": [
+        "P00011"
+      ],
+      "Solomon Gilmore": [
+        "P00039"
+      ],
+      "Sophia Waller Pridgeon": [
+        "P00003"
+      ],
+      "Stephen Gilmore": [
+        "P00041"
+      ],
+      "Temperance Deens": [
+        "P00010"
+      ],
+      "Thomas Deens": [
+        "P00014"
+      ],
+      "Thomas Deens (the Elder)": [
+        "P00038"
+      ],
+      "Unknown Son A of Sherrod Deens": [
+        "P00063"
+      ],
+      "Unknown Son B of Sherrod Deens": [
+        "P00064"
+      ],
+      "Unknown Son C of Sherrod Deens": [
+        "P00065"
+      ],
+      "Unknown Son D of Sherrod Deens": [
+        "P00066"
+      ],
+      "Unknown wife of Jeremiah Deens (first wife)": [
+        "P00025"
+      ],
+      "Unknown wife of Sherrod Deens": [
+        "P00020"
+      ],
+      "William Bowers": [
+        "P00056"
+      ],
+      "William Deens": [
+        "P00054"
+      ],
+      "William Hall": [
+        "P00051"
+      ],
+      "William Pridgeon": [
+        "P00048"
+      ],
+      "William Pridgeon Marion Dean": [
+        "P00001"
+      ],
+      "Williamson Dean": [
+        "P00027"
+      ],
+      "Willis Deens": [
+        "P00012"
+      ],
+      "Winifred \"Winny\" Dyson": [
+        "P00026"
+      ],
+      "Winifred Dyson": [
+        "P00050"
+      ]
+    },
+    "by_surname": {
+      "(UNKNOWN)": [
+        "P00020",
+        "P00025",
+        "P00031"
+      ],
+      "ANDREWS": [
+        "P00059"
+      ],
+      "BASS": [
+        "P00057"
+      ],
+      "BOWERS": [
+        "P00056"
+      ],
+      "DEAN": [
+        "P00001",
+        "P00002",
+        "P00021",
+        "P00022",
+        "P00023",
+        "P00024",
+        "P00027",
+        "P00028",
+        "P00029",
+        "P00030",
+        "P00032",
+        "P00033",
+        "P00034",
+        "P00035",
+        "P00036",
+        "P00037",
+        "P00060",
+        "P00061",
+        "P00062"
+      ],
+      "DEENS": [
+        "P00008",
+        "P00010",
+        "P00011",
+        "P00012",
+        "P00013",
+        "P00014",
+        "P00015",
+        "P00016",
+        "P00017",
+        "P00018",
+        "P00038",
+        "P00052",
+        "P00053",
+        "P00054",
+        "P00055",
+        "P00063",
+        "P00064",
+        "P00065",
+        "P00066"
+      ],
+      "DOLES": [
+        "P00004",
+        "P00005"
+      ],
+      "DYSON": [
+        "P00026",
+        "P00050"
+      ],
+      "GILMORE": [
+        "P00039",
+        "P00040",
+        "P00041",
+        "P00042",
+        "P00043",
+        "P00044"
+      ],
+      "HALL": [
+        "P00051"
+      ],
+      "PRIDGEON": [
+        "P00003",
+        "P00048"
+      ],
+      "PUSSELL": [
+        "P00058"
+      ],
+      "RALPH": [
+        "P00006",
+        "P00007"
+      ],
+      "SERMON": [
+        "P00047"
+      ],
+      "TAYLOR": [
+        "P00009",
+        "P00045",
+        "P00049"
+      ],
+      "YOUNG": [
+        "P00019"
+      ]
+    }
+  },
+  "people": {
+    "P00001": {
+      "alt_names": [],
+      "branching": {
+        "cluster_tags": [],
+        "major_line": null,
+        "sub_line": null
+      },
+      "events": {
+        "birth": {
+          "date": null,
+          "date_note": "approx",
+          "note": "",
+          "place": {
+            "country": "USA",
+            "county": null,
+            "note": null,
+            "place": null,
+            "place_raw": "Mississippi, USA",
+            "state": "Mississippi"
+          },
+          "sources": []
+        },
+        "death": {
+          "date": "1908-05-01",
+          "date_note": "exact",
+          "note": "",
+          "place": {
+            "country": "USA",
+            "county": "Tyler County",
+            "note": null,
+            "place": "Rockland",
+            "place_raw": "Rockland, Tyler County, Texas, USA",
+            "state": "Texas"
+          },
+          "sources": []
+        }
+      },
+      "gender": "M",
+      "id": "P00001",
+      "life_span": {
+        "approx_birth": false,
+        "approx_death": false,
+        "birth_year": 1830,
+        "death_year": 1908
+      },
+      "notes": [],
+      "primary_name": {
+        "display": "William Pridgeon Marion Dean",
+        "given": "William Pridgeon Marion",
+        "suffix": "",
+        "surname": "Dean"
+      },
+      "relationships": {
+        "children": [],
+        "parents": [
+          "P00002",
+          "P00003"
+        ],
+        "spouses": []
+      },
+      "sources": [
+        {
+          "date_accessed_utc": "2025-12-11",
+          "note": "Confirms as child of Edmond Sr and Sophia; child dossier.",
+          "title": "Children_of_Edmond_Sr_Dossier.pdf",
+          "type": "dossier"
+        }
+      ],
+      "status": {
+        "confidence": 0.95,
+        "notes": "",
+        "on_naughty_list": false,
+        "research_status": "proven",
+        "ydna_subject_id": null
+      },
+      "tags": [
+        "Texas",
+        "CSA"
+      ]
+    },
+    "P00002": {
+      "alt_names": [
+        {
+          "type": "variant_surname",
+          "value": "Edmond Deens"
+        },
+        {
+          "type": "variant_surname",
+          "value": "Edmond Deen"
+        },
+        {
+          "type": "variant_surname",
+          "value": "Edmond Deane"
+        }
+      ],
+      "branching": {
+        "cluster_tags": [
+          "NC Bunch",
+          "GA frontier",
+          "AL/MS frontier"
+        ],
+        "major_line": "Old Jeremiah",
+        "sub_line": "Edmond Sr."
+      },
+      "events": {
+        "birth": {
+          "date": null,
+          "date_note": "approx",
+          "note": "",
+          "place": {
+            "country": "USA",
+            "county": "Nash County",
+            "note": null,
+            "place": null,
+            "place_raw": "Nash County, North Carolina, USA",
+            "state": "North Carolina"
+          },
+          "sources": []
+        },
+        "death": {
+          "date": "1831-08-10",
+          "date_note": "exact",
+          "note": "",
+          "place": {
+            "country": "USA",
+            "county": "Warren County",
+            "note": "Died in a manslaughter incident per Vicksburg records.",
+            "place": "Vicksburg",
+            "place_raw": "Vicksburg, Warren County, Mississippi, USA",
+            "state": "Mississippi"
+          },
+          "sources": []
+        }
+      },
+      "gender": "M",
+      "id": "P00002",
+      "life_span": {
+        "approx_birth": false,
+        "approx_death": false,
+        "birth_year": 1781,
+        "death_year": 1831
+      },
+      "notes": [
+        {
+          "date_utc": null,
+          "text": "Parentage linked to Jeremiah \"Old Jeremiah\" Deens and Mary \"Molley\" Taylor per Old_Jeremiah_Upgraded dossier (1788 probate naming children).",
+          "type": null
+        },
+        {
+          "date_utc": null,
+          "text": "Dossier notes first wife (unnamed) preceding Sophia Waller Pridgeon; children listed in dossier attributed to first wife.",
+          "type": null
+        },
+        {
+          "date_utc": null,
+          "text": "Restored relationships.spouses link to P00031 from legacy dict in TREE_Master_v043 (status: None).",
+          "type": null
+        },
+        {
+          "date_utc": null,
+          "text": "Restored relationships.spouses link to P00003 from legacy dict in TREE_Master_v043 (status: None).",
+          "type": null
+        }
+      ],
+      "primary_name": {
+        "display": "Edmond Dean Sr.",
+        "given": "Edmond",
+        "suffix": "",
+        "surname": "Dean"
+      },
+      "relationships": {
+        "children": [
+          "P00001",
+          "P00032",
+          "P00033",
+          "P00034",
+          "P00035",
+          "P00036",
+          "P00037",
+          "P00017"
+        ],
+        "parents": [
+          "P00008",
+          "P00009"
+        ],
+        "spouses": [
+          {
+            "spouse_id": "P00031"
+          },
+          {
+            "spouse_id": "P00003"
+          }
+        ]
+      },
+      "sources": [
+        {
+          "date_accessed_utc": "2025-12-11",
+          "note": "Lists Edmond (1781–1831) as child of Jeremiah and Mary; 1788 probate cited.",
+          "title": "Old_Jeremiah_Upgraded.pdf",
+          "type": "dossier"
+        },
+        {
+          "date_accessed_utc": "2025-12-11",
+          "note": "Batch A dossier; expands timeline summary, first wife unknown, additional children list, FAN list.",
+          "title": "Edmond_Deens_Sr.pdf",
+          "type": "dossier"
+        },
+        {
+          "date_accessed_utc": "2025-12-11",
+          "note": "Edmond Sr dossier material provided by user (Edmond path).",
+          "title": "Edmond_Sr.pdf",
+          "type": "dossier"
+        },
+        {
+          "date_accessed_utc": "2025-12-11",
+          "note": "Children dossier for Edmond Sr (confirmations, birth/death ranges).",
+          "title": "Children_of_Edmond_Sr_Dossier.pdf",
+          "type": "dossier"
+        }
+      ],
+      "status": {
+        "confidence": 0.97,
+        "notes": "Edmond line associated with R-FTC31155 per Y-DNA synthesis.",
+        "on_naughty_list": false,
+        "research_status": "proven",
+        "ydna_subject_id": null
+      },
+      "tags": [
+        "NC",
+        "GA",
+        "Alabama",
+        "Mississippi",
+        "War of 1812"
+      ]
+    },
+    "P00003": {
+      "alt_names": [
+        {
+          "type": "married_name",
+          "value": "Sophia Dean"
+        },
+        {
+          "type": "married_name",
+          "value": "Sophia Ralph"
+        }
+      ],
+      "branching": {
+        "cluster_tags": [
+          "Texas pioneer",
+          "Mexican Texas",
+          "Republic era"
+        ],
+        "major_line": "Sophia / Texas matriarch",
+        "sub_line": "Pridgeon–Doles–Dean–Ralph"
+      },
+      "events": {
+        "birth": {
+          "date": null,
+          "date_note": "approx",
+          "note": "",
+          "place": {
+            "country": "USA",
+            "county": null,
+            "note": null,
+            "place": null,
+            "place_raw": "North Carolina, USA",
+            "state": "North Carolina"
+          },
+          "sources": []
+        },
+        "death": {
+          "date": null,
+          "date_note": "approx",
+          "note": "Death estimated around 1880 based on indirect evidence.",
+          "place": {
+            "country": "USA",
+            "county": "Jasper County",
+            "note": null,
+            "place": "Ebenezer",
+            "place_raw": "Ebenezer, Jasper County, Texas, USA",
+            "state": "Texas"
+          },
+          "sources": []
+        }
+      },
+      "gender": "F",
+      "id": "P00003",
+      "life_span": {
+        "approx_birth": false,
+        "approx_death": true,
+        "birth_year": 1798,
+        "death_year": 1880
+      },
+      "notes": [
+        {
+          "date_utc": null,
+          "text": "Batch 2 hardening: adds 1834 Nacogdoches petition (Jorge Antonio Nixon), 1835-02-19 one-sitio grant in Jefferson Co., Coahuila y Texas; 1842 POA; 1879 Veteran Donation Land Warrant application (not issued).",
+          "type": null
+        },
+        {
+          "date_utc": null,
+          "text": "Restored relationships.spouses link to P00002 from legacy dict in TREE_Master_v043 (status: None).",
+          "type": null
+        },
+        {
+          "date_utc": null,
+          "text": "Restored relationships.spouses link to P00004 from legacy dict in TREE_Master_v043 (status: None).",
+          "type": null
+        },
+        {
+          "date_utc": null,
+          "text": "Restored relationships.spouses link to P00006 from legacy dict in TREE_Master_v043 (status: None).",
+          "type": null
+        }
+      ],
+      "primary_name": {
+        "display": "Sophia Waller Pridgeon",
+        "given": "Sophia Waller",
+        "suffix": "",
+        "surname": "Pridgeon"
+      },
+      "relationships": {
+        "children": [
+          "P00001",
+          "P00005",
+          "P00007"
+        ],
+        "parents": [
+          "P00048"
+        ],
+        "spouses": [
+          {
+            "spouse_id": "P00004"
+          },
+          {
+            "spouse_id": "P00002"
+          },
+          {
+            "spouse_id": "P00006"
+          }
+        ]
+      },
+      "sources": [
+        {
+          "date_accessed_utc": "2025-12-11",
+          "note": "Batch 2 collateral expansion; petitions, grants, POA, warrant application.",
+          "title": "Sophia_Waller_Pridgeon_Doles_Dean_Ralph.pdf",
+          "type": "dossier"
+        }
+      ],
+      "status": {
+        "confidence": 0.96,
+        "notes": "Lifespan and key events confirmed via petitions, land grants, marriage records, tax rolls, POA, and county filings.",
+        "on_naughty_list": false,
+        "research_status": "proven",
+        "ydna_subject_id": null
+      },
+      "tags": [
+        "Texas"
+      ]
+    },
+    "P00004": {
+      "alt_names": [],
+      "branching": {
+        "cluster_tags": [
+          "Frontier south"
+        ],
+        "major_line": "Doles line",
+        "sub_line": "Sophia & Lemon"
+      },
+      "events": {},
+      "gender": "M",
+      "id": "P00004",
+      "life_span": {
+        "approx_birth": true,
+        "approx_death": true,
+        "birth_year": null,
+        "death_year": null
+      },
+      "notes": [
+        {
+          "date_utc": null,
+          "text": "Restored relationships.spouses link to P00003 from legacy dict in TREE_Master_v043 (status: None).",
+          "type": null
+        }
+      ],
+      "primary_name": {
+        "display": "Lemon Doles",
+        "given": "Lemon",
+        "suffix": "",
+        "surname": "Doles"
+      },
+      "relationships": {
+        "children": [
+          "P00005"
+        ],
+        "parents": [],
+        "spouses": [
+          {
+            "spouse_id": "P00003"
+          }
+        ]
+      },
+      "sources": [],
+      "status": {
+        "confidence": 0.6,
+        "notes": "Stub pending full Doles dossier.",
+        "on_naughty_list": false,
+        "research_status": "working",
+        "ydna_subject_id": null
+      },
+      "tags": [
+        "Doles"
+      ]
+    },
+    "P00005": {
+      "alt_names": [
+        {
+          "type": "nickname",
+          "value": "Zack Doles"
+        }
+      ],
+      "branching": {
+        "cluster_tags": [
+          "Louisiana migration"
+        ],
+        "major_line": "Doles line",
+        "sub_line": "Zachariah S. branch"
+      },
+      "events": {},
+      "gender": "M",
+      "id": "P00005",
+      "life_span": {
+        "approx_birth": true,
+        "approx_death": true,
+        "birth_year": null,
+        "death_year": null
+      },
+      "notes": [
+        {
+          "date_utc": null,
+          "text": "Batch 2 hardening: census anchors in Louisiana (Bossier/Caddo) for 1850–1880 per dossier; spouse/children not named in dossier summary (no creation).",
+          "type": null
+        }
+      ],
+      "primary_name": {
+        "display": "Zachariah \"Zack\" S. Doles",
+        "given": "Zachariah S.",
+        "suffix": "",
+        "surname": "Doles"
+      },
+      "relationships": {
+        "children": [],
+        "parents": [
+          "P00004",
+          "P00003"
+        ],
+        "spouses": []
+      },
+      "sources": [
+        {
+          "date_accessed_utc": "2025-12-11",
+          "note": "Batch 2 collateral expansion; LA census anchors.",
+          "title": "Zachariah_S_Doles_Family_Dossier.pdf",
+          "type": "dossier"
+        }
+      ],
+      "status": {
+        "confidence": 0.6,
+        "notes": "Stub; known to later live in Bossier/Caddo Parish, Louisiana.",
+        "on_naughty_list": false,
+        "research_status": "working",
+        "ydna_subject_id": null
+      },
+      "tags": [
+        "Doles",
+        "Louisiana"
+      ]
+    },
+    "P00006": {
+      "alt_names": [],
+      "branching": {
+        "cluster_tags": [
+          "Texas",
+          "Veteran"
+        ],
+        "major_line": "Ralph line",
+        "sub_line": "Samuel branch"
+      },
+      "events": {},
+      "gender": "M",
+      "id": "P00006",
+      "life_span": {
+        "approx_birth": true,
+        "approx_death": true,
+        "birth_year": null,
+        "death_year": null
+      },
+      "notes": [
+        {
+          "date_utc": null,
+          "text": "Batch 2 hardening: dossier indicates unknown earlier marriage (no confirmed issue), later bigamous remarriage in Washington-on-the-Brazos region (spouse unnamed), and death in New York (1879; locality TBD).",
+          "type": null
+        },
+        {
+          "date_utc": null,
+          "text": "Restored relationships.spouses link to P00003 from legacy dict in TREE_Master_v043 (status: None).",
+          "type": null
+        }
+      ],
+      "primary_name": {
+        "display": "Samuel Ralph",
+        "given": "Samuel",
+        "suffix": "",
+        "surname": "Ralph"
+      },
+      "relationships": {
+        "children": [
+          "P00007"
+        ],
+        "parents": [],
+        "spouses": [
+          {
+            "spouse_id": "P00003"
+          }
+        ]
+      },
+      "sources": [
+        {
+          "date_accessed_utc": "2025-12-11",
+          "note": "Batch 2 collateral expansion; marriage, separation/bigamy window, NY death.",
+          "title": "Samuel_Ralph_Family_Dossier.pdf",
+          "type": "dossier"
+        }
+      ],
+      "status": {
+        "confidence": 0.7,
+        "notes": "Stub; husband of Sophia and father of Henry Smith Ralph.",
+        "on_naughty_list": false,
+        "research_status": "working",
+        "ydna_subject_id": null
+      },
+      "tags": [
+        "Ralph",
+        "Texas"
+      ]
+    },
+    "P00007": {
+      "alt_names": [],
+      "branching": {
+        "cluster_tags": [
+          "Jasper County"
+        ],
+        "major_line": "Ralph line",
+        "sub_line": "Henry Smith branch"
+      },
+      "events": {
+        "birth": {
+          "date": "1838-01-11",
+          "date_note": "exact",
+          "note": "",
+          "place": {
+            "country": "USA",
+            "county": "Jasper County",
+            "note": null,
+            "place": null,
+            "place_raw": "Jasper County, Texas, USA",
+            "state": "Texas"
+          },
+          "sources": []
+        }
+      },
+      "gender": "M",
+      "id": "P00007",
+      "life_span": {
+        "approx_birth": false,
+        "approx_death": true,
+        "birth_year": 1838,
+        "death_year": null
+      },
+      "notes": [],
+      "primary_name": {
+        "display": "Henry Smith Ralph",
+        "given": "Henry Smith",
+        "suffix": "",
+        "surname": "Ralph"
+      },
+      "relationships": {
+        "children": [],
+        "parents": [
+          "P00006",
+          "P00003"
+        ],
+        "spouses": []
+      },
+      "sources": [],
+      "status": {
+        "confidence": 0.8,
+        "notes": "Second marriage line of Sophia; many descendants remain in Jasper County.",
+        "on_naughty_list": false,
+        "research_status": "working",
+        "ydna_subject_id": null
+      },
+      "tags": [
+        "Ralph",
+        "Jasper County"
+      ]
+    },
+    "P00008": {
+      "alt_names": [
+        {
+          "type": "alias",
+          "value": "Old Jeremiah"
+        },
+        {
+          "type": "variant_surname",
+          "value": "Jeremiah Dean"
+        },
+        {
+          "type": "variant_surname",
+          "value": "Jeremiah Deen"
+        }
+      ],
+      "branching": {
+        "cluster_tags": [
+          "NC Bunch",
+          "Turkey Creek / Tar River"
+        ],
+        "major_line": "Old Jeremiah",
+        "sub_line": null
+      },
+      "events": {
+        "birth": {
+          "date": null,
+          "date_note": "approx",
+          "note": "",
+          "place": {
+            "country": "USA",
+            "county": null,
+            "note": "Born c.1745–1755 per dossier.",
+            "place": null,
+            "place_raw": "North Carolina, USA",
+            "state": "North Carolina"
+          },
+          "sources": []
+        },
+        "death": {
+          "date": null,
+          "date_note": "after",
+          "note": "Dossier states will proved in 1788; exact death date unknown.",
+          "place": {
+            "country": "USA",
+            "county": "Nash County",
+            "note": "Will proved 1788; death after probate implied.",
+            "place": null,
+            "place_raw": "Nash County, North Carolina, USA",
+            "state": "North Carolina"
+          },
+          "sources": []
+        }
+      },
+      "gender": "M",
+      "id": "P00008",
+      "life_span": {
+        "approx_birth": true,
+        "approx_death": true,
+        "birth_year": 1745,
+        "death_year": 1788
+      },
+      "notes": [
+        {
+          "date_utc": null,
+          "text": "Anchored in the Turkey Creek / Tar River settlement zone; connected to Taylor, Horn, Strickland, Ricks families (per dossier).",
+          "type": null
+        },
+        {
+          "date_utc": null,
+          "text": "Restored relationships.spouses link to P00025 from legacy dict in TREE_Master_v043 (status: None).",
+          "type": null
+        },
+        {
+          "date_utc": null,
+          "text": "Restored relationships.spouses link to P00009 from legacy dict in TREE_Master_v043 (status: None).",
+          "type": null
+        }
+      ],
+      "primary_name": {
+        "display": "Jeremiah \"Old Jeremiah\" Deens",
+        "given": "Jeremiah",
+        "suffix": "",
+        "surname": "Deens"
+      },
+      "relationships": {
+        "children": [
+          "P00002",
+          "P00010",
+          "P00011",
+          "P00012",
+          "P00013",
+          "P00014",
+          "P00015",
+          "P00016",
+          "P00018"
+        ],
+        "parents": [],
+        "spouses": [
+          {
+            "spouse_id": "P00025"
+          },
+          {
+            "spouse_id": "P00009"
+          }
+        ]
+      },
+      "sources": [
+        {
+          "date_accessed_utc": "2025-12-11",
+          "note": "Archival Lynch-Pin Dossier — Frontier Edition",
+          "title": "Old_Jeremiah_Upgraded.pdf",
+          "type": "dossier"
+        }
+      ],
+      "status": {
+        "confidence": 0.95,
+        "notes": "Keystone patriarch per dossier; anchored by 1771 Cornelius Taylor deed and 1788 probate naming wife and children.",
+        "on_naughty_list": false,
+        "research_status": "proven",
+        "ydna_subject_id": null
+      },
+      "tags": [
+        "North Carolina",
+        "Nash County",
+        "Turkey Creek",
+        "Tar River"
+      ]
+    },
+    "P00009": {
+      "alt_names": [
+        {
+          "type": "nickname",
+          "value": "Molley"
+        },
+        {
+          "type": "variant",
+          "value": "Molly Taylor"
+        },
+        {
+          "type": "married_name",
+          "value": "Mary Deens"
+        },
+        {
+          "type": "married_name",
+          "value": "Mary Dean"
+        }
+      ],
+      "branching": {
+        "cluster_tags": [
+          "Taylor",
+          "NC"
+        ],
+        "major_line": null,
+        "sub_line": null
+      },
+      "events": {},
+      "gender": "F",
+      "id": "P00009",
+      "life_span": {
+        "approx_birth": true,
+        "approx_death": true,
+        "birth_year": null,
+        "death_year": null
+      },
+      "notes": [
+        {
+          "date_utc": null,
+          "text": "Restored relationships.spouses link to P00008 from legacy dict in TREE_Master_v043 (status: None).",
+          "type": null
+        }
+      ],
+      "primary_name": {
+        "display": "Mary \"Molley\" Taylor",
+        "given": "Mary",
+        "suffix": "",
+        "surname": "Taylor"
+      },
+      "relationships": {
+        "children": [
+          "P00002",
+          "P00010",
+          "P00011",
+          "P00012",
+          "P00013",
+          "P00014",
+          "P00015",
+          "P00016",
+          "P00018"
+        ],
+        "parents": [
+          "P00045"
+        ],
+        "spouses": [
+          {
+            "spouse_id": "P00008"
+          }
+        ]
+      },
+      "sources": [
+        {
+          "date_accessed_utc": "2025-12-11",
+          "note": "Named wife in 1788 probate (per dossier).",
+          "title": "Old_Jeremiah_Upgraded.pdf",
+          "type": "dossier"
+        }
+      ],
+      "status": {
+        "confidence": 0.75,
+        "notes": "Named as wife in 1788 probate per dossier.",
+        "on_naughty_list": false,
+        "research_status": "working",
+        "ydna_subject_id": null
+      },
+      "tags": [
+        "Taylor",
+        "North Carolina"
+      ]
+    },
+    "P00010": {
+      "alt_names": [
+        {
+          "type": "variant_surname",
+          "value": "Temperance Dean"
+        },
+        {
+          "type": "variant_surname",
+          "value": "Temperance Deen"
+        }
+      ],
+      "branching": {
+        "cluster_tags": [
+          "NC Bunch"
+        ],
+        "major_line": "Old Jeremiah",
+        "sub_line": null
+      },
+      "events": {},
+      "gender": "F",
+      "id": "P00010",
+      "life_span": {
+        "approx_birth": true,
+        "approx_death": true,
+        "birth_year": null,
+        "death_year": null
+      },
+      "notes": [],
+      "primary_name": {
+        "display": "Temperance Deens",
+        "given": "Temperance",
+        "suffix": "",
+        "surname": "Deens"
+      },
+      "relationships": {
+        "children": [],
+        "parents": [
+          "P00008",
+          "P00009"
+        ],
+        "spouses": []
+      },
+      "sources": [
+        {
+          "date_accessed_utc": "2025-12-11",
+          "note": "Named as child in dossier.",
+          "title": "Old_Jeremiah_Upgraded.pdf",
+          "type": "dossier"
+        }
+      ],
+      "status": {
+        "confidence": 0.8,
+        "notes": "Named as child in dossier.",
+        "on_naughty_list": false,
+        "research_status": "working",
+        "ydna_subject_id": null
+      },
+      "tags": [
+        "North Carolina"
+      ]
+    },
+    "P00011": {
+      "alt_names": [
+        {
+          "type": "variant_surname",
+          "value": "Sherrod Dean"
+        },
+        {
+          "type": "variant_surname",
+          "value": "Sherrod Deen"
+        }
+      ],
+      "branching": {
+        "cluster_tags": [
+          "NC Bunch"
+        ],
+        "major_line": "Old Jeremiah",
+        "sub_line": null
+      },
+      "events": {
+        "death": {
+          "date": null,
+          "date_note": "before 6 Oct 1823 (Hardin Co TN guardianship of minor heirs)",
+          "note": "Implied deceased by Hardin County, TN court minutes (Oct Term 1823).",
+          "place": {
+            "country": "USA",
+            "county": "Hardin",
+            "note": null,
+            "place": null,
+            "place_raw": "Hardin County, Tennessee, USA",
+            "state": "Tennessee"
+          },
+          "year": 1823
+        }
+      },
+      "gender": "M",
+      "id": "P00011",
+      "life_span": {
+        "approx_birth": true,
+        "approx_death": true,
+        "birth_year": null,
+        "death_year": 1823
+      },
+      "notes": [
+        {
+          "date_utc": null,
+          "text": "Dossier lists earlier household with four under-16 males in 1790; treated as 'Unknown sons A–D' without person IDs.",
+          "type": null
+        },
+        {
+          "date_utc": null,
+          "text": "Georgia: Appears on Montgomery County tax roll (1797) with 232 acres and 1 poll; later Clarke County tax rolls (1803, 1807) on Barber Creek (Marbury orig grant chain).",
+          "type": null
+        },
+        {
+          "date_utc": null,
+          "text": "Georgia: Sheriff sale notice (7 Oct 1800) for 222 acres on Big Creek to satisfy fine for defaulting as juror (May term 1800).",
+          "type": null
+        },
+        {
+          "date_utc": null,
+          "text": "Restored relationships.spouses link to P00020 from legacy dict in TREE_Master_v043 (status: None).",
+          "type": null
+        },
+        {
+          "date_utc": null,
+          "text": "Restored relationships.spouses link to P00019 from legacy dict in TREE_Master_v043 (status: None).",
+          "type": null
+        }
+      ],
+      "primary_name": {
+        "display": "Sherrod Deens",
+        "given": "Sherrod",
+        "suffix": "",
+        "surname": "Deens"
+      },
+      "relationships": {
+        "children": [
+          "P00021",
+          "P00022",
+          "P00023",
+          "P00024",
+          "P00063",
+          "P00064",
+          "P00065",
+          "P00066"
+        ],
+        "parents": [
+          "P00008",
+          "P00009"
+        ],
+        "spouses": [
+          {
+            "spouse_id": "P00020"
+          },
+          {
+            "spouse_id": "P00019"
+          }
+        ]
+      },
+      "sources": [
+        {
+          "date_accessed_utc": "2025-12-11",
+          "note": "Named as child in dossier.",
+          "title": "Old_Jeremiah_Upgraded.pdf",
+          "type": "dossier"
+        },
+        {
+          "date_accessed_utc": "2025-12-11",
+          "note": "Batch A dossier; timeline, spouses, children stubs, migration summary.",
+          "title": "Sherrod_Deens.pdf",
+          "type": "dossier"
+        },
+        {
+          "citation": "Hardin County, Tennessee, Court of Pleas & Quarter Sessions minutes, Oct Term 1823: guardianship appointment and bond of Delpha Dean as guardian of minor heirs of Sherod Dean (deceased).",
+          "date_accessed_utc": "2025-12-27",
+          "note": "Verbatim minute+bond text captured in research notes (this thread).",
+          "type": "court_minutes"
+        }
+      ],
+      "status": {
+        "confidence": 0.8,
+        "notes": "Named as child in dossier.",
+        "on_naughty_list": false,
+        "research_status": "working",
+        "ydna_subject_id": null
+      },
+      "tags": [
+        "North Carolina",
+        "Georgia",
+        "Tennessee",
+        "Hardin County",
+        "Jackson County GA",
+        "War-era"
+      ]
+    },
+    "P00012": {
+      "alt_names": [
+        {
+          "type": "variant_surname",
+          "value": "Willis Dean"
+        },
+        {
+          "type": "variant_surname",
+          "value": "Willis Deen"
+        }
+      ],
+      "branching": {
+        "cluster_tags": [
+          "NC Bunch"
+        ],
+        "major_line": "Old Jeremiah",
+        "sub_line": null
+      },
+      "events": {},
+      "gender": "M",
+      "id": "P00012",
+      "life_span": {
+        "approx_birth": true,
+        "approx_death": true,
+        "birth_year": null,
+        "death_year": null
+      },
+      "notes": [
+        {
+          "date_utc": null,
+          "text": "Adjudicated: remove parent edge; 1790 cluster is presence-only and does not prove parentage.",
+          "type": null
+        }
+      ],
+      "primary_name": {
+        "display": "Willis Deens",
+        "given": "Willis",
+        "suffix": "",
+        "surname": "Deens"
+      },
+      "relationships": {
+        "children": [],
+        "parents": [
+          "P00008",
+          "P00009"
+        ],
+        "spouses": []
+      },
+      "sources": [
+        {
+          "date_accessed_utc": "2025-12-11",
+          "note": "Named as child in dossier.",
+          "title": "Old_Jeremiah_Upgraded.pdf",
+          "type": "dossier"
+        }
+      ],
+      "status": {
+        "confidence": 0.8,
+        "notes": "Named as child in dossier.",
+        "on_naughty_list": false,
+        "research_status": "working",
+        "ydna_subject_id": null
+      },
+      "tags": [
+        "North Carolina"
+      ]
+    },
+    "P00013": {
+      "alt_names": [
+        {
+          "type": "variant_surname",
+          "value": "Richard Dean"
+        },
+        {
+          "type": "variant_surname",
+          "value": "Richard Deen"
+        },
+        {
+          "type": "aka",
+          "value": "Richard Dean"
+        },
+        {
+          "type": "aka",
+          "value": "Richard Deen"
+        },
+        {
+          "type": "descriptor",
+          "value": "the Younger"
+        }
+      ],
+      "branching": {
+        "cluster_tags": [
+          "NC Bunch"
+        ],
+        "major_line": "Old Jeremiah",
+        "sub_line": null
+      },
+      "events": {},
+      "gender": "M",
+      "id": "P00013",
+      "life_span": {
+        "approx_birth": true,
+        "approx_death": true,
+        "birth_year": null,
+        "death_year": null
+      },
+      "notes": [
+        {
+          "date_utc": null,
+          "text": "Georgia: Headright grant in Montgomery County, GA dated 11 Sep 1799 for 300 acres; bounded on all sides by vacant land.",
+          "type": null
+        },
+        {
+          "date_utc": null,
+          "text": "Georgia: Deceased by Sep 1813; Laurens County, GA Court of Ordinary estate administration bond names administrator Robert W. W. Wynn (double W intentional).",
+          "type": null
+        },
+        {
+          "date_utc": null,
+          "text": "Georgia: Guardianships in Laurens County, GA Court of Ordinary for minor children (Charity; Meeky/Meeky Lailey) with guardians including Richard Dean Jr., Williamson Dean, and Winny/Winnie Dean (recording noted later).",
+          "type": null
+        },
+        {
+          "date_utc": null,
+          "text": "Restored relationships.spouses link to P00026 from legacy dict in TREE_Master_v043 (status: None).",
+          "type": null
+        }
+      ],
+      "primary_name": {
+        "display": "Richard Deens (the Younger)",
+        "given": "Richard",
+        "suffix": "",
+        "surname": "Deens"
+      },
+      "relationships": {
+        "children": [
+          "P00027",
+          "P00028",
+          "P00029",
+          "P00030"
+        ],
+        "parents": [
+          "P00008",
+          "P00025",
+          "P00009"
+        ],
+        "spouses": [
+          {
+            "spouse_id": "P00026"
+          }
+        ]
+      },
+      "sources": [
+        {
+          "date_accessed_utc": "2025-12-11",
+          "note": "Named as child in dossier.",
+          "title": "Old_Jeremiah_Upgraded.pdf",
+          "type": "dossier"
+        },
+        {
+          "date_accessed_utc": "2025-12-11",
+          "note": "Batch A dossier; marriage, estate/guardianship, spouse and child stubs.",
+          "title": "Richard_Younger.pdf",
+          "type": "dossier"
+        }
+      ],
+      "status": {
+        "confidence": 0.8,
+        "notes": "Named as child in dossier.",
+        "on_naughty_list": false,
+        "research_status": "working",
+        "ydna_subject_id": null
+      },
+      "tags": [
+        "North Carolina",
+        "Georgia",
+        "Nash County",
+        "Laurens County GA"
+      ]
+    },
+    "P00014": {
+      "alt_names": [
+        {
+          "type": "variant_surname",
+          "value": "Thomas Dean"
+        },
+        {
+          "type": "variant_surname",
+          "value": "Thomas Deen"
+        }
+      ],
+      "branching": {
+        "cluster_tags": [
+          "NC Bunch"
+        ],
+        "major_line": "Old Jeremiah",
+        "sub_line": null
+      },
+      "events": {},
+      "gender": "M",
+      "id": "P00014",
+      "life_span": {
+        "approx_birth": true,
+        "approx_death": true,
+        "birth_year": null,
+        "death_year": null
+      },
+      "notes": [
+        {
+          "date_utc": null,
+          "text": "Adjudicated: remove parent edge; 1790 cluster is presence-only and does not prove parentage.",
+          "type": null
+        }
+      ],
+      "primary_name": {
+        "display": "Thomas Deens",
+        "given": "Thomas",
+        "suffix": "",
+        "surname": "Deens"
+      },
+      "relationships": {
+        "children": [],
+        "parents": [
+          "P00008",
+          "P00009"
+        ],
+        "spouses": []
+      },
+      "sources": [
+        {
+          "date_accessed_utc": "2025-12-11",
+          "note": "Named as child in dossier.",
+          "title": "Old_Jeremiah_Upgraded.pdf",
+          "type": "dossier"
+        }
+      ],
+      "status": {
+        "confidence": 0.8,
+        "notes": "Named as child in dossier.",
+        "on_naughty_list": false,
+        "research_status": "working",
+        "ydna_subject_id": null
+      },
+      "tags": [
+        "North Carolina"
+      ]
+    },
+    "P00015": {
+      "alt_names": [
+        {
+          "type": "variant_surname",
+          "value": "Henry Dean"
+        },
+        {
+          "type": "variant_surname",
+          "value": "Henry Deen"
+        }
+      ],
+      "branching": {
+        "cluster_tags": [
+          "NC Bunch"
+        ],
+        "major_line": "Old Jeremiah",
+        "sub_line": null
+      },
+      "events": {},
+      "gender": "M",
+      "id": "P00015",
+      "life_span": {
+        "approx_birth": true,
+        "approx_death": true,
+        "birth_year": null,
+        "death_year": null
+      },
+      "notes": [
+        {
+          "date_utc": null,
+          "text": "Adjudicated: remove parent edge; 1790 cluster is presence-only and does not prove parentage.",
+          "type": null
+        }
+      ],
+      "primary_name": {
+        "display": "Henry Deens",
+        "given": "Henry",
+        "suffix": "",
+        "surname": "Deens"
+      },
+      "relationships": {
+        "children": [],
+        "parents": [
+          "P00008",
+          "P00009"
+        ],
+        "spouses": []
+      },
+      "sources": [
+        {
+          "date_accessed_utc": "2025-12-11",
+          "note": "Named as child in dossier.",
+          "title": "Old_Jeremiah_Upgraded.pdf",
+          "type": "dossier"
+        }
+      ],
+      "status": {
+        "confidence": 0.8,
+        "notes": "Named as child in dossier.",
+        "on_naughty_list": false,
+        "research_status": "working",
+        "ydna_subject_id": null
+      },
+      "tags": [
+        "North Carolina"
+      ]
+    },
+    "P00016": {
+      "alt_names": [
+        {
+          "type": "variant_surname",
+          "value": "Drury Dean"
+        },
+        {
+          "type": "variant_surname",
+          "value": "Drury Deen"
+        }
+      ],
+      "branching": {
+        "cluster_tags": [
+          "NC Bunch"
+        ],
+        "major_line": "Old Jeremiah",
+        "sub_line": "Drury"
+      },
+      "events": {
+        "birth": {
+          "date": null,
+          "date_note": "year_only",
+          "note": "Born 1784 per dossier.",
+          "place": {
+            "country": "USA",
+            "county": null,
+            "note": "",
+            "place": null,
+            "place_raw": "North Carolina, USA",
+            "state": "North Carolina"
+          },
+          "sources": []
+        }
+      },
+      "gender": "M",
+      "id": "P00016",
+      "life_span": {
+        "approx_birth": false,
+        "approx_death": true,
+        "birth_year": 1784,
+        "death_year": null
+      },
+      "notes": [],
+      "primary_name": {
+        "display": "Drury Deens",
+        "given": "Drury",
+        "suffix": "",
+        "surname": "Deens"
+      },
+      "relationships": {
+        "children": [],
+        "parents": [
+          "P00008",
+          "P00009"
+        ],
+        "spouses": []
+      },
+      "sources": [
+        {
+          "date_accessed_utc": "2025-12-11",
+          "note": "Named as child; Y-DNA R-FTC26900 cited.",
+          "title": "Old_Jeremiah_Upgraded.pdf",
+          "type": "dossier"
+        },
+        {
+          "date_accessed_utc": "2025-12-11",
+          "note": "Batch A dossier; birth 1784, 1814 deed mention, War of 1812 service, AL residence; no confirmed spouse/children.",
+          "title": "Drury_Dean_Son_of_Jeremiah.pdf",
+          "type": "dossier"
+        }
+      ],
+      "status": {
+        "confidence": 0.9,
+        "notes": "Identity and War of 1812 service per dossier; wives/children not confirmed under Archive rules.",
+        "on_naughty_list": false,
+        "research_status": "proven",
+        "ydna_subject_id": null
+      },
+      "tags": [
+        "North Carolina",
+        "Georgia",
+        "Alabama",
+        "Conecuh County",
+        "Monroe County",
+        "Wilcox County",
+        "War of 1812"
+      ]
+    },
+    "P00017": {
+      "alt_names": [
+        {
+          "type": "variant_surname",
+          "value": "Lucretia Dean"
+        },
+        {
+          "type": "variant_surname",
+          "value": "Lucretia Deen"
+        },
+        {
+          "type": "variant_surname",
+          "value": "Lucretia Dean"
+        }
+      ],
+      "branching": {
+        "cluster_tags": [
+          "NC Bunch"
+        ],
+        "major_line": "Old Jeremiah",
+        "sub_line": null
+      },
+      "events": {},
+      "gender": "F",
+      "id": "P00017",
+      "life_span": {
+        "approx_birth": true,
+        "approx_death": true,
+        "birth_year": null,
+        "death_year": null
+      },
+      "notes": [
+        {
+          "date_utc": null,
+          "text": "Daughter of Edmond Dean Sr. by his unknown first wife; married Nathan Sermon (Mississippi) per dossier.",
+          "type": null
+        },
+        {
+          "date_utc": null,
+          "text": "Restored relationships.spouses link to P00047 from legacy dict in TREE_Master_v043 (status: None).",
+          "type": null
+        }
+      ],
+      "primary_name": {
+        "display": "Lucretia Deens",
+        "given": "Lucretia",
+        "suffix": "",
+        "surname": "Deens"
+      },
+      "relationships": {
+        "children": [],
+        "parents": [
+          "P00002",
+          "P00031"
+        ],
+        "spouses": [
+          {
+            "spouse_id": "P00047"
+          }
+        ]
+      },
+      "sources": [
+        {
+          "date_accessed_utc": "2025-12-11",
+          "note": "Named as child in dossier.",
+          "title": "Old_Jeremiah_Upgraded.pdf",
+          "type": "dossier"
+        },
+        {
+          "citation": "Lucretia_Dean.pdf",
+          "type": "dossier"
+        }
+      ],
+      "status": {
+        "confidence": 0.75,
+        "notes": "Named as child in dossier.",
+        "on_naughty_list": false,
+        "research_status": "working",
+        "ydna_subject_id": null
+      },
+      "tags": [
+        "North Carolina"
+      ]
+    },
+    "P00018": {
+      "alt_names": [
+        {
+          "type": "nickname",
+          "value": "Polly"
+        },
+        {
+          "type": "variant_surname",
+          "value": "Mary Dean"
+        },
+        {
+          "type": "variant_surname",
+          "value": "Mary Deen"
+        }
+      ],
+      "branching": {
+        "cluster_tags": [
+          "NC Bunch"
+        ],
+        "major_line": "Old Jeremiah",
+        "sub_line": null
+      },
+      "events": {},
+      "gender": "F",
+      "id": "P00018",
+      "life_span": {
+        "approx_birth": true,
+        "approx_death": true,
+        "birth_year": null,
+        "death_year": null
+      },
+      "notes": [
+        {
+          "date_utc": null,
+          "text": "Marriage (documented): Solomon “Sol” Gilmore (P00039); license 1806-11-11, solemnized 1806-11-13, Jackson County, Georgia (JP Agrippa Atkinson).",
+          "type": null
+        },
+        {
+          "date_utc": null,
+          "text": "Do not conflate with Mary ‘Polly’ Dean (P00035), daughter of Edmond Dean Sr.",
+          "type": null
+        }
+      ],
+      "primary_name": {
+        "display": "Mary \"Polly\" Deens",
+        "given": "Mary",
+        "suffix": "",
+        "surname": "Deens"
+      },
+      "relationships": {
+        "children": [
+          "P00040",
+          "P00041",
+          "P00042",
+          "P00043",
+          "P00044"
+        ],
+        "parents": [
+          "P00008",
+          "P00009"
+        ],
+        "spouses": [
+          {
+            "spouse_id": "P00039"
+          }
+        ]
+      },
+      "sources": [
+        {
+          "date_accessed_utc": "2025-12-11",
+          "note": "Named as child in dossier.",
+          "title": "Old_Jeremiah_Upgraded.pdf",
+          "type": "dossier"
+        }
+      ],
+      "status": {
+        "confidence": 0.8,
+        "notes": "Named as child in dossier.",
+        "on_naughty_list": false,
+        "research_status": "working",
+        "ydna_subject_id": null
+      },
+      "tags": [
+        "North Carolina"
+      ]
+    },
+    "P00019": {
+      "alt_names": [],
+      "branching": {
+        "cluster_tags": [],
+        "major_line": null,
+        "sub_line": null
+      },
+      "events": {},
+      "gender": "F",
+      "id": "P00019",
+      "life_span": {
+        "approx_birth": true,
+        "approx_death": true,
+        "birth_year": null,
+        "death_year": null
+      },
+      "notes": [
+        {
+          "date_utc": null,
+          "text": "Spouse of Sherrod Deens per Jackson County, GA marriage record (1806) per dossier.",
+          "type": null
+        },
+        {
+          "text": "Post-widowhood activity: guardianship (1823) and POA to son Cornelius (1824) documented in Hardin County TN minutes; further whereabouts after 1824 unresolved.",
+          "type": "research_note"
+        },
+        {
+          "date_utc": null,
+          "text": "Restored relationships.spouses link to P00011 from legacy dict in TREE_Master_v043 (status: None).",
+          "type": null
+        }
+      ],
+      "primary_name": {
+        "display": "Delpha Young",
+        "given": "Delpha",
+        "suffix": "",
+        "surname": "Young"
+      },
+      "relationships": {
+        "children": [
+          "P00022",
+          "P00023",
+          "P00024"
+        ],
+        "parents": [],
+        "spouses": [
+          {
+            "spouse_id": "P00011"
+          }
+        ]
+      },
+      "sources": [
+        {
+          "date_accessed_utc": "2025-12-11",
+          "note": "Sherrod dossier; marriage to Delpha Young (12 Nov 1806).",
+          "title": "Sherrod_Deens.pdf",
+          "type": "dossier"
+        },
+        {
+          "citation": "Hardin County, Tennessee, Court of Pleas & Quarter Sessions minutes, 6 Oct 1823: Delpha Dean appointed guardian; bond with Alex Reynolds; tested by A.W. Sweney/Sweeney.",
+          "date_accessed_utc": "2025-12-27",
+          "note": "Verbatim text captured in research notes.",
+          "type": "court_minutes"
+        },
+        {
+          "citation": "Hardin County, Tennessee, Court minutes, 5 Oct 1824: Power of attorney from Delpha Dean to Cornelius Dean proven by Noel Cherry and Noah Lilley; ordered certified for registration.",
+          "date_accessed_utc": "2025-12-27",
+          "note": "Minute entry only; POA instrument not yet captured in this thread.",
+          "type": "court_minutes"
+        }
+      ],
+      "status": {
+        "confidence": 0.5,
+        "notes": "",
+        "on_naughty_list": false,
+        "research_status": "working",
+        "ydna_subject_id": null
+      },
+      "tags": [
+        "Young"
+      ]
+    },
+    "P00020": {
+      "alt_names": [],
+      "branching": {
+        "cluster_tags": [],
+        "major_line": null,
+        "sub_line": null
+      },
+      "events": {},
+      "gender": "F",
+      "id": "P00020",
+      "life_span": {
+        "approx_birth": true,
+        "approx_death": true,
+        "birth_year": null,
+        "death_year": null
+      },
+      "notes": [
+        {
+          "date_utc": null,
+          "text": "Placeholder for Sherrod's first wife; identity not established in dossier.",
+          "type": null
+        },
+        {
+          "date_utc": null,
+          "text": "Restored relationships.spouses link to P00011 from legacy dict in TREE_Master_v043 (status: None).",
+          "type": null
+        }
+      ],
+      "primary_name": {
+        "display": "Unknown wife of Sherrod Deens",
+        "given": "Unknown",
+        "suffix": "",
+        "surname": "(Unknown)"
+      },
+      "relationships": {
+        "children": [
+          "P00063",
+          "P00064",
+          "P00065",
+          "P00066",
+          "P00021"
+        ],
+        "parents": [],
+        "spouses": [
+          {
+            "spouse_id": "P00011"
+          }
+        ]
+      },
+      "sources": [
+        {
+          "date_accessed_utc": "2025-12-11",
+          "note": "Sherrod dossier references 'Unknown Wife' prior to Delpha Young.",
+          "title": "Sherrod_Deens.pdf",
+          "type": "dossier"
+        }
+      ],
+      "status": {
+        "confidence": 0.2,
+        "notes": "",
+        "on_naughty_list": false,
+        "research_status": "speculative",
+        "ydna_subject_id": null
+      },
+      "tags": [
+        "Unknown"
+      ]
+    },
+    "P00021": {
+      "alt_names": [],
+      "branching": {
+        "cluster_tags": [],
+        "major_line": null,
+        "sub_line": null
+      },
+      "events": {},
+      "gender": null,
+      "id": "P00021",
+      "life_span": {
+        "approx_birth": true,
+        "approx_death": true,
+        "birth_year": null,
+        "death_year": null
+      },
+      "notes": [
+        {
+          "date_utc": null,
+          "text": "Child of Sherrod Deens per dossier; may be Thomas Jefferson Dean (b. ~1801 GA → d. 1891 TX).",
+          "type": null
+        },
+        {
+          "date_utc": null,
+          "text": "Mother uncertain; dossier lists Jefferson among Sherrod's children; kept with Delpha as placeholder pending confirmation.",
+          "type": null
+        }
+      ],
+      "primary_name": {
+        "display": "Jefferson Dean",
+        "given": "Jefferson",
+        "suffix": "",
+        "surname": "Dean"
+      },
+      "relationships": {
+        "children": [],
+        "parents": [
+          "P00011",
+          "P00020"
+        ],
+        "spouses": []
+      },
+      "sources": [
+        {
+          "date_accessed_utc": "2025-12-11",
+          "note": "Child of Sherrod Deens per dossier; may be Thomas Jefferson Dean (b. ~1801 GA → d. 1891 TX).",
+          "title": "Sherrod_Deens.pdf",
+          "type": "dossier"
+        }
+      ],
+      "status": {
+        "confidence": 0.4,
+        "notes": "",
+        "on_naughty_list": false,
+        "research_status": "working",
+        "ydna_subject_id": null
+      },
+      "tags": [
+        "Sherrod line"
+      ]
+    },
+    "P00022": {
+      "alt_names": [
+        {
+          "type": "variant_surname",
+          "value": "Cornelius Deens"
+        },
+        {
+          "type": "variant_surname",
+          "value": "Cornelius Deen"
+        },
+        {
+          "type": "variant_surname",
+          "value": "Cornelius Dean"
+        }
+      ],
+      "branching": {
+        "cluster_tags": [],
+        "major_line": null,
+        "sub_line": null
+      },
+      "events": {
+        "birth": {
+          "date": null,
+          "date_note": "approx",
+          "note": "Born ~1802–1803 per dossier.",
+          "place": {
+            "country": "USA",
+            "county": null,
+            "note": null,
+            "place": null,
+            "place_raw": "Georgia/South Carolina region, USA",
+            "state": null
+          },
+          "sources": [
+            {
+              "title": "Cornelius_The_Ghost_Dean.pdf",
+              "type": "dossier"
+            }
+          ]
+        }
+      },
+      "gender": null,
+      "id": "P00022",
+      "life_span": {
+        "approx_birth": true,
+        "approx_death": true,
+        "birth_year": 1802,
+        "death_year": null
+      },
+      "notes": [
+        {
+          "date_utc": null,
+          "text": "Child of Sherrod Deens (brood with Delpha Young) per Hardin Co TN guardianship reference in dossier.",
+          "type": null
+        },
+        {
+          "date_utc": null,
+          "text": "Last confirmed alive 7 Jan 1837 (Yalobusha Co., MS) per dossier; no records after.",
+          "type": null
+        }
+      ],
+      "primary_name": {
+        "display": "Cornelius \"the Ghost\" Dean",
+        "given": "Cornelius",
+        "suffix": "",
+        "surname": "Dean"
+      },
+      "relationships": {
+        "children": [],
+        "parents": [
+          "P00011",
+          "P00019"
+        ],
+        "spouses": []
+      },
+      "sources": [
+        {
+          "date_accessed_utc": "2025-12-11",
+          "note": "Child of Sherrod Deens (brood with Delpha Young) per Hardin Co TN guardianship reference in dossier.",
+          "title": "Sherrod_Deens.pdf",
+          "type": "dossier"
+        },
+        {
+          "date_accessed_utc": "2025-12-11",
+          "note": "",
+          "title": "Cornelius_The_Ghost_Dean.pdf",
+          "type": "dossier"
+        },
+        {
+          "citation": "U.S. land patent (Columbus, MS land office), 27 Feb 1841: Jeremiah Dean and Cornelius Dean of Winston County, MS; SW 1/4 Sec 9 T13N R14E; 157.30 acres; preemption cert 6999; tenants in common; recorded 13 Jul 1841.",
+          "date_accessed_utc": "2025-12-27",
+          "note": "Details provided from newly located patent; image/cert copy not yet attached in this thread.",
+          "type": "land_patent"
+        }
+      ],
+      "status": {
+        "confidence": 0.4,
+        "notes": "",
+        "on_naughty_list": false,
+        "research_status": "working",
+        "ydna_subject_id": null
+      },
+      "tags": [
+        "Sherrod line"
+      ]
+    },
+    "P00023": {
+      "alt_names": [
+        {
+          "type": "variant_surname",
+          "value": "Bedford Deen"
+        }
+      ],
+      "branching": {
+        "cluster_tags": [],
+        "major_line": null,
+        "sub_line": null
+      },
+      "events": {
+        "birth": {
+          "date": "1809-05-12",
+          "date_note": "exact",
+          "note": "Born 12 May 1809 per dossier.",
+          "place": {
+            "country": "USA",
+            "county": null,
+            "note": null,
+            "place": null,
+            "place_raw": "Tennessee, USA",
+            "state": "Tennessee"
+          },
+          "sources": [
+            {
+              "title": "Bedford_Deen.pdf",
+              "type": "dossier"
+            }
+          ]
+        },
+        "death": {
+          "date": "1872-12-26",
+          "date_note": "exact",
+          "note": "Died 26 Dec 1872 per dossier.",
+          "place": {
+            "country": "USA",
+            "county": "Marshall County",
+            "note": null,
+            "place": null,
+            "place_raw": "Marshall County, Mississippi, USA",
+            "state": "Mississippi"
+          },
+          "sources": [
+            {
+              "title": "Bedford_Deen.pdf",
+              "type": "dossier"
+            }
+          ]
+        }
+      },
+      "gender": null,
+      "id": "P00023",
+      "life_span": {
+        "approx_birth": false,
+        "approx_death": false,
+        "birth_year": 1809,
+        "death_year": 1872
+      },
+      "notes": [
+        {
+          "date_utc": null,
+          "text": "Child of Sherrod Deens and Delpha Young per dossier (b. 1809–1872).",
+          "type": null
+        },
+        {
+          "date_utc": null,
+          "text": "Dossier lifespan: 12 May 1809 (TN) — 26 Dec 1872 (Marshall Co., MS).",
+          "type": null
+        }
+      ],
+      "primary_name": {
+        "display": "Bedford Dean",
+        "given": "Bedford",
+        "suffix": "",
+        "surname": "Dean"
+      },
+      "relationships": {
+        "children": [],
+        "parents": [
+          "P00011",
+          "P00019"
+        ],
+        "spouses": []
+      },
+      "sources": [
+        {
+          "date_accessed_utc": "2025-12-11",
+          "note": "Child of Sherrod Deens and Delpha Young per dossier (b. 1809–1872).",
+          "title": "Sherrod_Deens.pdf",
+          "type": "dossier"
+        },
+        {
+          "date_accessed_utc": "2025-12-11",
+          "note": "",
+          "title": "Bedford_Deen.pdf",
+          "type": "dossier"
+        }
+      ],
+      "status": {
+        "confidence": 0.4,
+        "notes": "",
+        "on_naughty_list": false,
+        "research_status": "working",
+        "ydna_subject_id": null
+      },
+      "tags": [
+        "Sherrod line"
+      ]
+    },
+    "P00024": {
+      "alt_names": [
+        {
+          "type": "suffix",
+          "value": "Jeremiah Dean Jr."
+        }
+      ],
+      "branching": {
+        "cluster_tags": [],
+        "major_line": null,
+        "sub_line": null
+      },
+      "events": {},
+      "gender": null,
+      "id": "P00024",
+      "life_span": {
+        "approx_birth": true,
+        "approx_death": true,
+        "birth_year": null,
+        "death_year": null
+      },
+      "notes": [
+        {
+          "date_utc": null,
+          "text": "Child of Sherrod Deens and Delpha Young per dossier (Jeremiah Dean ~1802–1804).",
+          "type": null
+        },
+        {
+          "date_utc": null,
+          "text": "Guardianship in Hardin Co., TN (1823); attorney-in-fact for Cornelius land sale (1837); Methodist minister activity in TN per dossier.",
+          "type": null
+        }
+      ],
+      "primary_name": {
+        "display": "Jeremiah Dean",
+        "given": "Jeremiah",
+        "suffix": "",
+        "surname": "Dean"
+      },
+      "relationships": {
+        "children": [],
+        "parents": [
+          "P00011",
+          "P00019"
+        ],
+        "spouses": []
+      },
+      "sources": [
+        {
+          "date_accessed_utc": "2025-12-11",
+          "note": "Child of Sherrod Deens and Delpha Young per dossier (Jeremiah Dean ~1802–1804).",
+          "title": "Sherrod_Deens.pdf",
+          "type": "dossier"
+        },
+        {
+          "citation": "Jeremiah_Dean_Jr.pdf",
+          "type": "dossier"
+        },
+        {
+          "citation": "U.S. land patent (Columbus, MS land office), 27 Feb 1841: Jeremiah Dean and Cornelius Dean of Winston County, MS; SW 1/4 Sec 9 T13N R14E; 157.30 acres; preemption cert 6999; tenants in common; recorded 13 Jul 1841.",
+          "date_accessed_utc": "2025-12-27",
+          "note": "Details provided from newly located patent; image/cert copy not yet attached in this thread.",
+          "type": "land_patent"
+        }
+      ],
+      "status": {
+        "confidence": 0.4,
+        "notes": "",
+        "on_naughty_list": false,
+        "research_status": "working",
+        "ydna_subject_id": null
+      },
+      "tags": [
+        "Sherrod line"
+      ]
+    },
+    "P00025": {
+      "alt_names": [],
+      "branching": {
+        "cluster_tags": [],
+        "major_line": null,
+        "sub_line": null
+      },
+      "events": {},
+      "gender": "F",
+      "id": "P00025",
+      "life_span": {
+        "approx_birth": true,
+        "approx_death": true,
+        "birth_year": null,
+        "death_year": null
+      },
+      "notes": [
+        {
+          "date_utc": null,
+          "text": "Placeholder mother for older cohort (e.g., Richard the Younger) per dossier; not fully assigned across siblings.",
+          "type": null
+        },
+        {
+          "date_utc": null,
+          "text": "Restored relationships.spouses link to P00008 from legacy dict in TREE_Master_v043 (status: None).",
+          "type": null
+        }
+      ],
+      "primary_name": {
+        "display": "Unknown wife of Jeremiah Deens (first wife)",
+        "given": "Unknown",
+        "suffix": "",
+        "surname": "(Unknown)"
+      },
+      "relationships": {
+        "children": [
+          "P00013"
+        ],
+        "parents": [],
+        "spouses": [
+          {
+            "spouse_id": "P00008"
+          }
+        ]
+      },
+      "sources": [
+        {
+          "date_accessed_utc": "2025-12-11",
+          "note": "Richard the Younger dossier lists mother as Jeremiah's first wife (unknown).",
+          "title": "Richard_Younger.pdf",
+          "type": "dossier"
+        }
+      ],
+      "status": {
+        "confidence": 0.25,
+        "notes": "",
+        "on_naughty_list": false,
+        "research_status": "speculative",
+        "ydna_subject_id": null
+      },
+      "tags": []
+    },
+    "P00026": {
+      "alt_names": [],
+      "branching": {
+        "cluster_tags": [],
+        "major_line": null,
+        "sub_line": null
+      },
+      "events": {},
+      "gender": "F",
+      "id": "P00026",
+      "life_span": {
+        "approx_birth": true,
+        "approx_death": true,
+        "birth_year": null,
+        "death_year": null
+      },
+      "notes": [
+        {
+          "date_utc": null,
+          "text": "Spouse of Richard Deens (the Younger) per 1793 Nash Co. NC marriage (dossier).",
+          "type": null
+        },
+        {
+          "date_utc": null,
+          "text": "Restored relationships.spouses link to P00013 from legacy dict in TREE_Master_v043 (status: None).",
+          "type": null
+        }
+      ],
+      "primary_name": {
+        "display": "Winifred \"Winny\" Dyson",
+        "given": "Winifred",
+        "suffix": "",
+        "surname": "Dyson"
+      },
+      "relationships": {
+        "children": [
+          "P00027",
+          "P00028",
+          "P00029",
+          "P00030"
+        ],
+        "parents": [],
+        "spouses": [
+          {
+            "spouse_id": "P00013"
+          }
+        ]
+      },
+      "sources": [
+        {
+          "date_accessed_utc": "2025-12-11",
+          "note": "Marriage 21 Jan 1793 to Richard; name Winifred/Winny Dyson.",
+          "title": "Richard_Younger.pdf",
+          "type": "dossier"
+        }
+      ],
+      "status": {
+        "confidence": 0.7,
+        "notes": "",
+        "on_naughty_list": false,
+        "research_status": "working",
+        "ydna_subject_id": null
+      },
+      "tags": [
+        "Dyson",
+        "North Carolina",
+        "Georgia"
+      ]
+    },
+    "P00027": {
+      "alt_names": [],
+      "branching": {
+        "cluster_tags": [],
+        "major_line": null,
+        "sub_line": null
+      },
+      "events": {},
+      "gender": null,
+      "id": "P00027",
+      "life_span": {
+        "approx_birth": true,
+        "approx_death": true,
+        "birth_year": null,
+        "death_year": null
+      },
+      "notes": [
+        {
+          "date_utc": null,
+          "text": "Child of Richard Deens (the Younger) and Winifred Dyson per guardianship dossier.",
+          "type": null
+        }
+      ],
+      "primary_name": {
+        "display": "Williamson Dean",
+        "given": "Williamson",
+        "suffix": "",
+        "surname": "Dean"
+      },
+      "relationships": {
+        "children": [],
+        "parents": [
+          "P00013",
+          "P00026"
+        ],
+        "spouses": []
+      },
+      "sources": [
+        {
+          "date_accessed_utc": "2025-12-11",
+          "note": "Child of Richard Deens (the Younger) and Winifred Dyson per guardianship dossier.",
+          "title": "Richard_Younger.pdf",
+          "type": "dossier"
+        }
+      ],
+      "status": {
+        "confidence": 0.4,
+        "notes": "",
+        "on_naughty_list": false,
+        "research_status": "working",
+        "ydna_subject_id": null
+      },
+      "tags": [
+        "Richard Younger line"
+      ]
+    },
+    "P00028": {
+      "alt_names": [],
+      "branching": {
+        "cluster_tags": [],
+        "major_line": null,
+        "sub_line": null
+      },
+      "events": {},
+      "gender": null,
+      "id": "P00028",
+      "life_span": {
+        "approx_birth": true,
+        "approx_death": true,
+        "birth_year": null,
+        "death_year": null
+      },
+      "notes": [
+        {
+          "date_utc": null,
+          "text": "Child of Richard Deens (the Younger) and Winifred Dyson per guardianship dossier.",
+          "type": null
+        }
+      ],
+      "primary_name": {
+        "display": "Richard Dean Jr.",
+        "given": "Richard",
+        "suffix": "",
+        "surname": "Dean"
+      },
+      "relationships": {
+        "children": [],
+        "parents": [
+          "P00013",
+          "P00026"
+        ],
+        "spouses": []
+      },
+      "sources": [
+        {
+          "date_accessed_utc": "2025-12-11",
+          "note": "Child of Richard Deens (the Younger) and Winifred Dyson per guardianship dossier.",
+          "title": "Richard_Younger.pdf",
+          "type": "dossier"
+        }
+      ],
+      "status": {
+        "confidence": 0.4,
+        "notes": "",
+        "on_naughty_list": false,
+        "research_status": "working",
+        "ydna_subject_id": null
+      },
+      "tags": [
+        "Richard Younger line"
+      ]
+    },
+    "P00029": {
+      "alt_names": [],
+      "branching": {
+        "cluster_tags": [],
+        "major_line": null,
+        "sub_line": null
+      },
+      "events": {},
+      "gender": null,
+      "id": "P00029",
+      "life_span": {
+        "approx_birth": true,
+        "approx_death": true,
+        "birth_year": null,
+        "death_year": null
+      },
+      "notes": [
+        {
+          "date_utc": null,
+          "text": "Child of Richard Deens (the Younger) and Winifred Dyson per guardianship dossier.",
+          "type": null
+        }
+      ],
+      "primary_name": {
+        "display": "Charity Dean",
+        "given": "Charity",
+        "suffix": "",
+        "surname": "Dean"
+      },
+      "relationships": {
+        "children": [],
+        "parents": [
+          "P00013",
+          "P00026"
+        ],
+        "spouses": []
+      },
+      "sources": [
+        {
+          "date_accessed_utc": "2025-12-11",
+          "note": "Child of Richard Deens (the Younger) and Winifred Dyson per guardianship dossier.",
+          "title": "Richard_Younger.pdf",
+          "type": "dossier"
+        }
+      ],
+      "status": {
+        "confidence": 0.4,
+        "notes": "",
+        "on_naughty_list": false,
+        "research_status": "working",
+        "ydna_subject_id": null
+      },
+      "tags": [
+        "Richard Younger line"
+      ]
+    },
+    "P00030": {
+      "alt_names": [],
+      "branching": {
+        "cluster_tags": [],
+        "major_line": null,
+        "sub_line": null
+      },
+      "events": {},
+      "gender": null,
+      "id": "P00030",
+      "life_span": {
+        "approx_birth": true,
+        "approx_death": true,
+        "birth_year": null,
+        "death_year": null
+      },
+      "notes": [
+        {
+          "date_utc": null,
+          "text": "Child of Richard Deens (the Younger) and Winifred Dyson per guardianship dossier.",
+          "type": null
+        }
+      ],
+      "primary_name": {
+        "display": "Meeky Laily Dean",
+        "given": "Meeky",
+        "suffix": "",
+        "surname": "Dean"
+      },
+      "relationships": {
+        "children": [],
+        "parents": [
+          "P00013",
+          "P00026"
+        ],
+        "spouses": []
+      },
+      "sources": [
+        {
+          "date_accessed_utc": "2025-12-11",
+          "note": "Child of Richard Deens (the Younger) and Winifred Dyson per guardianship dossier.",
+          "title": "Richard_Younger.pdf",
+          "type": "dossier"
+        }
+      ],
+      "status": {
+        "confidence": 0.4,
+        "notes": "",
+        "on_naughty_list": false,
+        "research_status": "working",
+        "ydna_subject_id": null
+      },
+      "tags": [
+        "Richard Younger line"
+      ]
+    },
+    "P00031": {
+      "alt_names": [],
+      "branching": {
+        "cluster_tags": [],
+        "major_line": null,
+        "sub_line": null
+      },
+      "events": {},
+      "gender": "F",
+      "id": "P00031",
+      "life_span": {
+        "approx_birth": true,
+        "approx_death": true,
+        "birth_year": null,
+        "death_year": null
+      },
+      "notes": [
+        {
+          "date_utc": null,
+          "text": "Placeholder for Edmond Sr.'s first wife; name not documented in dossier extract.",
+          "type": null
+        },
+        {
+          "date_utc": null,
+          "text": "Restored relationships.spouses link to P00002 from legacy dict in TREE_Master_v043 (status: None).",
+          "type": null
+        }
+      ],
+      "primary_name": {
+        "display": "Unknown first wife of Edmond Deens Sr.",
+        "given": "Unknown",
+        "suffix": "",
+        "surname": "(Unknown)"
+      },
+      "relationships": {
+        "children": [
+          "P00032",
+          "P00033",
+          "P00034",
+          "P00035",
+          "P00036",
+          "P00037",
+          "P00017"
+        ],
+        "parents": [],
+        "spouses": [
+          {
+            "spouse_id": "P00002"
+          }
+        ]
+      },
+      "sources": [
+        {
+          "date_accessed_utc": "2025-12-11",
+          "note": "Dossier states Edmond had a first wife (unknown).",
+          "title": "Edmond_Deens_Sr.pdf",
+          "type": "dossier"
+        }
+      ],
+      "status": {
+        "confidence": 0.25,
+        "notes": "",
+        "on_naughty_list": false,
+        "research_status": "speculative",
+        "ydna_subject_id": null
+      },
+      "tags": []
+    },
+    "P00032": {
+      "alt_names": [
+        {
+          "type": "aka",
+          "value": "Sermon Deen"
+        },
+        {
+          "type": "aka",
+          "value": "Surmon Deen"
+        }
+      ],
+      "branching": {
+        "cluster_tags": [],
+        "major_line": null,
+        "sub_line": null
+      },
+      "events": {
+        "birth": {
+          "date": null,
+          "date_note": "year_only",
+          "note": "Born ca. 1802 per Sermon dossier.",
+          "place": {
+            "country": "USA",
+            "county": "Washington County",
+            "note": null,
+            "place": null,
+            "place_raw": "Washington County, Georgia, USA",
+            "state": "Georgia"
+          },
+          "place_raw": "Washington County, Georgia, USA",
+          "sources": [],
+          "year": 1802
+        },
+        "death": {
+          "date": null,
+          "date_note": "year_only",
+          "note": "Died 1864–1865 (Civil War era) per Sermon dossier.",
+          "place": {
+            "country": "USA",
+            "county": "Jackson County",
+            "note": null,
+            "place": null,
+            "place_raw": "Jackson County, Texas, USA",
+            "state": "Texas"
+          },
+          "place_raw": "Jackson County, Texas, USA",
+          "sources": [],
+          "year": 1864
+        }
+      },
+      "facts": [
+        {
+          "certainty": "high",
+          "date_range": {
+            "end": "1802-12-31",
+            "start": "1802-01-01"
+          },
+          "evidence": [
+            "1860 census age self-attested (thread)"
+          ],
+          "fact_type": "birth_year",
+          "place": "(unspecified)"
+        },
+        {
+          "certainty": "high",
+          "date_range": {
+            "end": null,
+            "start": "1864-01-01"
+          },
+          "evidence": [
+            "tax + guardianship context (thread)"
+          ],
+          "fact_type": "death_bound_after",
+          "place": "(unspecified)"
+        }
+      ],
+      "gender": null,
+      "id": "P00032",
+      "life_span": {
+        "approx_birth": true,
+        "approx_death": true,
+        "birth_year": 1802,
+        "death_year": null
+      },
+      "notes": [
+        {
+          "date_utc": null,
+          "text": "Child of Edmond Deens Sr. by first wife (unnamed) per dossier.",
+          "type": null
+        },
+        {
+          "date_utc": null,
+          "text": "Death terminus post quem: alive as of 1865 tax record (proof-of-life).",
+          "type": null
+        },
+        {
+          "date_utc": null,
+          "text": "Restored relationships.spouses link to P00082 from legacy dict in TREE_Master_v043 (status: None).",
+          "type": null
+        }
+      ],
+      "primary_name": {
+        "display": "Sermon Dean",
+        "given": "Sermon",
+        "suffix": "",
+        "surname": "Dean"
+      },
+      "relationships": {
+        "children": [
+          "P00083"
+        ],
+        "parents": [
+          "P00002",
+          "P00031"
+        ],
+        "spouses": [
+          {
+            "spouse_id": "P00082"
+          }
+        ]
+      },
+      "sources": [
+        {
+          "date_accessed_utc": "2025-12-11",
+          "note": "Child of Edmond Deens Sr. by first wife (unnamed) per dossier.",
+          "title": "Edmond_Deens_Sr.pdf",
+          "type": "dossier"
+        },
+        {
+          "date_accessed_utc": "2025-12-11",
+          "note": "Child bio details and sibling set context.",
+          "title": "Children_of_Edmond_Sr_Dossier.pdf",
+          "type": "dossier"
+        },
+        {
+          "date_accessed_utc": "2025-12-11",
+          "note": "Lifespan, migration arc, child Drury.",
+          "title": "Sermon_Dean.pdf",
+          "type": "dossier"
+        }
+      ],
+      "status": {
+        "confidence": 0.8,
+        "notes": "",
+        "on_naughty_list": false,
+        "research_status": "working",
+        "ydna_subject_id": null
+      },
+      "tags": [
+        "Edmond Sr line",
+        "MS",
+        "Lauderdale County"
+      ]
+    },
+    "P00033": {
+      "alt_names": [
+        {
+          "type": "aka",
+          "value": "Hilliard J. Dean"
+        }
+      ],
+      "branching": {
+        "cluster_tags": [],
+        "major_line": null,
+        "sub_line": null
+      },
+      "events": {
+        "birth": {
+          "date": null,
+          "date_note": "year_only",
+          "note": "Born ca. 1804–1806 per Hilliard Judge dossier.",
+          "place": {
+            "country": "USA",
+            "county": null,
+            "note": null,
+            "place": null,
+            "place_raw": "Georgia, USA",
+            "state": "Georgia"
+          },
+          "place_raw": "Georgia, USA",
+          "sources": [],
+          "year": 1805
+        },
+        "death": {
+          "date": null,
+          "date_note": null,
+          "note": "Died after 1850; exact date unknown per dossier.",
+          "place": {
+            "country": "USA",
+            "county": null,
+            "note": null,
+            "place": null,
+            "place_raw": null,
+            "state": null
+          },
+          "place_raw": "Mississippi, USA",
+          "sources": [],
+          "year": null
+        }
+      },
+      "gender": null,
+      "id": "P00033",
+      "life_span": {
+        "approx_birth": true,
+        "approx_death": true,
+        "birth_year": null,
+        "death_year": null
+      },
+      "notes": [
+        {
+          "date_utc": null,
+          "text": "Child of Edmond Deens Sr. by first wife (unnamed) per dossier.",
+          "type": null
+        },
+        {
+          "date_utc": null,
+          "text": "THREAD_EXPECTED_CHILDREN (unresolved PIDs): Nathaniel P.; Edmond; Isaac F.; Hilliard J.; James; Garrison; 5 daughters",
+          "type": null
+        },
+        {
+          "date_utc": null,
+          "text": "Restored relationships.spouses link to P00081 from legacy dict in TREE_Master_v043 (status: None).",
+          "type": null
+        }
+      ],
+      "primary_name": {
+        "display": "Hilliard Judge Dean",
+        "given": "Hilliard",
+        "suffix": "",
+        "surname": "Dean"
+      },
+      "relationships": {
+        "children": [],
+        "parents": [
+          "P00002",
+          "P00031"
+        ],
+        "spouses": [
+          {
+            "spouse_id": "P00081"
+          }
+        ]
+      },
+      "sources": [
+        {
+          "date_accessed_utc": "2025-12-11",
+          "note": "Child of Edmond Deens Sr. by first wife (unnamed) per dossier.",
+          "title": "Edmond_Deens_Sr.pdf",
+          "type": "dossier"
+        },
+        {
+          "date_accessed_utc": "2025-12-11",
+          "note": "Child bio details and sibling set context.",
+          "title": "Children_of_Edmond_Sr_Dossier.pdf",
+          "type": "dossier"
+        },
+        {
+          "date_accessed_utc": "2025-12-11",
+          "note": "Lifespan and census continuity; Y-DNA context (not yet wired).",
+          "title": "Hilliard_Judge_Dean.pdf",
+          "type": "dossier"
+        }
+      ],
+      "status": {
+        "confidence": 0.75,
+        "notes": "",
+        "on_naughty_list": false,
+        "research_status": "working",
+        "ydna_subject_id": null
+      },
+      "tags": [
+        "Edmond Sr line"
+      ]
+    },
+    "P00034": {
+      "alt_names": [
+        {
+          "type": "aka",
+          "value": "Garrason Dean"
+        },
+        {
+          "type": "aka",
+          "value": "Garretson Dean"
+        }
+      ],
+      "branching": {
+        "cluster_tags": [],
+        "major_line": null,
+        "sub_line": null
+      },
+      "events": {
+        "birth": {
+          "date": null,
+          "date_note": "year_only",
+          "note": "Born ca. 1807 per Garrison dossier.",
+          "place": {
+            "country": "USA",
+            "county": null,
+            "note": null,
+            "place": null,
+            "place_raw": "Georgia, USA",
+            "state": "Georgia"
+          },
+          "place_raw": "Georgia, USA",
+          "sources": [],
+          "year": 1807
+        },
+        "death": {
+          "date": null,
+          "date_note": null,
+          "note": "Died after 1850; exact date unknown per dossier.",
+          "place": {
+            "country": "USA",
+            "county": null,
+            "note": null,
+            "place": null,
+            "place_raw": null,
+            "state": null
+          },
+          "place_raw": "Mississippi, USA",
+          "sources": [],
+          "year": null
+        }
+      },
+      "facts": [
+        {
+          "certainty": "high",
+          "date": "1807-05-09",
+          "evidence": [
+            "Family Bible entry (thread)"
+          ],
+          "fact_type": "birth_date",
+          "place": "Georgia, USA"
+        },
+        {
+          "certainty": "high",
+          "date": "1878-03-12",
+          "evidence": [
+            "Death notice (Montgomery Advertiser; thread)"
+          ],
+          "fact_type": "death_date",
+          "place": "Conecuh County, Alabama, USA"
+        }
+      ],
+      "gender": null,
+      "id": "P00034",
+      "life_span": {
+        "approx_birth": false,
+        "approx_death": false,
+        "birth_year": 1807,
+        "death_year": 1878
+      },
+      "notes": [
+        {
+          "date_utc": null,
+          "text": "Child of Edmond Deens Sr. by first wife (unnamed) per dossier.",
+          "type": null
+        },
+        {
+          "date_utc": null,
+          "text": "Death date 12 Mar 1878 (documented record; treat as absolute).",
+          "type": null
+        },
+        {
+          "date_utc": null,
+          "text": "THREAD_EXPECTED_CHILDREN (unresolved PIDs): Ellend…; Francis; Stephen; Jasper; Sermon; James N.; Frances J.",
+          "type": null
+        },
+        {
+          "date_utc": null,
+          "text": "Restored relationships.spouses link to P00084 from legacy dict in TREE_Master_v043 (status: None).",
+          "type": null
+        }
+      ],
+      "primary_name": {
+        "display": "Garrison Dean",
+        "given": "Garrison",
+        "suffix": "",
+        "surname": "Dean"
+      },
+      "relationships": {
+        "children": [],
+        "parents": [
+          "P00002",
+          "P00031"
+        ],
+        "spouses": [
+          {
+            "spouse_id": "P00084"
+          }
+        ]
+      },
+      "sources": [
+        {
+          "date_accessed_utc": "2025-12-11",
+          "note": "Child of Edmond Deens Sr. by first wife (unnamed) per dossier.",
+          "title": "Edmond_Deens_Sr.pdf",
+          "type": "dossier"
+        },
+        {
+          "date_accessed_utc": "2025-12-11",
+          "note": "Child bio details and sibling set context.",
+          "title": "Children_of_Edmond_Sr_Dossier.pdf",
+          "type": "dossier"
+        },
+        {
+          "date_accessed_utc": "2025-12-11",
+          "note": "Lifespan and census continuity.",
+          "title": "Garrison_Dean.pdf",
+          "type": "dossier"
+        }
+      ],
+      "status": {
+        "confidence": 0.7,
+        "notes": "",
+        "on_naughty_list": false,
+        "research_status": "working",
+        "ydna_subject_id": null
+      },
+      "tags": [
+        "Edmond Sr line"
+      ]
+    },
+    "P00035": {
+      "alt_names": [
+        {
+          "type": "aka",
+          "value": "Polly Dean"
+        },
+        {
+          "type": "aka",
+          "value": "Mary Polly Dean"
+        },
+        {
+          "type": "aka",
+          "value": "Mary Deen"
+        },
+        {
+          "type": "aka",
+          "value": "Mary Deens"
+        },
+        {
+          "type": "aka",
+          "value": "Mary Gilmore"
+        },
+        {
+          "type": "aka",
+          "value": "Polly Gilmore"
+        }
+      ],
+      "branching": {
+        "cluster_tags": [],
+        "major_line": null,
+        "sub_line": null
+      },
+      "events": {
+        "birth": {
+          "date": null,
+          "date_note": "year_only",
+          "note": "Born ca. 1810 per Mary Polly dossier(s).",
+          "place": {
+            "country": "USA",
+            "county": null,
+            "note": null,
+            "place": null,
+            "place_raw": "Georgia, USA",
+            "state": "Georgia"
+          },
+          "place_raw": "Georgia, USA",
+          "sources": [],
+          "year": 1810
+        },
+        "death": {
+          "date": null,
+          "date_note": null,
+          "note": "Alive after 1850; exact death unknown per dossier(s).",
+          "place": {
+            "country": "USA",
+            "county": null,
+            "note": null,
+            "place": null,
+            "place_raw": null,
+            "state": null
+          },
+          "place_raw": "Mississippi, USA",
+          "sources": [],
+          "year": null
+        }
+      },
+      "facts": [
+        {
+          "certainty": "high",
+          "date": "1810-02-11",
+          "evidence": [
+            "Family Bible entry (thread)"
+          ],
+          "fact_type": "birth_date",
+          "place": "(unspecified)"
+        },
+        {
+          "certainty": "low",
+          "date_range": {
+            "end": null,
+            "start": "1860-01-01"
+          },
+          "evidence": [
+            "Census/household context (thread)"
+          ],
+          "fact_type": "death_bound_after",
+          "place": "(unspecified)"
+        }
+      ],
+      "gender": null,
+      "id": "P00035",
+      "life_span": {
+        "approx_birth": false,
+        "approx_death": true,
+        "birth_year": 1810,
+        "death_year": null
+      },
+      "notes": [
+        {
+          "date_utc": null,
+          "text": "Child of Edmond Deens Sr. by first wife (unnamed) per dossier; distinct from Polly (child of Jeremiah).",
+          "type": null
+        },
+        {
+          "date_utc": null,
+          "text": "Do not conflate with Mary ‘Polly’ Deens (P00018), wife of Solomon Gilmore.",
+          "type": null
+        }
+      ],
+      "primary_name": {
+        "display": "Mary \"Polly\" Dean",
+        "given": "Mary",
+        "suffix": "",
+        "surname": "Dean"
+      },
+      "relationships": {
+        "children": [
+          "P00074",
+          "P00075",
+          "P00076",
+          "P00077",
+          "P00078"
+        ],
+        "parents": [
+          "P00002",
+          "P00031"
+        ],
+        "spouses": [
+          {
+            "spouse_id": "P00073"
+          }
+        ]
+      },
+      "sources": [
+        {
+          "date_accessed_utc": "2025-12-11",
+          "note": "Child of Edmond Deens Sr. by first wife (unnamed) per dossier; distinct from Polly (child of Jeremiah).",
+          "title": "Edmond_Deens_Sr.pdf",
+          "type": "dossier"
+        },
+        {
+          "date_accessed_utc": "2025-12-11",
+          "note": "Child bio details and sibling set context.",
+          "title": "Children_of_Edmond_Sr_Dossier.pdf",
+          "type": "dossier"
+        },
+        {
+          "date_accessed_utc": "2025-12-11",
+          "note": "Marriage to Solomon Gilmore; children list.",
+          "title": "Mary_Polly_Dean_Gilmore.pdf",
+          "type": "dossier"
+        },
+        {
+          "date_accessed_utc": "2025-12-11",
+          "note": "Expanded dossier; marriage window ca. 1828–1835.",
+          "title": "Mary_Dean_Daughter_of_Edmond_Sr.pdf",
+          "type": "dossier"
+        }
+      ],
+      "status": {
+        "confidence": 0.8,
+        "notes": "",
+        "on_naughty_list": false,
+        "research_status": "working",
+        "ydna_subject_id": null
+      },
+      "tags": [
+        "Edmond Sr line"
+      ]
+    },
+    "P00036": {
+      "alt_names": [
+        {
+          "type": "aka",
+          "value": "Nathaniel P. Dean"
+        },
+        {
+          "type": "aka",
+          "value": "Nathaniel Pierce Dean"
+        },
+        {
+          "type": "aka",
+          "value": "Nathaniel Peirce Dean"
+        }
+      ],
+      "branching": {
+        "cluster_tags": [],
+        "major_line": null,
+        "sub_line": null
+      },
+      "events": {
+        "birth": {
+          "date": null,
+          "date_note": "year_only",
+          "note": "Born ca. 1815 per Nathaniel Pearce dossier.",
+          "place": {
+            "country": "USA",
+            "county": null,
+            "note": null,
+            "place": null,
+            "place_raw": "Georgia, USA",
+            "state": "Georgia"
+          },
+          "place_raw": "Georgia, USA",
+          "sources": [],
+          "year": 1815
+        },
+        "death": {
+          "date": null,
+          "date_note": "year_only",
+          "note": "Died between 1866–1870; no probate located per dossier.",
+          "place": {
+            "country": "USA",
+            "county": null,
+            "note": null,
+            "place": null,
+            "place_raw": null,
+            "state": null
+          },
+          "place_raw": "Mississippi, USA",
+          "sources": [],
+          "year": 1868
+        }
+      },
+      "facts": [
+        {
+          "certainty": "high",
+          "date_range": {
+            "end": null,
+            "start": "1879-01-24"
+          },
+          "evidence": [
+            "Alive after date in records (thread)"
+          ],
+          "fact_type": "death_bound_after",
+          "place": "(unspecified)"
+        }
+      ],
+      "gender": null,
+      "id": "P00036",
+      "life_span": {
+        "approx_birth": true,
+        "approx_death": true,
+        "birth_year": null,
+        "death_year": null
+      },
+      "notes": [
+        {
+          "date_utc": null,
+          "text": "Child of Edmond Deens Sr. by first wife (unnamed) per dossier.",
+          "type": null
+        },
+        {
+          "date_utc": null,
+          "text": "Death terminus post quem: alive as of deed dated 1879 (proof-of-life).",
+          "type": null
+        },
+        {
+          "date_utc": null,
+          "text": "Restored relationships.spouses link to P00085 from legacy dict in TREE_Master_v043 (status: None).",
+          "type": null
+        },
+        {
+          "date_utc": null,
+          "text": "Restored relationships.spouses link to P00086 from legacy dict in TREE_Master_v043 (status: None).",
+          "type": null
+        }
+      ],
+      "primary_name": {
+        "display": "Nathaniel Pearce Dean",
+        "given": "Nathaniel",
+        "suffix": "",
+        "surname": "Dean"
+      },
+      "relationships": {
+        "children": [],
+        "parents": [
+          "P00002",
+          "P00031"
+        ],
+        "spouses": [
+          {
+            "spouse_id": "P00085"
+          },
+          {
+            "spouse_id": "P00086"
+          }
+        ]
+      },
+      "sources": [
+        {
+          "date_accessed_utc": "2025-12-11",
+          "note": "Child of Edmond Deens Sr. by first wife (unnamed) per dossier.",
+          "title": "Edmond_Deens_Sr.pdf",
+          "type": "dossier"
+        },
+        {
+          "date_accessed_utc": "2025-12-11",
+          "note": "Child bio details and sibling set context.",
+          "title": "Children_of_Edmond_Sr_Dossier.pdf",
+          "type": "dossier"
+        },
+        {
+          "date_accessed_utc": "2025-12-11",
+          "note": "Lifespan and disappearance window.",
+          "title": "Nathaniel_Pearce_Dean.pdf",
+          "type": "dossier"
+        }
+      ],
+      "status": {
+        "confidence": 0.8,
+        "notes": "",
+        "on_naughty_list": false,
+        "research_status": "working",
+        "ydna_subject_id": null
+      },
+      "tags": [
+        "Edmond Sr line"
+      ]
+    },
+    "P00037": {
+      "alt_names": [
+        {
+          "type": "aka",
+          "value": "Edmond Dean Jr."
+        },
+        {
+          "type": "aka",
+          "value": "Edmond Jr."
+        }
+      ],
+      "branching": {
+        "cluster_tags": [],
+        "major_line": null,
+        "sub_line": null
+      },
+      "events": {
+        "birth": {
+          "date": null,
+          "date_note": "year_only",
+          "note": "Born ca. 1819 per Edmond Dean Jr dossier.",
+          "place": {
+            "country": "USA",
+            "county": null,
+            "note": null,
+            "place": null,
+            "place_raw": "Alabama, USA",
+            "state": "Alabama"
+          },
+          "place_raw": "Conecuh County, Alabama, USA",
+          "sources": [],
+          "year": 1819
+        },
+        "death": {
+          "date": null,
+          "date_note": null,
+          "note": "Alive in 1850 census; no confirmed records after 1850 per dossier.",
+          "place": {
+            "country": "USA",
+            "county": null,
+            "note": null,
+            "place": null,
+            "place_raw": null,
+            "state": null
+          },
+          "place_raw": "Mississippi, USA",
+          "sources": [],
+          "year": null
+        }
+      },
+      "facts": [
+        {
+          "certainty": "high",
+          "date": "1819-05-10",
+          "evidence": [
+            "Family Bible entry (thread)"
+          ],
+          "fact_type": "birth_date",
+          "place": "Alabama, USA"
+        },
+        {
+          "certainty": "high",
+          "date": "1897-01-21",
+          "evidence": [
+            "Death record (thread)"
+          ],
+          "fact_type": "death_date",
+          "place": "Newton County, Mississippi, USA"
+        }
+      ],
+      "gender": null,
+      "id": "P00037",
+      "life_span": {
+        "approx_birth": false,
+        "approx_death": false,
+        "birth_year": 1819,
+        "death_year": 1897
+      },
+      "notes": [
+        {
+          "date_utc": null,
+          "text": "Child of Edmond Deens Sr. by first wife (unnamed) per dossier.",
+          "type": null
+        }
+      ],
+      "primary_name": {
+        "display": "Edmund Dean Jr.",
+        "given": "Edmund",
+        "suffix": "",
+        "surname": "Dean"
+      },
+      "relationships": {
+        "children": [],
+        "parents": [
+          "P00002",
+          "P00031"
+        ],
+        "spouses": []
+      },
+      "sources": [
+        {
+          "date_accessed_utc": "2025-12-11",
+          "note": "Child of Edmond Deens Sr. by first wife (unnamed) per dossier.",
+          "title": "Edmond_Deens_Sr.pdf",
+          "type": "dossier"
+        },
+        {
+          "date_accessed_utc": "2025-12-11",
+          "note": "Child bio details and sibling set context.",
+          "title": "Children_of_Edmond_Sr_Dossier.pdf",
+          "type": "dossier"
+        },
+        {
+          "date_accessed_utc": "2025-12-11",
+          "note": "Lifespan and census continuity.",
+          "title": "Edmond_Dean_Jr.pdf",
+          "type": "dossier"
+        }
+      ],
+      "status": {
+        "confidence": 0.7,
+        "notes": "",
+        "on_naughty_list": false,
+        "research_status": "working",
+        "ydna_subject_id": null
+      },
+      "tags": [
+        "Edmond Sr line"
+      ]
+    },
+    "P00038": {
+      "alt_names": [],
+      "branching": {
+        "cluster_tags": [
+          "NC Bunch"
+        ],
+        "major_line": "Turkey Creek cluster",
+        "sub_line": "Parallel older-generation"
+      },
+      "events": {},
+      "gender": "M",
+      "id": "P00038",
+      "life_span": {
+        "approx_birth": true,
+        "approx_death": true,
+        "birth_year": null,
+        "death_year": null
+      },
+      "notes": [
+        {
+          "date_utc": null,
+          "text": "Early adult male in Edgecombe/Nash Turkey Creek / Tar River Deens cluster; not genealogically assigned per dossier.",
+          "type": null
+        },
+        {
+          "date_utc": null,
+          "text": "User confirmed 1797 Nash County will belongs to Thomas Deens (the Elder), not Jeremiah's son.",
+          "type": null
+        },
+        {
+          "date_utc": null,
+          "text": "Removed non-string relationships.children entry: {\"person_id\": \"P00053\", \"status\": \"stated_in_will_1797\"}",
+          "type": null
+        },
+        {
+          "date_utc": null,
+          "text": "Removed non-string relationships.children entry: {\"person_id\": \"P00054\", \"status\": \"stated_in_will_1797\"}",
+          "type": null
+        },
+        {
+          "date_utc": null,
+          "text": "Removed non-string relationships.children entry: {\"person_id\": \"P00055\", \"status\": \"stated_in_will_1797\"}",
+          "type": null
+        },
+        {
+          "date_utc": null,
+          "text": "Restored relationships.children link to P00053 from legacy dict in TREE_Master_v043 (status: stated_in_will_1797).",
+          "type": "legacy_relationship_status"
+        },
+        {
+          "date_utc": null,
+          "text": "Restored relationships.children link to P00054 from legacy dict in TREE_Master_v043 (status: stated_in_will_1797).",
+          "type": "legacy_relationship_status"
+        },
+        {
+          "date_utc": null,
+          "text": "Restored relationships.children link to P00055 from legacy dict in TREE_Master_v043 (status: stated_in_will_1797).",
+          "type": "legacy_relationship_status"
+        },
+        {
+          "date_utc": null,
+          "text": "Restored relationships.spouses link to P00052 from legacy dict in TREE_Master_v043 (status: stated_in_will_1797).",
+          "type": "legacy_relationship_status"
+        }
+      ],
+      "primary_name": {
+        "display": "Thomas Deens (the Elder)",
+        "given": "Thomas",
+        "suffix": "",
+        "surname": "Deens"
+      },
+      "relationships": {
+        "children": [
+          "P00053",
+          "P00054",
+          "P00055"
+        ],
+        "parents": [],
+        "spouses": [
+          {
+            "spouse_id": "P00052"
+          }
+        ]
+      },
+      "sources": [
+        {
+          "date_accessed_utc": "2025-12-11",
+          "note": "Thomas the Elder dossier; cluster placement high, genealogical assignment low; no wife/children/probate.",
+          "title": "Thomas_Elder.pdf",
+          "type": "dossier"
+        }
+      ],
+      "status": {
+        "confidence": 0.6,
+        "notes": "",
+        "on_naughty_list": false,
+        "research_status": "working",
+        "ydna_subject_id": null
+      },
+      "tags": [
+        "North Carolina",
+        "Edgecombe County",
+        "Nash County",
+        "Turkey Creek cluster"
+      ]
+    },
+    "P00039": {
+      "alt_names": [],
+      "branching": {
+        "cluster_tags": [],
+        "major_line": null,
+        "sub_line": null
+      },
+      "events": {
+        "birth": {
+          "date": null,
+          "date_note": null,
+          "note": "",
+          "place_raw": null,
+          "place_struct": {
+            "country": null,
+            "county": null,
+            "place": null,
+            "state": null
+          },
+          "year": null
+        },
+        "death": {
+          "date": null,
+          "date_note": null,
+          "note": "",
+          "place_raw": null,
+          "place_struct": {
+            "country": null,
+            "county": null,
+            "place": null,
+            "state": null
+          },
+          "year": null
+        }
+      },
+      "gender": "M",
+      "id": "P00039",
+      "life_span": {
+        "approx_birth": true,
+        "approx_death": true,
+        "birth_year": null,
+        "death_year": null
+      },
+      "notes": [
+        {
+          "date_utc": null,
+          "text": "Spouse union with Mary ‘Polly’ Deens (P00018) documented by 1806 Jackson Co., GA marriage record. (Polly split remediation.)",
+          "type": null
+        },
+        {
+          "date_utc": null,
+          "text": "Later remarriage record and later household composition create an unresolved conflict; do not infer divorce or bigamy without record.",
+          "type": null
+        }
+      ],
+      "primary_name": {
+        "display": "Solomon Gilmore",
+        "given": "Solomon",
+        "suffix": "",
+        "surname": "Gilmore"
+      },
+      "relationships": {
+        "children": [
+          "P00040",
+          "P00041",
+          "P00042",
+          "P00043",
+          "P00044"
+        ],
+        "parents": [],
+        "spouses": [
+          {
+            "spouse_id": "P00018"
+          }
+        ]
+      },
+      "sources": [
+        {
+          "date_accessed_utc": "2025-12-11",
+          "note": "Husband of Mary “Polly” Dean per dossier.",
+          "title": "Mary_Polly_Dean_Gilmore.pdf",
+          "type": "dossier"
+        }
+      ],
+      "status": {
+        "confidence": 0.4,
+        "notes": "",
+        "on_naughty_list": false,
+        "research_status": "working",
+        "ydna_subject_id": null
+      },
+      "tags": [
+        "Gilmore"
+      ]
+    },
+    "P00040": {
+      "alt_names": [],
+      "branching": {
+        "cluster_tags": [],
+        "major_line": null,
+        "sub_line": null
+      },
+      "events": {
+        "birth": {
+          "date": null,
+          "date_note": null,
+          "note": "",
+          "place_raw": null,
+          "place_struct": {
+            "country": null,
+            "county": null,
+            "place": null,
+            "state": null
+          },
+          "year": null
+        },
+        "death": {
+          "date": null,
+          "date_note": null,
+          "note": "",
+          "place_raw": null,
+          "place_struct": {
+            "country": null,
+            "county": null,
+            "place": null,
+            "state": null
+          },
+          "year": null
+        }
+      },
+      "gender": null,
+      "id": "P00040",
+      "life_span": {
+        "approx_birth": true,
+        "approx_death": true,
+        "birth_year": null,
+        "death_year": null
+      },
+      "notes": [
+        {
+          "date_utc": null,
+          "text": "Child of Solomon Gilmore (P00039) and Mary ‘Polly’ Deens (P00018). (Polly split remediation.)",
+          "type": null
+        }
+      ],
+      "primary_name": {
+        "display": "Lucretia Gilmore",
+        "given": "Lucretia",
+        "suffix": "",
+        "surname": "Gilmore"
+      },
+      "relationships": {
+        "children": [],
+        "parents": [
+          "P00018",
+          "P00039"
+        ],
+        "spouses": []
+      },
+      "sources": [
+        {
+          "date_accessed_utc": "2025-12-11",
+          "note": "Child of Mary “Polly” Dean Gilmore per dossier.",
+          "title": "Mary_Polly_Dean_Gilmore.pdf",
+          "type": "dossier"
+        }
+      ],
+      "status": {
+        "confidence": 0.4,
+        "notes": "",
+        "on_naughty_list": false,
+        "research_status": "working",
+        "ydna_subject_id": null
+      },
+      "tags": [
+        "Gilmore"
+      ]
+    },
+    "P00041": {
+      "alt_names": [],
+      "branching": {
+        "cluster_tags": [],
+        "major_line": null,
+        "sub_line": null
+      },
+      "events": {
+        "birth": {
+          "date": null,
+          "date_note": null,
+          "note": "",
+          "place_raw": null,
+          "place_struct": {
+            "country": null,
+            "county": null,
+            "place": null,
+            "state": null
+          },
+          "year": null
+        },
+        "death": {
+          "date": null,
+          "date_note": null,
+          "note": "",
+          "place_raw": null,
+          "place_struct": {
+            "country": null,
+            "county": null,
+            "place": null,
+            "state": null
+          },
+          "year": null
+        }
+      },
+      "gender": null,
+      "id": "P00041",
+      "life_span": {
+        "approx_birth": true,
+        "approx_death": true,
+        "birth_year": null,
+        "death_year": null
+      },
+      "notes": [
+        {
+          "date_utc": null,
+          "text": "Child of Solomon Gilmore (P00039) and Mary ‘Polly’ Deens (P00018). (Polly split remediation.)",
+          "type": null
+        }
+      ],
+      "primary_name": {
+        "display": "Stephen Gilmore",
+        "given": "Stephen",
+        "suffix": "",
+        "surname": "Gilmore"
+      },
+      "relationships": {
+        "children": [],
+        "parents": [
+          "P00018",
+          "P00039"
+        ],
+        "spouses": []
+      },
+      "sources": [
+        {
+          "date_accessed_utc": "2025-12-11",
+          "note": "Child of Mary “Polly” Dean Gilmore per dossier.",
+          "title": "Mary_Polly_Dean_Gilmore.pdf",
+          "type": "dossier"
+        }
+      ],
+      "status": {
+        "confidence": 0.4,
+        "notes": "",
+        "on_naughty_list": false,
+        "research_status": "working",
+        "ydna_subject_id": null
+      },
+      "tags": [
+        "Gilmore"
+      ]
+    },
+    "P00042": {
+      "alt_names": [],
+      "branching": {
+        "cluster_tags": [],
+        "major_line": null,
+        "sub_line": null
+      },
+      "events": {
+        "birth": {
+          "date": null,
+          "date_note": null,
+          "note": "",
+          "place_raw": null,
+          "place_struct": {
+            "country": null,
+            "county": null,
+            "place": null,
+            "state": null
+          },
+          "year": null
+        },
+        "death": {
+          "date": null,
+          "date_note": null,
+          "note": "",
+          "place_raw": null,
+          "place_struct": {
+            "country": null,
+            "county": null,
+            "place": null,
+            "state": null
+          },
+          "year": null
+        }
+      },
+      "gender": null,
+      "id": "P00042",
+      "life_span": {
+        "approx_birth": true,
+        "approx_death": true,
+        "birth_year": null,
+        "death_year": null
+      },
+      "notes": [
+        {
+          "date_utc": null,
+          "text": "Child of Solomon Gilmore (P00039) and Mary ‘Polly’ Deens (P00018). (Polly split remediation.)",
+          "type": null
+        }
+      ],
+      "primary_name": {
+        "display": "James Russell Gilmore",
+        "given": "James Russell",
+        "suffix": "",
+        "surname": "Gilmore"
+      },
+      "relationships": {
+        "children": [],
+        "parents": [
+          "P00018",
+          "P00039"
+        ],
+        "spouses": []
+      },
+      "sources": [
+        {
+          "date_accessed_utc": "2025-12-11",
+          "note": "Child of Mary “Polly” Dean Gilmore per dossier.",
+          "title": "Mary_Polly_Dean_Gilmore.pdf",
+          "type": "dossier"
+        }
+      ],
+      "status": {
+        "confidence": 0.4,
+        "notes": "",
+        "on_naughty_list": false,
+        "research_status": "working",
+        "ydna_subject_id": null
+      },
+      "tags": [
+        "Gilmore"
+      ]
+    },
+    "P00043": {
+      "alt_names": [],
+      "branching": {
+        "cluster_tags": [],
+        "major_line": null,
+        "sub_line": null
+      },
+      "events": {
+        "birth": {
+          "date": null,
+          "date_note": null,
+          "note": "",
+          "place_raw": null,
+          "place_struct": {
+            "country": null,
+            "county": null,
+            "place": null,
+            "state": null
+          },
+          "year": null
+        },
+        "death": {
+          "date": null,
+          "date_note": null,
+          "note": "",
+          "place_raw": null,
+          "place_struct": {
+            "country": null,
+            "county": null,
+            "place": null,
+            "state": null
+          },
+          "year": null
+        }
+      },
+      "gender": null,
+      "id": "P00043",
+      "life_span": {
+        "approx_birth": true,
+        "approx_death": true,
+        "birth_year": null,
+        "death_year": null
+      },
+      "notes": [
+        {
+          "date_utc": null,
+          "text": "Child of Solomon Gilmore (P00039) and Mary ‘Polly’ Deens (P00018). (Polly split remediation.)",
+          "type": null
+        }
+      ],
+      "primary_name": {
+        "display": "Robert W. Gilmore",
+        "given": "Robert W.",
+        "suffix": "",
+        "surname": "Gilmore"
+      },
+      "relationships": {
+        "children": [],
+        "parents": [
+          "P00018",
+          "P00039"
+        ],
+        "spouses": []
+      },
+      "sources": [
+        {
+          "date_accessed_utc": "2025-12-11",
+          "note": "Child of Mary “Polly” Dean Gilmore per dossier.",
+          "title": "Mary_Polly_Dean_Gilmore.pdf",
+          "type": "dossier"
+        }
+      ],
+      "status": {
+        "confidence": 0.4,
+        "notes": "",
+        "on_naughty_list": false,
+        "research_status": "working",
+        "ydna_subject_id": null
+      },
+      "tags": [
+        "Gilmore"
+      ]
+    },
+    "P00044": {
+      "alt_names": [],
+      "branching": {
+        "cluster_tags": [],
+        "major_line": null,
+        "sub_line": null
+      },
+      "events": {
+        "birth": {
+          "date": null,
+          "date_note": null,
+          "note": "",
+          "place_raw": null,
+          "place_struct": {
+            "country": null,
+            "county": null,
+            "place": null,
+            "state": null
+          },
+          "year": null
+        },
+        "death": {
+          "date": null,
+          "date_note": null,
+          "note": "",
+          "place_raw": null,
+          "place_struct": {
+            "country": null,
+            "county": null,
+            "place": null,
+            "state": null
+          },
+          "year": null
+        }
+      },
+      "gender": null,
+      "id": "P00044",
+      "life_span": {
+        "approx_birth": true,
+        "approx_death": true,
+        "birth_year": null,
+        "death_year": null
+      },
+      "notes": [
+        {
+          "date_utc": null,
+          "text": "Child of Solomon Gilmore (P00039) and Mary ‘Polly’ Deens (P00018). (Polly split remediation.)",
+          "type": null
+        }
+      ],
+      "primary_name": {
+        "display": "Matthew Gilmore",
+        "given": "Matthew",
+        "suffix": "",
+        "surname": "Gilmore"
+      },
+      "relationships": {
+        "children": [],
+        "parents": [
+          "P00018",
+          "P00039"
+        ],
+        "spouses": []
+      },
+      "sources": [
+        {
+          "date_accessed_utc": "2025-12-11",
+          "note": "Child of Mary “Polly” Dean Gilmore per dossier.",
+          "title": "Mary_Polly_Dean_Gilmore.pdf",
+          "type": "dossier"
+        }
+      ],
+      "status": {
+        "confidence": 0.4,
+        "notes": "",
+        "on_naughty_list": false,
+        "research_status": "working",
+        "ydna_subject_id": null
+      },
+      "tags": [
+        "Gilmore"
+      ]
+    },
+    "P00045": {
+      "alt_names": [],
+      "branching": {
+        "major_line": null,
+        "sub_line": null,
+        "tags": []
+      },
+      "gender": "M",
+      "id": "P00045",
+      "life_span": {
+        "birth": {
+          "date": null,
+          "date_note": "approx",
+          "place": {
+            "country": "USA",
+            "county": null,
+            "note": null,
+            "place": null,
+            "place_raw": "Edgecombe/Granville area, North Carolina, USA",
+            "state": "North Carolina"
+          },
+          "year": 1730
+        },
+        "death": {
+          "date": null,
+          "date_note": "unknown",
+          "place": {
+            "country": null,
+            "county": null,
+            "note": null,
+            "place": null,
+            "place_raw": null,
+            "state": null
+          },
+          "year": null
+        }
+      },
+      "notes": [
+        {
+          "date_utc": null,
+          "text": "Father of Mary “Molley” Taylor per archival dossier; no other children confirmed.",
+          "type": null
+        }
+      ],
+      "primary_name": {
+        "display": "Arthur Taylor",
+        "given": "Arthur",
+        "suffix": "",
+        "surname": "Taylor"
+      },
+      "relationships": {
+        "children": [
+          "P00009"
+        ],
+        "parents": [],
+        "spouses": []
+      },
+      "sources": [
+        {
+          "citation": "Arthur_Taylor.pdf",
+          "type": "dossier"
+        }
+      ],
+      "status": {
+        "confidence": 0.7,
+        "notes": "",
+        "on_naughty_list": false,
+        "research_status": "working",
+        "ydna_subject_id": null
+      },
+      "tags": []
+    },
+    "P00047": {
+      "alt_names": [],
+      "branching": {
+        "major_line": null,
+        "sub_line": null,
+        "tags": []
+      },
+      "gender": "M",
+      "id": "P00047",
+      "life_span": {
+        "birth": {
+          "date": null,
+          "date_note": "unknown",
+          "place": {
+            "country": null,
+            "county": null,
+            "note": null,
+            "place": null,
+            "place_raw": null,
+            "state": null
+          },
+          "year": null
+        },
+        "death": {
+          "date": null,
+          "date_note": "unknown",
+          "place": {
+            "country": null,
+            "county": null,
+            "note": null,
+            "place": null,
+            "place_raw": null,
+            "state": null
+          },
+          "year": null
+        }
+      },
+      "notes": [
+        {
+          "date_utc": null,
+          "text": "Spouse of Lucretia Dean per dossier.",
+          "type": null
+        },
+        {
+          "date_utc": null,
+          "text": "Restored relationships.spouses link to P00017 from legacy dict in TREE_Master_v043 (status: None).",
+          "type": null
+        }
+      ],
+      "primary_name": {
+        "display": "Nathan Sermon",
+        "given": "Nathan",
+        "suffix": "",
+        "surname": "Sermon"
+      },
+      "relationships": {
+        "children": [],
+        "parents": [],
+        "spouses": [
+          {
+            "spouse_id": "P00017"
+          }
+        ]
+      },
+      "sources": [
+        {
+          "citation": "Lucretia_Dean.pdf",
+          "type": "dossier"
+        }
+      ],
+      "status": {
+        "confidence": 0.6,
+        "notes": "",
+        "on_naughty_list": false,
+        "research_status": "working",
+        "ydna_subject_id": null
+      },
+      "tags": []
+    },
+    "P00048": {
+      "alt_names": [],
+      "branching": {
+        "cluster_tags": [
+          "Pridgeon"
+        ],
+        "major_line": null,
+        "sub_line": null
+      },
+      "events": {
+        "birth": {
+          "date": null,
+          "date_note": null,
+          "note": "",
+          "place": {
+            "country": null,
+            "county": null,
+            "note": "",
+            "place": null,
+            "place_raw": null,
+            "state": null
+          },
+          "sources": []
+        },
+        "death": {
+          "date": null,
+          "date_note": null,
+          "note": "",
+          "place": {
+            "country": null,
+            "county": null,
+            "note": "",
+            "place": null,
+            "place_raw": null,
+            "state": null
+          },
+          "sources": []
+        }
+      },
+      "gender": "M",
+      "id": "P00048",
+      "life_span": {
+        "approx_birth": true,
+        "approx_death": true,
+        "birth_year": null,
+        "death_year": null
+      },
+      "notes": [
+        {
+          "date_utc": null,
+          "text": "Father of Sophia Waller Pridgeon; mother not identified in dossier summary.",
+          "type": null
+        }
+      ],
+      "primary_name": {
+        "display": "William Pridgeon",
+        "given": "William",
+        "suffix": "",
+        "surname": "Pridgeon"
+      },
+      "relationships": {
+        "children": [
+          "P00003"
+        ],
+        "parents": [],
+        "spouses": []
+      },
+      "sources": [
+        {
+          "date_accessed_utc": "2025-12-11",
+          "note": "Identified as Sophia's father in dossier summary.",
+          "title": "Sophia_Waller_Pridgeon_Doles_Dean_Ralph.pdf",
+          "type": "dossier"
+        }
+      ],
+      "status": {
+        "confidence": 0.6,
+        "notes": "Stub created from Sophia dossier; mother unknown.",
+        "on_naughty_list": false,
+        "research_status": "working",
+        "ydna_subject_id": null
+      },
+      "tags": [
+        "Pridgeon"
+      ]
+    },
+    "P00049": {
+      "alt_names": [],
+      "branching": {
+        "cluster_tags": [
+          "NC Bunch"
+        ],
+        "major_line": "FAN/Collateral",
+        "sub_line": "Nash County context"
+      },
+      "events": {},
+      "gender": "M",
+      "id": "P00049",
+      "life_span": {
+        "approx_birth": true,
+        "approx_death": true,
+        "birth_year": null,
+        "death_year": null
+      },
+      "notes": [
+        {
+          "date_utc": null,
+          "text": "Added from timeline context; details pending full transcription and/or primary images.",
+          "type": null
+        }
+      ],
+      "primary_name": {
+        "display": "Cornelius Taylor",
+        "given": "Cornelius",
+        "suffix": "",
+        "surname": "Taylor"
+      },
+      "relationships": {
+        "children": [],
+        "parents": [],
+        "spouses": []
+      },
+      "sources": [],
+      "status": {
+        "confidence": 0.2,
+        "notes": "",
+        "on_naughty_list": false,
+        "research_status": "working",
+        "ydna_subject_id": null
+      },
+      "tags": [
+        "Nash County",
+        "North Carolina"
+      ]
+    },
+    "P00050": {
+      "alt_names": [
+        {
+          "display": "Winnie Dyson"
+        }
+      ],
+      "branching": {
+        "cluster_tags": [
+          "NC Bunch"
+        ],
+        "major_line": "FAN/Collateral",
+        "sub_line": "Nash County context"
+      },
+      "events": {},
+      "gender": "F",
+      "id": "P00050",
+      "life_span": {
+        "approx_birth": true,
+        "approx_death": true,
+        "birth_year": null,
+        "death_year": null
+      },
+      "notes": [
+        {
+          "date_utc": null,
+          "text": "Added from timeline context; details pending full transcription and/or primary images.",
+          "type": null
+        }
+      ],
+      "primary_name": {
+        "display": "Winifred Dyson",
+        "given": "Winifred",
+        "suffix": "",
+        "surname": "Dyson"
+      },
+      "relationships": {
+        "children": [],
+        "parents": [],
+        "spouses": []
+      },
+      "sources": [],
+      "status": {
+        "confidence": 0.2,
+        "notes": "",
+        "on_naughty_list": false,
+        "research_status": "working",
+        "ydna_subject_id": null
+      },
+      "tags": [
+        "Nash County",
+        "North Carolina"
+      ]
+    },
+    "P00051": {
+      "alt_names": [
+        {
+          "display": "Wm. Hall"
+        },
+        {
+          "display": "Wm Hall"
+        }
+      ],
+      "branching": {
+        "cluster_tags": [
+          "NC Bunch"
+        ],
+        "major_line": "FAN/Collateral",
+        "sub_line": "Nash County context"
+      },
+      "events": {},
+      "gender": "M",
+      "id": "P00051",
+      "life_span": {
+        "approx_birth": true,
+        "approx_death": true,
+        "birth_year": null,
+        "death_year": null
+      },
+      "notes": [
+        {
+          "date_utc": null,
+          "text": "Added from timeline context; details pending full transcription and/or primary images.",
+          "type": null
+        }
+      ],
+      "primary_name": {
+        "display": "William Hall",
+        "given": "William",
+        "suffix": "",
+        "surname": "Hall"
+      },
+      "relationships": {
+        "children": [],
+        "parents": [],
+        "spouses": []
+      },
+      "sources": [],
+      "status": {
+        "confidence": 0.2,
+        "notes": "",
+        "on_naughty_list": false,
+        "research_status": "working",
+        "ydna_subject_id": null
+      },
+      "tags": [
+        "Nash County",
+        "North Carolina"
+      ]
+    },
+    "P00052": {
+      "alt_names": [
+        {
+          "display": "Lydia Deens"
+        },
+        {
+          "display": "Lidey Deens"
+        }
+      ],
+      "branching": {
+        "cluster_tags": [
+          "NC Bunch"
+        ],
+        "major_line": "FAN/Collateral",
+        "sub_line": "Nash County context"
+      },
+      "events": {},
+      "gender": "F",
+      "id": "P00052",
+      "life_span": {
+        "approx_birth": true,
+        "approx_death": true,
+        "birth_year": null,
+        "death_year": null
+      },
+      "notes": [
+        {
+          "date_utc": null,
+          "text": "Added from timeline context; details pending full transcription and/or primary images.",
+          "type": null
+        },
+        {
+          "date_utc": null,
+          "text": "Removed non-string relationships.children entry: {\"person_id\": \"P00053\", \"status\": \"implied_mother_by_will_1797\"}",
+          "type": null
+        },
+        {
+          "date_utc": null,
+          "text": "Removed non-string relationships.children entry: {\"person_id\": \"P00054\", \"status\": \"implied_mother_by_will_1797\"}",
+          "type": null
+        },
+        {
+          "date_utc": null,
+          "text": "Removed non-string relationships.children entry: {\"person_id\": \"P00055\", \"status\": \"implied_mother_by_will_1797\"}",
+          "type": null
+        },
+        {
+          "date_utc": null,
+          "text": "Restored relationships.spouses link to P00038 from legacy dict in TREE_Master_v043 (status: stated_in_will_1797).",
+          "type": "legacy_relationship_status"
+        },
+        {
+          "date_utc": null,
+          "text": "Restored relationships.children link to P00053 from legacy dict in TREE_Master_v043 (status: implied_mother_by_will_1797).",
+          "type": "legacy_relationship_status"
+        },
+        {
+          "date_utc": null,
+          "text": "Restored relationships.children link to P00054 from legacy dict in TREE_Master_v043 (status: implied_mother_by_will_1797).",
+          "type": "legacy_relationship_status"
+        },
+        {
+          "date_utc": null,
+          "text": "Restored relationships.children link to P00055 from legacy dict in TREE_Master_v043 (status: implied_mother_by_will_1797).",
+          "type": "legacy_relationship_status"
+        }
+      ],
+      "primary_name": {
+        "display": "Lide Deens",
+        "given": "Lide",
+        "suffix": "",
+        "surname": "Deens"
+      },
+      "relationships": {
+        "children": [
+          "P00053",
+          "P00054",
+          "P00055"
+        ],
+        "parents": [],
+        "spouses": [
+          {
+            "spouse_id": "P00038"
+          }
+        ]
+      },
+      "sources": [],
+      "status": {
+        "confidence": 0.2,
+        "notes": "",
+        "on_naughty_list": false,
+        "research_status": "working",
+        "ydna_subject_id": null
+      },
+      "tags": [
+        "Nash County",
+        "North Carolina"
+      ]
+    },
+    "P00053": {
+      "alt_names": [],
+      "branching": {
+        "cluster_tags": [
+          "NC Bunch"
+        ],
+        "major_line": "FAN/Collateral",
+        "sub_line": "Nash County context"
+      },
+      "events": {},
+      "gender": "M",
+      "id": "P00053",
+      "life_span": {
+        "approx_birth": true,
+        "approx_death": true,
+        "birth_year": null,
+        "death_year": null
+      },
+      "notes": [
+        {
+          "date_utc": null,
+          "text": "Added from timeline context; details pending full transcription and/or primary images.",
+          "type": null
+        },
+        {
+          "date_utc": null,
+          "text": "Removed non-string relationships.parents entry: {\"person_id\": \"P00038\", \"status\": \"stated_in_will_1797\"}",
+          "type": null
+        },
+        {
+          "date_utc": null,
+          "text": "Removed non-string relationships.parents entry: {\"person_id\": \"P00052\", \"status\": \"implied_mother_by_will_1797\"}",
+          "type": null
+        },
+        {
+          "date_utc": null,
+          "text": "Restored relationships.parents link to P00038 from legacy dict in TREE_Master_v043 (status: stated_in_will_1797).",
+          "type": "legacy_relationship_status"
+        },
+        {
+          "date_utc": null,
+          "text": "Restored relationships.parents link to P00052 from legacy dict in TREE_Master_v043 (status: implied_mother_by_will_1797).",
+          "type": "legacy_relationship_status"
+        }
+      ],
+      "primary_name": {
+        "display": "John Deens",
+        "given": "John",
+        "suffix": "",
+        "surname": "Deens"
+      },
+      "relationships": {
+        "children": [],
+        "parents": [
+          "P00038",
+          "P00052"
+        ],
+        "spouses": []
+      },
+      "sources": [],
+      "status": {
+        "confidence": 0.2,
+        "notes": "",
+        "on_naughty_list": false,
+        "research_status": "working",
+        "ydna_subject_id": null
+      },
+      "tags": [
+        "Nash County",
+        "North Carolina"
+      ]
+    },
+    "P00054": {
+      "alt_names": [],
+      "branching": {
+        "cluster_tags": [
+          "NC Bunch"
+        ],
+        "major_line": "FAN/Collateral",
+        "sub_line": "Nash County context"
+      },
+      "events": {},
+      "gender": "M",
+      "id": "P00054",
+      "life_span": {
+        "approx_birth": true,
+        "approx_death": true,
+        "birth_year": null,
+        "death_year": null
+      },
+      "notes": [
+        {
+          "date_utc": null,
+          "text": "Added from timeline context; details pending full transcription and/or primary images.",
+          "type": null
+        },
+        {
+          "date_utc": null,
+          "text": "Removed non-string relationships.parents entry: {\"person_id\": \"P00038\", \"status\": \"stated_in_will_1797\"}",
+          "type": null
+        },
+        {
+          "date_utc": null,
+          "text": "Removed non-string relationships.parents entry: {\"person_id\": \"P00052\", \"status\": \"implied_mother_by_will_1797\"}",
+          "type": null
+        },
+        {
+          "date_utc": null,
+          "text": "Restored relationships.parents link to P00038 from legacy dict in TREE_Master_v043 (status: stated_in_will_1797).",
+          "type": "legacy_relationship_status"
+        },
+        {
+          "date_utc": null,
+          "text": "Restored relationships.parents link to P00052 from legacy dict in TREE_Master_v043 (status: implied_mother_by_will_1797).",
+          "type": "legacy_relationship_status"
+        }
+      ],
+      "primary_name": {
+        "display": "William Deens",
+        "given": "William",
+        "suffix": "",
+        "surname": "Deens"
+      },
+      "relationships": {
+        "children": [],
+        "parents": [
+          "P00038",
+          "P00052"
+        ],
+        "spouses": []
+      },
+      "sources": [],
+      "status": {
+        "confidence": 0.2,
+        "notes": "",
+        "on_naughty_list": false,
+        "research_status": "working",
+        "ydna_subject_id": null
+      },
+      "tags": [
+        "Nash County",
+        "North Carolina"
+      ]
+    },
+    "P00055": {
+      "alt_names": [],
+      "branching": {
+        "cluster_tags": [
+          "NC Bunch"
+        ],
+        "major_line": "FAN/Collateral",
+        "sub_line": "Nash County context"
+      },
+      "events": {},
+      "gender": "F",
+      "id": "P00055",
+      "life_span": {
+        "approx_birth": true,
+        "approx_death": true,
+        "birth_year": null,
+        "death_year": null
+      },
+      "notes": [
+        {
+          "date_utc": null,
+          "text": "Added from timeline context; details pending full transcription and/or primary images.",
+          "type": null
+        },
+        {
+          "date_utc": null,
+          "text": "Removed non-string relationships.parents entry: {\"person_id\": \"P00038\", \"status\": \"stated_in_will_1797\"}",
+          "type": null
+        },
+        {
+          "date_utc": null,
+          "text": "Removed non-string relationships.parents entry: {\"person_id\": \"P00052\", \"status\": \"implied_mother_by_will_1797\"}",
+          "type": null
+        },
+        {
+          "date_utc": null,
+          "text": "Restored relationships.parents link to P00038 from legacy dict in TREE_Master_v043 (status: stated_in_will_1797).",
+          "type": "legacy_relationship_status"
+        },
+        {
+          "date_utc": null,
+          "text": "Restored relationships.parents link to P00052 from legacy dict in TREE_Master_v043 (status: implied_mother_by_will_1797).",
+          "type": "legacy_relationship_status"
+        }
+      ],
+      "primary_name": {
+        "display": "Elizabeth Deens",
+        "given": "Elizabeth",
+        "suffix": "",
+        "surname": "Deens"
+      },
+      "relationships": {
+        "children": [],
+        "parents": [
+          "P00038",
+          "P00052"
+        ],
+        "spouses": []
+      },
+      "sources": [],
+      "status": {
+        "confidence": 0.2,
+        "notes": "",
+        "on_naughty_list": false,
+        "research_status": "working",
+        "ydna_subject_id": null
+      },
+      "tags": [
+        "Nash County",
+        "North Carolina"
+      ]
+    },
+    "P00056": {
+      "alt_names": [
+        {
+          "display": "William Bowens"
+        }
+      ],
+      "branching": {
+        "cluster_tags": [
+          "NC Bunch"
+        ],
+        "major_line": "FAN/Collateral",
+        "sub_line": "Nash County context"
+      },
+      "events": {},
+      "gender": "M",
+      "id": "P00056",
+      "life_span": {
+        "approx_birth": true,
+        "approx_death": true,
+        "birth_year": null,
+        "death_year": null
+      },
+      "notes": [
+        {
+          "date_utc": null,
+          "text": "Added from timeline context; details pending full transcription and/or primary images.",
+          "type": null
+        }
+      ],
+      "primary_name": {
+        "display": "William Bowers",
+        "given": "William",
+        "suffix": "",
+        "surname": "Bowers"
+      },
+      "relationships": {
+        "children": [],
+        "parents": [],
+        "spouses": []
+      },
+      "sources": [],
+      "status": {
+        "confidence": 0.2,
+        "notes": "",
+        "on_naughty_list": false,
+        "research_status": "working",
+        "ydna_subject_id": null
+      },
+      "tags": [
+        "Nash County",
+        "North Carolina"
+      ]
+    },
+    "P00057": {
+      "alt_names": [
+        {
+          "display": "Augustine Bass"
+        }
+      ],
+      "branching": {
+        "cluster_tags": [
+          "NC Bunch"
+        ],
+        "major_line": "FAN/Collateral",
+        "sub_line": "Nash County context"
+      },
+      "events": {},
+      "gender": "M",
+      "id": "P00057",
+      "life_span": {
+        "approx_birth": true,
+        "approx_death": true,
+        "birth_year": null,
+        "death_year": null
+      },
+      "notes": [
+        {
+          "date_utc": null,
+          "text": "Added from timeline context; details pending full transcription and/or primary images.",
+          "type": null
+        }
+      ],
+      "primary_name": {
+        "display": "Augustin Bass",
+        "given": "Augustin",
+        "suffix": "",
+        "surname": "Bass"
+      },
+      "relationships": {
+        "children": [],
+        "parents": [],
+        "spouses": []
+      },
+      "sources": [],
+      "status": {
+        "confidence": 0.2,
+        "notes": "",
+        "on_naughty_list": false,
+        "research_status": "working",
+        "ydna_subject_id": null
+      },
+      "tags": [
+        "Nash County",
+        "North Carolina"
+      ]
+    },
+    "P00058": {
+      "alt_names": [
+        {
+          "display": "Pussel"
+        },
+        {
+          "display": "Pussell"
+        }
+      ],
+      "branching": {
+        "cluster_tags": [
+          "NC Bunch"
+        ],
+        "major_line": "FAN/Collateral",
+        "sub_line": "Nash County context"
+      },
+      "events": {},
+      "gender": "F",
+      "id": "P00058",
+      "life_span": {
+        "approx_birth": true,
+        "approx_death": true,
+        "birth_year": null,
+        "death_year": null
+      },
+      "notes": [
+        {
+          "date_utc": null,
+          "text": "Added from timeline context; details pending full transcription and/or primary images.",
+          "type": null
+        }
+      ],
+      "primary_name": {
+        "display": "Elizabeth Pussell",
+        "given": "Elizabeth",
+        "suffix": "",
+        "surname": "Pussell"
+      },
+      "relationships": {
+        "children": [],
+        "parents": [],
+        "spouses": []
+      },
+      "sources": [],
+      "status": {
+        "confidence": 0.2,
+        "notes": "",
+        "on_naughty_list": false,
+        "research_status": "working",
+        "ydna_subject_id": null
+      },
+      "tags": [
+        "Nash County",
+        "North Carolina"
+      ]
+    },
+    "P00059": {
+      "alt_names": [
+        {
+          "display": "William Andrews Jr"
+        },
+        {
+          "display": "William Andrews Junior"
+        },
+        {
+          "display": "William Andrews, Jr."
+        }
+      ],
+      "branching": {
+        "cluster_tags": [
+          "NC Bunch"
+        ],
+        "major_line": "FAN/Collateral",
+        "sub_line": "Nash County context"
+      },
+      "events": {},
+      "gender": "M",
+      "id": "P00059",
+      "life_span": {
+        "approx_birth": true,
+        "approx_death": true,
+        "birth_year": null,
+        "death_year": null
+      },
+      "notes": [
+        {
+          "date_utc": null,
+          "text": "Added from timeline context; details pending full transcription and/or primary images.",
+          "type": null
+        }
+      ],
+      "primary_name": {
+        "display": "William Andrews Jr.",
+        "given": "William",
+        "suffix": "Jr.",
+        "surname": "Andrews"
+      },
+      "relationships": {
+        "children": [],
+        "parents": [],
+        "spouses": []
+      },
+      "sources": [],
+      "status": {
+        "confidence": 0.2,
+        "notes": "",
+        "on_naughty_list": false,
+        "research_status": "working",
+        "ydna_subject_id": null
+      },
+      "tags": [
+        "Nash County",
+        "North Carolina"
+      ]
+    },
+    "P00060": {
+      "alt_names": [],
+      "branching": {
+        "cluster_tags": [],
+        "major_line": null,
+        "sub_line": null
+      },
+      "events": {
+        "birth": {
+          "date": null,
+          "date_note": null,
+          "note": "",
+          "place": {
+            "country": null,
+            "county": null,
+            "note": null,
+            "place": null,
+            "place_raw": null,
+            "state": null
+          },
+          "sources": []
+        },
+        "death": {
+          "date": "before 1827-02-04",
+          "date_note": "terminus ante quem",
+          "note": "Inferred from Eunice Dean described as 'widow and relict of Nathaniel Dean deceased' in 1827 deed.",
+          "place": {
+            "country": null,
+            "county": null,
+            "note": null,
+            "place": null,
+            "place_raw": null,
+            "state": null
+          },
+          "sources": []
+        }
+      },
+      "gender": "M",
+      "id": "P00060",
+      "life_status": {
+        "as_of": null,
+        "is_living": false,
+        "note": null
+      },
+      "notes": [
+        {
+          "date_utc": "2025-12-15T22:00:41Z",
+          "text": "Death terminus ante quem: before 1827-02-04 (inferred from Eunice Dean widow/relict deed).",
+          "type": "death_inference"
+        },
+        {
+          "date_utc": "2025-12-20T00:00:00Z",
+          "text": "Lineage Reassessment Note — Nathaniel & Burket Dean: Based on accumulated evidence (land behavior, civic role, capital scale, migration pattern, and lack of documentary linkage), Nathaniel Dean and his son Burket Dean are treated as an independent Dean line, not descended from Edmond Dean. The cluster aligns more closely with an unrelated Dean branch originating in King George and Mecklenburg Counties, Virginia. All documentary facts remain valid; linkage withdrawn pending direct proof.",
+          "type": "lineage_reassessment"
+        }
+      ],
+      "primary_name": {
+        "display": "Nathaniel Dean",
+        "given": "Nathaniel",
+        "suffix": "",
+        "surname": "Dean"
+      },
+      "relationships": {},
+      "sources": [],
+      "status": {
+        "confidence": 0.8,
+        "notes": "",
+        "on_naughty_list": false,
+        "research_status": "working",
+        "ydna_subject_id": null
+      },
+      "tags": [
+        "GA",
+        "Jasper County",
+        "Independent line",
+        "VA Dean branch",
+        "Not Edmond/Jeremiah"
+      ]
+    },
+    "P00061": {
+      "alt_names": [
+        {
+          "type": "maiden_name",
+          "value": "Eunice Lea"
+        }
+      ],
+      "branching": {
+        "cluster_tags": [],
+        "major_line": null,
+        "sub_line": null
+      },
+      "events": {
+        "birth": {
+          "date": null,
+          "date_note": null,
+          "note": "",
+          "place": {
+            "country": null,
+            "county": null,
+            "note": null,
+            "place": null,
+            "place_raw": null,
+            "state": null
+          },
+          "sources": []
+        },
+        "death": {
+          "date": null,
+          "date_note": null,
+          "note": "",
+          "place": {
+            "country": null,
+            "county": null,
+            "note": null,
+            "place": null,
+            "place_raw": null,
+            "state": null
+          },
+          "sources": []
+        }
+      },
+      "gender": "F",
+      "id": "P00061",
+      "life_status": {
+        "as_of": null,
+        "is_living": false,
+        "note": null
+      },
+      "notes": [
+        {
+          "date_utc": "2025-12-20T00:00:00Z",
+          "text": "Lineage Reassessment Note — Nathaniel & Burket Dean: Based on accumulated evidence (land behavior, civic role, capital scale, migration pattern, and lack of documentary linkage), Nathaniel Dean and his son Burket Dean are treated as an independent Dean line, not descended from Edmond Dean. The cluster aligns more closely with an unrelated Dean branch originating in King George and Mecklenburg Counties, Virginia. All documentary facts remain valid; linkage withdrawn pending direct proof.",
+          "type": "lineage_reassessment"
+        }
+      ],
+      "primary_name": {
+        "display": "Eunice Lea Dean",
+        "given": "Eunice Lea",
+        "suffix": "",
+        "surname": "Dean"
+      },
+      "relationships": {},
+      "sources": [],
+      "status": {
+        "confidence": 0.7,
+        "notes": "",
+        "on_naughty_list": false,
+        "research_status": "working",
+        "ydna_subject_id": null
+      },
+      "tags": [
+        "GA",
+        "Jasper County",
+        "Independent line",
+        "VA Dean branch",
+        "Not Edmond/Jeremiah"
+      ]
+    },
+    "P00062": {
+      "alt_names": [
+        {
+          "type": "variant_spelling",
+          "value": "Burkett Dean"
+        },
+        {
+          "type": "variant_spelling",
+          "value": "Burkit Dean"
+        },
+        {
+          "type": "variant_surname",
+          "value": "Burket Deens"
+        }
+      ],
+      "branching": {
+        "cluster_tags": [],
+        "major_line": null,
+        "sub_line": null
+      },
+      "events": {
+        "birth": {
+          "date": null,
+          "date_note": null,
+          "note": "",
+          "place": {
+            "country": null,
+            "county": null,
+            "note": null,
+            "place": null,
+            "place_raw": null,
+            "state": null
+          },
+          "sources": []
+        },
+        "death": {
+          "date": null,
+          "date_note": null,
+          "note": "",
+          "place": {
+            "country": null,
+            "county": null,
+            "note": null,
+            "place": null,
+            "place_raw": null,
+            "state": null
+          },
+          "sources": []
+        }
+      },
+      "gender": "M",
+      "id": "P00062",
+      "life_status": {
+        "as_of": null,
+        "is_living": false,
+        "note": null
+      },
+      "notes": [
+        {
+          "date_utc": "2025-12-20T00:00:00Z",
+          "text": "Lineage Reassessment Note — Nathaniel & Burket Dean: Based on accumulated evidence (land behavior, civic role, capital scale, migration pattern, and lack of documentary linkage), Nathaniel Dean and his son Burket Dean are treated as an independent Dean line, not descended from Edmond Dean. The cluster aligns more closely with an unrelated Dean branch originating in King George and Mecklenburg Counties, Virginia. All documentary facts remain valid; linkage withdrawn pending direct proof.",
+          "type": "lineage_reassessment"
+        }
+      ],
+      "primary_name": {
+        "display": "Burket Dean",
+        "given": "Burket",
+        "suffix": "",
+        "surname": "Dean"
+      },
+      "relationships": {},
+      "sources": [],
+      "status": {
+        "confidence": 0.7,
+        "notes": "",
+        "on_naughty_list": false,
+        "research_status": "working",
+        "ydna_subject_id": null
+      },
+      "tags": [
+        "GA",
+        "Jasper County",
+        "Clarke County",
+        "Independent line",
+        "VA Dean branch",
+        "Not Edmond/Jeremiah"
+      ]
+    },
+    "P00063": {
+      "alt_names": [],
+      "branching": {
+        "cluster_tags": [
+          "Sherrod_UnknownSon"
+        ],
+        "major_line": null,
+        "sub_line": null
+      },
+      "events": {},
+      "gender": "M",
+      "id": "P00063",
+      "life_span": {
+        "approx_birth": true,
+        "approx_death": true,
+        "birth_year": null,
+        "death_year": null
+      },
+      "notes": [
+        {
+          "date_utc": null,
+          "text": "Placeholder child from Sherrod Deens' first marriage cohort per dossier; b. ~1774–1780.",
+          "type": null
+        }
+      ],
+      "primary_name": {
+        "display": "Unknown Son A of Sherrod Deens",
+        "given": "Unknown",
+        "suffix": "",
+        "surname": "Deens"
+      },
+      "relationships": {
+        "children": [],
+        "parents": [
+          "P00011",
+          "P00020"
+        ],
+        "spouses": []
+      },
+      "sources": [
+        {
+          "date_accessed_utc": "2025-12-20",
+          "note": "Listed as Unknown Son (A–D) in Sherrod dossier; birth range bracketed.",
+          "title": "Sherrod_Deens.pdf",
+          "type": "dossier"
+        }
+      ],
+      "status": {
+        "confidence": 0.45,
+        "notes": "b. ~1774–1780",
+        "on_naughty_list": false,
+        "research_status": "working",
+        "ydna_subject_id": null
+      },
+      "tags": [
+        "Unknown",
+        "DossierPlaceholder"
+      ]
+    },
+    "P00064": {
+      "alt_names": [],
+      "branching": {
+        "cluster_tags": [
+          "Sherrod_UnknownSon"
+        ],
+        "major_line": null,
+        "sub_line": null
+      },
+      "events": {},
+      "gender": "M",
+      "id": "P00064",
+      "life_span": {
+        "approx_birth": true,
+        "approx_death": true,
+        "birth_year": null,
+        "death_year": null
+      },
+      "notes": [
+        {
+          "date_utc": null,
+          "text": "Placeholder child from Sherrod Deens' first marriage cohort per dossier; b. ~1776–1784.",
+          "type": null
+        }
+      ],
+      "primary_name": {
+        "display": "Unknown Son B of Sherrod Deens",
+        "given": "Unknown",
+        "suffix": "",
+        "surname": "Deens"
+      },
+      "relationships": {
+        "children": [],
+        "parents": [
+          "P00011",
+          "P00020"
+        ],
+        "spouses": []
+      },
+      "sources": [
+        {
+          "date_accessed_utc": "2025-12-20",
+          "note": "Listed as Unknown Son (A–D) in Sherrod dossier; birth range bracketed.",
+          "title": "Sherrod_Deens.pdf",
+          "type": "dossier"
+        }
+      ],
+      "status": {
+        "confidence": 0.45,
+        "notes": "b. ~1776–1784",
+        "on_naughty_list": false,
+        "research_status": "working",
+        "ydna_subject_id": null
+      },
+      "tags": [
+        "Unknown",
+        "DossierPlaceholder"
+      ]
+    },
+    "P00065": {
+      "alt_names": [],
+      "branching": {
+        "cluster_tags": [
+          "Sherrod_UnknownSon"
+        ],
+        "major_line": null,
+        "sub_line": null
+      },
+      "events": {},
+      "gender": "M",
+      "id": "P00065",
+      "life_span": {
+        "approx_birth": true,
+        "approx_death": true,
+        "birth_year": null,
+        "death_year": null
+      },
+      "notes": [
+        {
+          "date_utc": null,
+          "text": "Placeholder child from Sherrod Deens' first marriage cohort per dossier; b. ~1778–1786.",
+          "type": null
+        }
+      ],
+      "primary_name": {
+        "display": "Unknown Son C of Sherrod Deens",
+        "given": "Unknown",
+        "suffix": "",
+        "surname": "Deens"
+      },
+      "relationships": {
+        "children": [],
+        "parents": [
+          "P00011",
+          "P00020"
+        ],
+        "spouses": []
+      },
+      "sources": [
+        {
+          "date_accessed_utc": "2025-12-20",
+          "note": "Listed as Unknown Son (A–D) in Sherrod dossier; birth range bracketed.",
+          "title": "Sherrod_Deens.pdf",
+          "type": "dossier"
+        }
+      ],
+      "status": {
+        "confidence": 0.45,
+        "notes": "b. ~1778–1786",
+        "on_naughty_list": false,
+        "research_status": "working",
+        "ydna_subject_id": null
+      },
+      "tags": [
+        "Unknown",
+        "DossierPlaceholder"
+      ]
+    },
+    "P00066": {
+      "alt_names": [],
+      "branching": {
+        "cluster_tags": [
+          "Sherrod_UnknownSon"
+        ],
+        "major_line": null,
+        "sub_line": null
+      },
+      "events": {},
+      "gender": "M",
+      "id": "P00066",
+      "life_span": {
+        "approx_birth": true,
+        "approx_death": true,
+        "birth_year": null,
+        "death_year": null
+      },
+      "notes": [
+        {
+          "date_utc": null,
+          "text": "Placeholder child from Sherrod Deens' first marriage cohort per dossier; b. ~1780–1790.",
+          "type": null
+        }
+      ],
+      "primary_name": {
+        "display": "Unknown Son D of Sherrod Deens",
+        "given": "Unknown",
+        "suffix": "",
+        "surname": "Deens"
+      },
+      "relationships": {
+        "children": [],
+        "parents": [
+          "P00011",
+          "P00020"
+        ],
+        "spouses": []
+      },
+      "sources": [
+        {
+          "date_accessed_utc": "2025-12-20",
+          "note": "Listed as Unknown Son (A–D) in Sherrod dossier; birth range bracketed.",
+          "title": "Sherrod_Deens.pdf",
+          "type": "dossier"
+        }
+      ],
+      "status": {
+        "confidence": 0.45,
+        "notes": "b. ~1780–1790",
+        "on_naughty_list": false,
+        "research_status": "working",
+        "ydna_subject_id": null
+      },
+      "tags": [
+        "Unknown",
+        "DossierPlaceholder"
+      ]
+    },
+    "P00067": {
+      "alt_names": [],
+      "branching": {
+        "cluster_tags": [],
+        "major_line": null,
+        "sub_line": null
+      },
+      "events": {
+        "birth": {
+          "date": null,
+          "date_note": null,
+          "note": "",
+          "place": {
+            "country": null,
+            "county": null,
+            "note": null,
+            "place": null,
+            "place_raw": null,
+            "state": null
+          },
+          "year": null
+        },
+        "death": {
+          "date": null,
+          "date_note": null,
+          "note": "",
+          "place": {
+            "country": null,
+            "county": null,
+            "note": null,
+            "place": null,
+            "place_raw": null,
+            "state": null
+          },
+          "year": null
+        }
+      },
+      "gender": "F",
+      "id": "P00067",
+      "life_span": {
+        "approx_birth": true,
+        "approx_death": true,
+        "birth_year": null,
+        "death_year": null
+      },
+      "notes": [],
+      "primary_name": {
+        "display": "Mary Deen",
+        "given": "Mary",
+        "suffix": "",
+        "surname": "Deen"
+      },
+      "relationships": {
+        "children": [],
+        "parents": [],
+        "spouses": []
+      },
+      "sources": [],
+      "status": {
+        "confidence": 0.35,
+        "notes": "",
+        "on_naughty_list": false,
+        "research_status": "working",
+        "ydna_subject_id": null
+      },
+      "tags": [
+        "MS",
+        "Lauderdale County"
+      ]
+    },
+    "P00068": {
+      "alt_names": [],
+      "branching": {
+        "cluster_tags": [],
+        "major_line": null,
+        "sub_line": null
+      },
+      "events": {
+        "birth": {
+          "date": null,
+          "date_note": null,
+          "note": "",
+          "place": {
+            "country": null,
+            "county": null,
+            "note": null,
+            "place": null,
+            "place_raw": null,
+            "state": null
+          },
+          "year": null
+        },
+        "death": {
+          "date": null,
+          "date_note": null,
+          "note": "",
+          "place": {
+            "country": null,
+            "county": null,
+            "note": null,
+            "place": null,
+            "place_raw": null,
+            "state": null
+          },
+          "year": null
+        }
+      },
+      "gender": null,
+      "id": "P00068",
+      "life_span": {
+        "approx_birth": true,
+        "approx_death": true,
+        "birth_year": null,
+        "death_year": null
+      },
+      "notes": [],
+      "primary_name": {
+        "display": "John Barnett",
+        "given": "John",
+        "suffix": "",
+        "surname": "Barnett"
+      },
+      "relationships": {
+        "children": [],
+        "parents": [],
+        "spouses": []
+      },
+      "sources": [],
+      "status": {
+        "confidence": 0.35,
+        "notes": "",
+        "on_naughty_list": false,
+        "research_status": "working",
+        "ydna_subject_id": null
+      },
+      "tags": [
+        "MS",
+        "Lauderdale County"
+      ]
+    },
+    "P00069": {
+      "facts": [
+        {
+          "certainty": "high",
+          "date_range": {
+            "end": "1813-09-22",
+            "start": null
+          },
+          "evidence": [
+            "Administrator notice publication (1813-09-22)"
+          ],
+          "fact_type": "death_proxy",
+          "place": "Laurens County, Georgia"
+        }
+      ],
+      "id": "P00069",
+      "name_variants": [],
+      "primary_name": {
+        "display": "Richard Deens",
+        "given": null,
+        "suffix": null,
+        "surname": null
+      },
+      "primary_name_original_raw": {
+        "primary_name": "Richard Deens"
+      },
+      "relationships": {}
+    },
+    "P00070": {
+      "facts": [
+        {
+          "certainty": "high",
+          "date_range": {
+            "end": "1819-02-19",
+            "start": null
+          },
+          "evidence": [
+            "Estate inventory/appraisement date (1819-02-19)"
+          ],
+          "fact_type": "death_proxy",
+          "place": "Laurens County, Georgia"
+        }
+      ],
+      "id": "P00070",
+      "name_variants": [
+        "Winnifred Dyson",
+        "Winefred Deens",
+        "Winiford Deans",
+        "Winnie Deens"
+      ],
+      "primary_name": {
+        "display": "Winnifred (Dyson) Deens",
+        "given": null,
+        "suffix": null,
+        "surname": null
+      },
+      "primary_name_original_raw": {
+        "primary_name": "Winnifred (Dyson) Deens"
+      },
+      "relationships": {}
+    },
+    "P00071": {
+      "facts": [],
+      "id": "P00071",
+      "name_variants": [],
+      "primary_name": {
+        "display": "Sherod Deans",
+        "given": null,
+        "suffix": null,
+        "surname": null
+      },
+      "primary_name_original_raw": {
+        "primary_name": "Sherod Deans"
+      },
+      "relationships": {}
+    },
+    "P00072": {
+      "facts": [],
+      "id": "P00072",
+      "name_variants": [],
+      "notes": [
+        {
+          "date_utc": null,
+          "text": "Misnamed as 'Jeremiah Deens' in TREE v026. TIMELINE E01053 identifies this node as Emma Alexander (stepdaughter) in 1880 Bastrop County, TX census. Renamed for consistency.",
+          "type": null
+        }
+      ],
+      "primary_name": {
+        "display": "Emma Alexander",
+        "given": null,
+        "suffix": null,
+        "surname": null
+      },
+      "primary_name_original_raw": {
+        "primary_name": "Emma Alexander"
+      },
+      "relationships": {}
+    },
+    "P00073": {
+      "alt_names": [],
+      "events": {},
+      "gender": null,
+      "id": "P00073",
+      "life_span": {
+        "approx_birth": true,
+        "approx_death": true,
+        "birth_year": null,
+        "death_year": null
+      },
+      "notes": [],
+      "primary_name": {
+        "display": "Jacob Gilmore",
+        "given": "",
+        "suffix": "",
+        "surname": ""
+      },
+      "relationships": {
+        "children": [
+          "P00074",
+          "P00075",
+          "P00076",
+          "P00077",
+          "P00078"
+        ],
+        "parents": [],
+        "spouses": [
+          {
+            "spouse_id": "P00035"
+          }
+        ]
+      },
+      "sources": [],
+      "tags": []
+    },
+    "P00074": {
+      "alt_names": [],
+      "events": {},
+      "gender": null,
+      "id": "P00074",
+      "life_span": {
+        "approx_birth": true,
+        "approx_death": true,
+        "birth_year": null,
+        "death_year": null
+      },
+      "notes": [],
+      "primary_name": {
+        "display": "Michael Gilmore",
+        "given": "",
+        "suffix": "",
+        "surname": ""
+      },
+      "relationships": {
+        "children": [],
+        "parents": [
+          "P00035",
+          "P00073"
+        ],
+        "spouses": []
+      },
+      "sources": [],
+      "tags": []
+    },
+    "P00075": {
+      "alt_names": [],
+      "events": {},
+      "gender": null,
+      "id": "P00075",
+      "life_span": {
+        "approx_birth": true,
+        "approx_death": true,
+        "birth_year": null,
+        "death_year": null
+      },
+      "notes": [],
+      "primary_name": {
+        "display": "Elender Gilmore",
+        "given": "",
+        "suffix": "",
+        "surname": ""
+      },
+      "relationships": {
+        "children": [],
+        "parents": [
+          "P00035",
+          "P00073"
+        ],
+        "spouses": []
+      },
+      "sources": [],
+      "tags": []
+    },
+    "P00076": {
+      "alt_names": [],
+      "events": {},
+      "gender": null,
+      "id": "P00076",
+      "life_span": {
+        "approx_birth": true,
+        "approx_death": true,
+        "birth_year": null,
+        "death_year": null
+      },
+      "notes": [],
+      "primary_name": {
+        "display": "Nancy Emma Gilmore",
+        "given": "",
+        "suffix": "",
+        "surname": ""
+      },
+      "relationships": {
+        "children": [],
+        "parents": [
+          "P00035",
+          "P00073"
+        ],
+        "spouses": []
+      },
+      "sources": [],
+      "tags": []
+    },
+    "P00077": {
+      "alt_names": [],
+      "events": {},
+      "gender": null,
+      "id": "P00077",
+      "life_span": {
+        "approx_birth": true,
+        "approx_death": true,
+        "birth_year": null,
+        "death_year": null
+      },
+      "notes": [],
+      "primary_name": {
+        "display": "Thomas Gilmore",
+        "given": "",
+        "suffix": "",
+        "surname": ""
+      },
+      "relationships": {
+        "children": [],
+        "parents": [
+          "P00035",
+          "P00073"
+        ],
+        "spouses": []
+      },
+      "sources": [],
+      "tags": []
+    },
+    "P00078": {
+      "alt_names": [],
+      "events": {},
+      "gender": null,
+      "id": "P00078",
+      "life_span": {
+        "approx_birth": true,
+        "approx_death": true,
+        "birth_year": null,
+        "death_year": null
+      },
+      "notes": [],
+      "primary_name": {
+        "display": "Martha Gilmore",
+        "given": "",
+        "suffix": "",
+        "surname": ""
+      },
+      "relationships": {
+        "children": [],
+        "parents": [
+          "P00035",
+          "P00073"
+        ],
+        "spouses": []
+      },
+      "sources": [],
+      "tags": []
+    },
+    "P00079": {
+      "alt_names": [
+        {
+          "type": "aka",
+          "value": "Jeremiah Dean"
+        },
+        {
+          "type": "aka",
+          "value": "Jeremiah Deane"
+        },
+        {
+          "type": "aka",
+          "value": "Jeremiah Deen"
+        }
+      ],
+      "birth": {
+        "note": "approx; derived from age statements and migration chronology",
+        "place_raw": "North Carolina, USA",
+        "year": 1781
+      },
+      "id": "P00079",
+      "notes": [
+        {
+          "date_utc": null,
+          "text": "Adult male associated with 1807 Georgia Land Lottery (Jackson County; Cockran’s Battalion).",
+          "type": null
+        },
+        {
+          "date_utc": null,
+          "text": "War of 1812 service in Georgia militia (Walker’s Company; Camps Jackson and Covington).",
+          "type": null
+        },
+        {
+          "date_utc": null,
+          "text": "Migration chain: GA → Conecuh Co., AL (1820) → Butler Co., AL (1830) → Lauderdale Co., MS (1840–1850).",
+          "type": null
+        },
+        {
+          "date_utc": null,
+          "text": "Land: 15 Aug 1837 Cahaba patent — SE¼ SW¼ Sec.15 T8 R12, 40.09 acres (Conecuh Co., AL).",
+          "type": null
+        },
+        {
+          "date_utc": null,
+          "text": "Tax: 1848 Lauderdale Co., MS tax roll — $15 clock, no poll; adjacency cluster with Deens.",
+          "type": null
+        },
+        {
+          "date_utc": null,
+          "text": "Parentage: linked to Old Jeremiah Deens (HIGHLY LIKELY based on birth window, migration pattern, and naming patterns). Mother Mary not linked pending authoritative PID.",
+          "type": null
+        },
+        {
+          "date_utc": null,
+          "text": "Parentage hypothesis: likely child of Old Jeremiah Deens (and wife Mary) based on birth window, migration pattern, and naming patterns; NOT asserted as a relationship edge.",
+          "type": null
+        }
+      ],
+      "primary_name": {
+        "display": "Jeremiah Deens",
+        "given": null,
+        "suffix": null,
+        "surname": null
+      },
+      "primary_name_original_raw": {
+        "primary_name": "Jeremiah Deens"
+      },
+      "relationships": {
+        "children": [],
+        "parents": [],
+        "spouses": [
+          {
+            "spouse_id": "P00080"
+          }
+        ]
+      },
+      "sex": "M",
+      "status": {
+        "confidence": 0.9,
+        "flags": [
+          "parentage_highly_likely"
+        ],
+        "research_status": "working"
+      }
+    },
+    "P00080": {
+      "alt_names": [],
+      "birth": {
+        "note": "unknown",
+        "place_raw": null,
+        "year": null
+      },
+      "id": "P00080",
+      "notes": [
+        {
+          "date_utc": null,
+          "text": "Identified as wife of Jeremiah Deens in 1850 Lauderdale County, Mississippi census household.",
+          "type": null
+        },
+        {
+          "date_utc": null,
+          "text": "Maiden name unknown.",
+          "type": null
+        }
+      ],
+      "primary_name": {
+        "display": "Sarah Deens",
+        "given": null,
+        "suffix": null,
+        "surname": null
+      },
+      "primary_name_original_raw": {
+        "primary_name": "Sarah Deens"
+      },
+      "relationships": {
+        "children": [],
+        "parents": [],
+        "spouses": [
+          {
+            "spouse_id": "P00079"
+          }
+        ]
+      },
+      "sex": "F",
+      "status": {
+        "confidence": 0.85,
+        "flags": [],
+        "research_status": "working"
+      }
+    },
+    "P00081": {
+      "alt_names": [],
+      "branching": {
+        "cluster_tags": [],
+        "major_line": null,
+        "sub_line": null
+      },
+      "events": {},
+      "gender": "F",
+      "id": "P00081",
+      "life_span": {
+        "approx_birth": true,
+        "approx_death": true,
+        "birth_year": null,
+        "death_year": null
+      },
+      "notes": [
+        {
+          "date_utc": null,
+          "text": "Identified as spouse of Hilliard Judge Dean per marriage record (Lauderdale County, Mississippi).",
+          "type": null
+        },
+        {
+          "date_utc": null,
+          "text": "Restored relationships.spouses link to P00033 from legacy dict in TREE_Master_v043 (status: None).",
+          "type": null
+        }
+      ],
+      "primary_name": {
+        "display": "Amanda Eliza Eubanks",
+        "given": "Amanda Eliza",
+        "suffix": "",
+        "surname": "Eubanks"
+      },
+      "relationships": {
+        "children": [],
+        "parents": [],
+        "spouses": [
+          {
+            "spouse_id": "P00033"
+          }
+        ]
+      },
+      "sources": [],
+      "status": {
+        "confidence": 0.9,
+        "notes": "Created in Phase-4 to replace malformed placeholder spouse ID in event E01099.",
+        "on_naughty_list": false,
+        "research_status": "proven",
+        "ydna_subject_id": null
+      },
+      "tags": []
+    },
+    "P00082": {
+      "alt_names": [],
+      "gender": "F",
+      "id": "P00082",
+      "notes": [
+        {
+          "date_utc": null,
+          "text": "TEMP entity created for relationship completeness; requires Phase-4 PID allocation.",
+          "type": null
+        },
+        {
+          "date_utc": null,
+          "text": "Restored relationships.spouses link to P00032 from legacy dict in TREE_Master_v043 (status: None).",
+          "type": null
+        }
+      ],
+      "primary_name": {
+        "display": "Mary Calhoon",
+        "given": null,
+        "suffix": null,
+        "surname": null
+      },
+      "relationships": {
+        "children": [],
+        "parents": [],
+        "spouses": [
+          {
+            "spouse_id": "P00032"
+          }
+        ]
+      },
+      "status": "provisional"
+    },
+    "P00083": {
+      "alt_names": [],
+      "gender": null,
+      "id": "P00083",
+      "notes": [
+        {
+          "date_utc": null,
+          "text": "TEMP entity created for relationship completeness; requires Phase-4 PID allocation.",
+          "type": null
+        }
+      ],
+      "primary_name": {
+        "display": "Drury Dean",
+        "given": null,
+        "suffix": null,
+        "surname": null
+      },
+      "relationships": {
+        "children": [],
+        "parents": [
+          "P00032"
+        ],
+        "spouses": []
+      },
+      "status": "provisional"
+    },
+    "P00084": {
+      "alt_names": [],
+      "gender": "F",
+      "id": "P00084",
+      "notes": [
+        {
+          "date_utc": null,
+          "text": "TEMP entity created for relationship completeness; requires Phase-4 PID allocation.",
+          "type": null
+        },
+        {
+          "date_utc": null,
+          "text": "Restored relationships.spouses link to P00034 from legacy dict in TREE_Master_v043 (status: None).",
+          "type": null
+        }
+      ],
+      "primary_name": {
+        "display": "Isabella Piggott",
+        "given": null,
+        "suffix": null,
+        "surname": null
+      },
+      "relationships": {
+        "children": [],
+        "parents": [],
+        "spouses": [
+          {
+            "spouse_id": "P00034"
+          }
+        ]
+      },
+      "status": "provisional"
+    },
+    "P00085": {
+      "alt_names": [],
+      "gender": "F",
+      "id": "P00085",
+      "notes": [
+        {
+          "date_utc": null,
+          "text": "TEMP entity created for relationship completeness; requires Phase-4 PID allocation.",
+          "type": null
+        },
+        {
+          "date_utc": null,
+          "text": "Restored relationships.spouses link to P00036 from legacy dict in TREE_Master_v043 (status: None).",
+          "type": null
+        }
+      ],
+      "primary_name": {
+        "display": "Emarah/Emma Ellen Eubanks",
+        "given": null,
+        "suffix": null,
+        "surname": null
+      },
+      "relationships": {
+        "children": [],
+        "parents": [],
+        "spouses": [
+          {
+            "spouse_id": "P00036"
+          }
+        ]
+      },
+      "status": "provisional"
+    },
+    "P00086": {
+      "alt_names": [],
+      "gender": "F",
+      "id": "P00086",
+      "notes": [
+        {
+          "date_utc": null,
+          "text": "TEMP entity created for relationship completeness; requires Phase-4 PID allocation.",
+          "type": null
+        },
+        {
+          "date_utc": null,
+          "text": "Restored relationships.spouses link to P00036 from legacy dict in TREE_Master_v043 (status: None).",
+          "type": null
+        }
+      ],
+      "primary_name": {
+        "display": "Mary E. Dean",
+        "given": null,
+        "suffix": null,
+        "surname": null
+      },
+      "relationships": {
+        "children": [],
+        "parents": [],
+        "spouses": [
+          {
+            "spouse_id": "P00036"
+          }
+        ]
+      },
+      "status": "provisional"
+    },
+    "P00087": {
+      "facts": [],
+      "id": "P00087",
+      "name_variants": [],
+      "primary_name": {
+        "display": "Mary Ann Adams",
+        "given": "Mary Ann",
+        "suffix": null,
+        "surname": "Adams"
+      },
+      "primary_name_original_raw": {
+        "primary_name": "Mary Ann Adams"
+      },
+      "provenance": {
+        "phase3_new_entity_fingerprint": {
+          "approx_birth_year": null,
+          "name_raw": "Mary Ann Adams",
+          "place_raw": null,
+          "sex": "F",
+          "spouse_name": "Edmond Dean Jr."
+        }
+      },
+      "relationships": {}
+    },
+    "P00088": {
+      "id": "P00088",
+      "primary_name": {
+        "display": "Mary Ann Adams",
+        "given": "Mary Ann",
+        "surname": "Adams",
+        "suffix": null
+      },
+      "primary_name_original_raw": {
+        "primary_name": "Mary Ann Adams"
+      },
+      "name_variants": [],
+      "relationships": {},
+      "facts": [],
+      "new_entity_fingerprint": {
+        "name_raw": "Mary Ann Adams",
+        "approx_birth_year": null,
+        "place_raw": null,
+        "spouse_name": "Edmond Dean Jr.",
+        "sex": "F"
+      }
+    }
+  },
+  "project": {
+    "metadata_schema": "master_meta_v001",
+    "project_id": "dean-ralph",
+    "master_type": "TREE",
+    "rev": "v048",
+    "filename": "TREE_Master_v048.json",
+    "timezone": "America/Chicago",
+    "updated_at_utc": "2026-01-06T01:02:46Z",
+    "created_at_utc": "2025-12-11T00:00:00Z",
+    "name": "Dean–Ralph Master Tree",
+    "description": "Core working tree for the DEAN / DEEN / RALPH / PRIDGEON project."
+  },
+  "schema_version": "1.0"
+}

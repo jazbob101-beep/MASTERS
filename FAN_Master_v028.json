@@ -1,0 +1,2143 @@
+{
+  "fan_sets": {
+    "FAN00001": {
+      "focus": {
+        "description": "All DEEN / DEENS / DEAN households in the Lauderdale County, Mississippi tax rolls (1839–1848), centered on the Edmond Sr. descendant cluster.",
+        "person_ids": [],
+        "type": "cluster"
+      },
+      "id": "FAN00001",
+      "label": "Lauderdale County, MS Tax Rolls 1839–1848 — Dean cluster",
+      "members": {
+        "people": [],
+        "unresolved_people": [
+          {
+            "name": "Surmon Deens",
+            "note": "Appears under DEANS heading on 1839 Lauderdale tax roll (PDF p.31). Likely Sermon/Summon Dean of Edmond Sr. line.",
+            "role": "Dean cluster"
+          },
+          {
+            "name": "N. P. Deens",
+            "note": "Appears adjacent to Surmon on 1839 Lauderdale tax roll. Likely Nathaniel Pearce Dean/Deens.",
+            "role": "Dean cluster"
+          },
+          {
+            "name": "H. Deens",
+            "note": "Appears with Surmon and N. P. on 1839 Lauderdale tax roll; likely Hilliard or related Dean.",
+            "role": "Dean cluster"
+          },
+          {
+            "name": "John W. Clayton",
+            "note": "Lauderdale tax FAN; PDF p.3 / Book p.31 / 1839 (subset A)",
+            "role": "neighbor"
+          },
+          {
+            "name": "William B. Cooper",
+            "note": "Lauderdale tax FAN; PDF p.3 / Book p.31 / 1839 (subset A)",
+            "role": "neighbor"
+          },
+          {
+            "name": "William W. Clay",
+            "note": "Lauderdale tax FAN; PDF p.3 / Book p.31 / 1839 (subset A)",
+            "role": "neighbor"
+          },
+          {
+            "name": "William Chandler",
+            "note": "Lauderdale tax FAN; PDF p.3 / Book p.31 / 1839 (subset A)",
+            "role": "neighbor"
+          },
+          {
+            "name": "Joseph Cooper",
+            "note": "Lauderdale tax FAN; PDF p.3 / Book p.31 / 1839 (subset A)",
+            "role": "neighbor"
+          },
+          {
+            "name": "Lewis Cooper",
+            "note": "Lauderdale tax FAN; PDF p.3 / Book p.31 / 1839 (subset A)",
+            "role": "neighbor"
+          },
+          {
+            "name": "Henry Culpepper",
+            "note": "Lauderdale tax FAN; PDF p.3 / Book p.31 / 1839 (subset A)",
+            "role": "neighbor"
+          },
+          {
+            "name": "Simeon Culpepper",
+            "note": "Lauderdale tax FAN; PDF p.3 / Book p.31 / 1839 (subset A)",
+            "role": "neighbor"
+          },
+          {
+            "name": "Nancy Clanton",
+            "note": "Lauderdale tax FAN; PDF p.3 / Book p.31 / 1839 (subset A)",
+            "role": "neighbor"
+          },
+          {
+            "name": "John Carney",
+            "note": "Lauderdale tax FAN; PDF p.3 / Book p.31 / 1839 (subset A)",
+            "role": "neighbor"
+          },
+          {
+            "name": "Carney",
+            "note": "Lauderdale tax FAN; PDF p.3 / Book p.31 / 1839 (subset A)",
+            "role": "neighbor"
+          },
+          {
+            "name": "John Corley",
+            "note": "Lauderdale tax FAN; PDF p.3 / Book p.31 / 1839 (subset A)",
+            "role": "neighbor"
+          },
+          {
+            "name": "Collin W. Creel",
+            "note": "Lauderdale tax FAN; PDF p.3 / Book p.31 / 1839 (subset A)",
+            "role": "neighbor"
+          },
+          {
+            "name": "Thomas Creel",
+            "note": "Lauderdale tax FAN; PDF p.3 / Book p.31 / 1839 (subset A)",
+            "role": "neighbor"
+          },
+          {
+            "name": "Wesley W. Creel",
+            "note": "Lauderdale tax FAN; PDF p.3 / Book p.31 / 1839 (subset A)",
+            "role": "neighbor"
+          },
+          {
+            "name": "James Castles",
+            "note": "Lauderdale tax FAN; PDF p.3 / Book p.31 / 1839 (subset A)",
+            "role": "neighbor"
+          },
+          {
+            "name": "S. H. Cochran",
+            "note": "Lauderdale tax FAN; PDF p.3 / Book p.31 / 1839 (subset A)",
+            "role": "neighbor"
+          },
+          {
+            "name": "Ezekiel Daniels",
+            "note": "Lauderdale tax FAN; PDF tail / page 12 (subset H; year unknown)",
+            "role": "neighbor"
+          },
+          {
+            "name": "Joseph Denton",
+            "note": "Lauderdale tax FAN; PDF tail / page 12 (subset H; year unknown)",
+            "role": "neighbor"
+          },
+          {
+            "name": "J. S. Denton",
+            "note": "Lauderdale tax FAN; PDF tail / page 12 (subset H; year unknown)",
+            "role": "neighbor"
+          },
+          {
+            "name": "Vincent Delk",
+            "note": "Lauderdale tax FAN; PDF tail / page 12 (subset H; year unknown)",
+            "role": "neighbor"
+          }
+        ]
+      },
+      "records": [],
+      "scope": {
+        "locations": [
+          {
+            "country": "USA",
+            "county": "Lauderdale County",
+            "note": null,
+            "place": null,
+            "place_raw": "Lauderdale County, Mississippi, USA",
+            "state": "Mississippi"
+          }
+        ],
+        "record_types": [
+          "tax"
+        ],
+        "time_end_year": 1848,
+        "time_start_year": 1839
+      },
+      "subsets": [
+        {
+          "id": "FAN00001A",
+          "label": "1839 — PDF p.3 / Book p.31 — FAN names",
+          "members": {
+            "people": [],
+            "unresolved_people": [
+              {
+                "name": "John W. Clayton",
+                "note": "Lauderdale tax FAN; PDF p.3 / Book p.31 / 1839 (subset A)",
+                "role": "neighbor"
+              },
+              {
+                "name": "William B. Cooper",
+                "note": "Lauderdale tax FAN; PDF p.3 / Book p.31 / 1839 (subset A)",
+                "role": "neighbor"
+              },
+              {
+                "name": "William W. Clay",
+                "note": "Lauderdale tax FAN; PDF p.3 / Book p.31 / 1839 (subset A)",
+                "role": "neighbor"
+              },
+              {
+                "name": "William Chandler",
+                "note": "Lauderdale tax FAN; PDF p.3 / Book p.31 / 1839 (subset A)",
+                "role": "neighbor"
+              },
+              {
+                "name": "Joseph Cooper",
+                "note": "Lauderdale tax FAN; PDF p.3 / Book p.31 / 1839 (subset A)",
+                "role": "neighbor"
+              },
+              {
+                "name": "Lewis Cooper",
+                "note": "Lauderdale tax FAN; PDF p.3 / Book p.31 / 1839 (subset A)",
+                "role": "neighbor"
+              },
+              {
+                "name": "Henry Culpepper",
+                "note": "Lauderdale tax FAN; PDF p.3 / Book p.31 / 1839 (subset A)",
+                "role": "neighbor"
+              },
+              {
+                "name": "Simeon Culpepper",
+                "note": "Lauderdale tax FAN; PDF p.3 / Book p.31 / 1839 (subset A)",
+                "role": "neighbor"
+              },
+              {
+                "name": "Nancy Clanton",
+                "note": "Lauderdale tax FAN; PDF p.3 / Book p.31 / 1839 (subset A)",
+                "role": "neighbor"
+              },
+              {
+                "name": "John Carney",
+                "note": "Lauderdale tax FAN; PDF p.3 / Book p.31 / 1839 (subset A)",
+                "role": "neighbor"
+              },
+              {
+                "name": "Carney",
+                "note": "Lauderdale tax FAN; PDF p.3 / Book p.31 / 1839 (subset A)",
+                "role": "neighbor"
+              },
+              {
+                "name": "John Corley",
+                "note": "Lauderdale tax FAN; PDF p.3 / Book p.31 / 1839 (subset A)",
+                "role": "neighbor"
+              },
+              {
+                "name": "Collin W. Creel",
+                "note": "Lauderdale tax FAN; PDF p.3 / Book p.31 / 1839 (subset A)",
+                "role": "neighbor"
+              },
+              {
+                "name": "Thomas Creel",
+                "note": "Lauderdale tax FAN; PDF p.3 / Book p.31 / 1839 (subset A)",
+                "role": "neighbor"
+              },
+              {
+                "name": "Wesley W. Creel",
+                "note": "Lauderdale tax FAN; PDF p.3 / Book p.31 / 1839 (subset A)",
+                "role": "neighbor"
+              },
+              {
+                "name": "James Castles",
+                "note": "Lauderdale tax FAN; PDF p.3 / Book p.31 / 1839 (subset A)",
+                "role": "neighbor"
+              },
+              {
+                "name": "S. H. Cochran",
+                "note": "Lauderdale tax FAN; PDF p.3 / Book p.31 / 1839 (subset A)",
+                "role": "neighbor"
+              }
+            ]
+          },
+          "scope": {
+            "locations": [
+              {
+                "country": "USA",
+                "county": "Lauderdale County",
+                "note": null,
+                "place": null,
+                "place_raw": "Lauderdale County, Mississippi, USA",
+                "state": "Mississippi"
+              }
+            ],
+            "record_types": [
+              "tax"
+            ],
+            "time_end_year": 1839,
+            "time_start_year": 1839
+          },
+          "tags": [
+            "Lauderdale",
+            "tax",
+            "Dean cluster",
+            "Mississippi",
+            "Edmond-line"
+          ]
+        },
+        {
+          "id": "FAN00001H",
+          "label": "Unknown year — PDF extracted tail (Daniels/Denton/Delk cluster)",
+          "members": {
+            "people": [],
+            "unresolved_people": [
+              {
+                "name": "Ezekiel Daniels",
+                "note": "Lauderdale tax FAN; PDF tail / page 12 (subset H; year unknown)",
+                "role": "neighbor"
+              },
+              {
+                "name": "Joseph Denton",
+                "note": "Lauderdale tax FAN; PDF tail / page 12 (subset H; year unknown)",
+                "role": "neighbor"
+              },
+              {
+                "name": "J. S. Denton",
+                "note": "Lauderdale tax FAN; PDF tail / page 12 (subset H; year unknown)",
+                "role": "neighbor"
+              },
+              {
+                "name": "Vincent Delk",
+                "note": "Lauderdale tax FAN; PDF tail / page 12 (subset H; year unknown)",
+                "role": "neighbor"
+              }
+            ]
+          },
+          "scope": {
+            "locations": [
+              {
+                "country": "USA",
+                "county": "Lauderdale County",
+                "note": null,
+                "place": null,
+                "place_raw": "Lauderdale County, Mississippi, USA",
+                "state": "Mississippi"
+              }
+            ],
+            "record_types": [
+              "tax"
+            ],
+            "time_end_year": null,
+            "time_start_year": null
+          },
+          "tags": [
+            "Lauderdale",
+            "tax",
+            "Dean cluster",
+            "Mississippi",
+            "Edmond-line"
+          ]
+        }
+      ],
+      "tags": [
+        "Lauderdale",
+        "tax",
+        "Dean cluster",
+        "Mississippi",
+        "Edmond-line"
+      ]
+    },
+    "FAN00002": {
+      "focus": {
+        "description": "Documentary associates and neighbors tied to Sherrod Deens and Richard Dean in Georgia records (petition, tax, land, marriage, estate).",
+        "person_ids": [
+          "P00011",
+          "P00013"
+        ],
+        "type": "cluster"
+      },
+      "id": "FAN00002",
+      "label": "Georgia frontier (Washington/Montgomery/Clarke/Jackson/Laurens) 1795–1813 — Sherrod Deens & Richard Dean packet",
+      "members": {
+        "people": [],
+        "unresolved_people": [
+          {
+            "name": "Marbury",
+            "note": "Named as original grantee on Clarke County, GA tax roll entries for Sherrod Deans (1803, 1807).",
+            "role": "original grantee"
+          },
+          {
+            "name": "Crow",
+            "note": "Adjoining landholder on Clarke County, GA tax roll entry (1803).",
+            "role": "adjoining landholder"
+          },
+          {
+            "name": "Hopkins",
+            "note": "Adjoining landholder on Clarke County, GA tax roll entry (1807).",
+            "role": "adjoining landholder"
+          },
+          {
+            "name": "Arnold Atkins",
+            "note": "JP who solemnized Sherwood Dean & Delpha Young marriage (Jackson County, GA, 12 Nov 1806).",
+            "role": "Justice of the Peace"
+          },
+          {
+            "name": "Robert W. W. Wynn",
+            "note": "Administrator on Laurens County, GA Court of Ordinary administration bond for estate of Richard Dean (deceased) executed Sep 1813.",
+            "role": "estate administrator"
+          },
+          {
+            "name": "Lewis Linder",
+            "note": "Surety on Laurens County, GA Court of Ordinary administration bond (Richard Dean estate).",
+            "role": "surety"
+          }
+        ]
+      },
+      "records": [],
+      "scope": {
+        "locations": [
+          {
+            "country": "USA",
+            "county": null,
+            "note": "",
+            "place": null,
+            "place_raw": "Georgia (Washington, Montgomery, Clarke, Jackson, Laurens Counties), USA",
+            "state": "Georgia"
+          }
+        ],
+        "record_types": [
+          "petition",
+          "tax",
+          "land",
+          "marriage",
+          "probate",
+          "guardianship"
+        ],
+        "time_end_year": 1813,
+        "time_start_year": 1795
+      },
+      "subsets": [],
+      "tags": [
+        "Georgia",
+        "frontier",
+        "Sherrod",
+        "Richard",
+        "petition",
+        "tax",
+        "land",
+        "marriage",
+        "probate"
+      ]
+    },
+    "FAN00003": {
+      "focus": {
+        "description": "FAN set built from deeds and court minute entry involving Nathaniel Dean, his wife Eunice (Lea) Dean, and their son Burket/Burkett Dean.",
+        "person_ids": [
+          "P00060",
+          "P00062",
+          "P00061"
+        ],
+        "type": "person_cluster"
+      },
+      "id": "FAN00003",
+      "label": "Nathaniel Dean & Burket Dean — Jasper/Clarke County, GA (1802–1827)",
+      "members": {
+        "people": [
+          "P00060",
+          "P00062",
+          "P00061"
+        ],
+        "unresolved_people": [
+          {
+            "name": "Silvanny Walker",
+            "note": "From timeline event E01029: 1815-08-01 — Deed: Silvanny Walker → Nathaniel Deane (Lot 125)",
+            "role": "grantor"
+          },
+          {
+            "name": "Robt Owens",
+            "note": "From timeline event E01029: 1815-08-01 — Deed: Silvanny Walker → Nathaniel Deane (Lot 125)",
+            "role": "witness"
+          },
+          {
+            "name": "J.W. Bivmey",
+            "note": "From timeline event E01029: 1815-08-01 — Deed: Silvanny Walker → Nathaniel Deane (Lot 125)",
+            "role": "witness"
+          },
+          {
+            "name": "Wm Head J.P.",
+            "note": "From timeline event E01029: 1815-08-01 — Deed: Silvanny Walker → Nathaniel Deane (Lot 125)",
+            "role": "witness"
+          },
+          {
+            "name": "Thomas Hooks",
+            "note": "From timeline event E01030: 1815-09-13 — Deed: Thomas Hooks → Nathaniel Dean (Lot 128)",
+            "role": "grantor"
+          },
+          {
+            "name": "Henry Walker",
+            "note": "From timeline event E01030: 1815-09-13 — Deed: Thomas Hooks → Nathaniel Dean (Lot 128)",
+            "role": "witness"
+          },
+          {
+            "name": "J.W. Burney",
+            "note": "From timeline event E01030: 1815-09-13 — Deed: Thomas Hooks → Nathaniel Dean (Lot 128)",
+            "role": "witness"
+          },
+          {
+            "name": "Stanley Morgan J.P.",
+            "note": "From timeline event E01030: 1815-09-13 — Deed: Thomas Hooks → Nathaniel Dean (Lot 128)",
+            "role": "witness"
+          },
+          {
+            "name": "Edward Butler",
+            "note": "From timeline event E01031: None — Deed: Edward Butler → Nathaniel Deane (Lot 118)",
+            "role": "grantor"
+          },
+          {
+            "name": "Levi J. Wellborn",
+            "note": "From timeline event E01031: None — Deed: Edward Butler → Nathaniel Deane (Lot 118)",
+            "role": "witness"
+          },
+          {
+            "name": "James Black",
+            "note": "From timeline event E01032: None — Deed: Nathaniel Deane → James Black (Lot None)",
+            "role": "grantee"
+          },
+          {
+            "name": "Robert Allison",
+            "note": "From timeline event E01032: None — Deed: Nathaniel Deane → James Black (Lot None)",
+            "role": "witness"
+          },
+          {
+            "name": "Thomas S. Baily",
+            "note": "From timeline event E01032: None — Deed: Nathaniel Deane → James Black (Lot None)",
+            "role": "witness"
+          },
+          {
+            "name": "Geo. Stovall J.I.C.",
+            "note": "From timeline event E01032: None — Deed: Nathaniel Deane → James Black (Lot None)",
+            "role": "witness"
+          },
+          {
+            "name": "James Godly",
+            "note": "From timeline event E01033: None — Deed: Nathaniel Dean → James Godly (Lot None)",
+            "role": "grantee"
+          },
+          {
+            "name": "Magers Henderson",
+            "note": "From timeline event E01034: 1827-02-04 — Deed: None → Magers Henderson (dower interest in Lot 125)",
+            "role": "grantee"
+          },
+          {
+            "name": "Mary Brewer",
+            "note": "From timeline event E01034: 1827-02-04 — Deed: None → Magers Henderson (dower interest in Lot 125)",
+            "role": "witness"
+          },
+          {
+            "name": "Nathan Warner",
+            "note": "From timeline event E01034: 1827-02-04 — Deed: None → Magers Henderson (dower interest in Lot 125)",
+            "role": "witness"
+          },
+          {
+            "name": "Jessee Loyall, Justice of the Peace",
+            "note": "From timeline event E01034: 1827-02-04 — Deed: None → Magers Henderson (dower interest in Lot 125)",
+            "role": "official"
+          },
+          {
+            "name": "John Hill, Clerk",
+            "note": "From timeline event E01034: 1827-02-04 — Deed: None → Magers Henderson (dower interest in Lot 125)",
+            "role": "official"
+          },
+          {
+            "name": "Allen McClendon",
+            "note": "From timeline event E01035: 1816-01-26 — Deed: Nathaniel Dean → Burket Dean (Lot 128, 16th Dist.)",
+            "role": "witness"
+          },
+          {
+            "name": "Hiram Glazier",
+            "note": "From timeline event E01035: 1816-01-26 — Deed: Nathaniel Dean → Burket Dean (Lot 128, 16th Dist.)",
+            "role": "JP"
+          },
+          {
+            "name": "John Willson",
+            "note": "From timeline event E01035: 1816-01-26 — Deed: Nathaniel Dean → Burket Dean (Lot 128, 16th Dist.)",
+            "role": "clerk"
+          },
+          {
+            "name": "Thomas Hooks",
+            "note": "From timeline event E01035: 1816-01-26 — Deed: Nathaniel Dean → Burket Dean (Lot 128, 16th Dist.)",
+            "role": "original grantee"
+          },
+          {
+            "name": "Jack",
+            "note": "From timeline event E01036: 1816-01-26 — Deed: Nathaniel Dean → Burket Dean (enslaved man Jack)",
+            "role": "enslaved person"
+          },
+          {
+            "name": "Burton Rucker",
+            "note": "From timeline event E01037: 1816-07-12 — Deed: Burket Dean → Burton Rucker (Lot 128, 16th Dist.)",
+            "role": "grantee"
+          },
+          {
+            "name": "John Willson",
+            "note": "From timeline event E01037: 1816-07-12 — Deed: Burket Dean → Burton Rucker (Lot 128, 16th Dist.)",
+            "role": "witness"
+          },
+          {
+            "name": "Greene Crain",
+            "note": "From timeline event E01037: 1816-07-12 — Deed: Burket Dean → Burton Rucker (Lot 128, 16th Dist.)",
+            "role": "witness"
+          },
+          {
+            "name": "Captain Jacksons District",
+            "note": "From timeline event E01038: 1802-01-25 — Burket Deens appointed Justice of the Peace (Capt. Jackson’s District)",
+            "role": "district"
+          }
+        ]
+      },
+      "records": [
+        {
+          "event_ids": [
+            "E01029",
+            "E01030",
+            "E01031",
+            "E01032",
+            "E01033",
+            "E01034",
+            "E01035",
+            "E01036",
+            "E01037",
+            "E01038"
+          ],
+          "note": "Event IDs in TIMELINE_Master_v018.json",
+          "type": "timeline_events"
+        }
+      ],
+      "scope": {
+        "geography": [
+          "Clarke County, Georgia",
+          "Jasper County, Georgia"
+        ],
+        "notes": "Witnesses, clerks, JPs, grantors/grantees named in associated deed and court records.",
+        "time_range": {
+          "end": "1827-02-04",
+          "start": "1802-01-25"
+        }
+      },
+      "subsets": [],
+      "tags": [
+        "FAN",
+        "Georgia",
+        "Jasper",
+        "Clarke",
+        "Nathaniel Dean",
+        "Burket Dean"
+      ]
+    },
+    "FAN00004": {
+      "focus": {
+        "description": "FAN set built from Lauderdale County, MS deed transactions involving Nathan P. Deen, Sermon (Surmon) Deen, Mary Deen, and John Barnett.",
+        "person_ids": [
+          "P00036",
+          "P00032",
+          "P00067",
+          "P00068"
+        ],
+        "type": "transaction_cluster"
+      },
+      "id": "FAN00004",
+      "label": "Deen/Dean — Lauderdale County, MS deeds (1837–1841)",
+      "members": {
+        "organizations": [],
+        "people": [
+          "P00036",
+          "P00032",
+          "P00067",
+          "P00068"
+        ],
+        "places": [],
+        "unresolved_people": [
+          {
+            "name": "N. B. Warbington",
+            "note": "From 1837 deed",
+            "role": "witness"
+          },
+          {
+            "name": "James Ray",
+            "note": "From 1837 deed",
+            "role": "witness"
+          }
+        ]
+      },
+      "scope": {
+        "geography": [
+          "Lauderdale County, Mississippi"
+        ],
+        "notes": "Witnesses and officials extracted from deed records.",
+        "time_range": {
+          "end": "1841-07-04",
+          "start": "1837-04-26"
+        }
+      },
+      "sources": [
+        {
+          "note": "Event IDs in TIMELINE master",
+          "ref": [
+            "E01041",
+            "E01042",
+            "E01043"
+          ],
+          "type": "timeline_event"
+        }
+      ],
+      "subsets": [],
+      "tags": [
+        "FAN",
+        "Mississippi",
+        "Lauderdale",
+        "Deen"
+      ]
+    },
+    "FAN00005": {
+      "focus": {
+        "description": "Network extracted from Hardin County, TN Court of Pleas & Quarter Sessions minutes for Delpha Dean guardianship of Sherod Dean's minor heirs and subsequent POA to Cornelius.",
+        "person_ids": [
+          "P00019",
+          "P00022",
+          "P00023",
+          "P00024",
+          "P00011"
+        ],
+        "type": "court_cluster"
+      },
+      "id": "FAN00005",
+      "label": "Dean/Deens — Hardin County, TN guardianship & POA network (1823–1824)",
+      "members": {
+        "organizations": [],
+        "people": [
+          "P00019",
+          "P00022",
+          "P00023",
+          "P00024",
+          "P00011"
+        ],
+        "places": [
+          "Hardinsville (court house)",
+          "Holland Creek",
+          "Browns Ferry",
+          "Lilley's (precinct/anchor)"
+        ],
+        "unresolved_people": [
+          {
+            "name": "Alex Reynolds",
+            "note": "Bond surety for Delpha Dean.",
+            "role": "surety"
+          },
+          {
+            "name": "A.W. Sweney / A.W. Sweeney",
+            "note": "Clerk/tester on bond; spelling varies.",
+            "role": "clerk"
+          },
+          {
+            "name": "Noel Cherry",
+            "note": "POA subscribing witness; proved execution by oath.",
+            "role": "witness"
+          },
+          {
+            "name": "Noah Lilley",
+            "note": "POA subscribing witness; proved execution by oath.",
+            "role": "witness"
+          },
+          {
+            "name": "Isham Cherry",
+            "note": "Justice present in Oct 1823 term; appears repeatedly in minutes.",
+            "role": "justice"
+          },
+          {
+            "name": "James W. Judkins",
+            "note": "Sheriff listed in Oct 1823 term roll.",
+            "role": "sheriff"
+          }
+        ]
+      },
+      "records": [
+        {
+          "note": "See TIMELINE patch events for full structured details.",
+          "ref": [
+            "E01055",
+            "E01056"
+          ],
+          "type": "timeline_event"
+        }
+      ],
+      "scope": {
+        "geography": [
+          "Hardin County, Tennessee"
+        ],
+        "notes": "Derived from minute entries and bond language; no probate packet located in surviving set.",
+        "time_range": {
+          "end": "1824-10-05",
+          "start": "1823-10-06"
+        }
+      },
+      "subsets": [],
+      "tags": [
+        "FAN",
+        "Tennessee",
+        "Hardin County",
+        "guardianship",
+        "power of attorney",
+        "Dean",
+        "Deens"
+      ]
+    },
+    "FAN00006": {
+      "focus": {
+        "focus_cluster": null,
+        "focus_name": "Levi Sermon",
+        "focus_person_id": null
+      },
+      "id": "FAN00006",
+      "label": "Sermon — Big Creek deed network (Washington/Montgomery GA, 1793–1795)",
+      "members": {
+        "people": [],
+        "unresolved_people": [
+          {
+            "basis": "grantee in deed",
+            "certainty": "high",
+            "name": "Levi Sermon",
+            "role": "grantee/subject"
+          },
+          {
+            "basis": "grantor in deed",
+            "certainty": "high",
+            "name": "William Foreman",
+            "role": "grantor"
+          },
+          {
+            "basis": "subscribing witness; proof oath",
+            "certainty": "high",
+            "name": "John Williams",
+            "role": "witness/affiant"
+          },
+          {
+            "basis": "subscribing witness",
+            "certainty": "high",
+            "name": "Stephen Morgan",
+            "role": "witness"
+          },
+          {
+            "basis": "JP at proof",
+            "certainty": "high",
+            "name": "John Sheppard",
+            "role": "justice_of_peace"
+          },
+          {
+            "basis": "Montgomery recording attestation",
+            "certainty": "medium",
+            "name": "J. Carmnes",
+            "role": "clerk/attester"
+          },
+          {
+            "basis": "title chain language",
+            "certainty": "medium",
+            "name": "Joseph Ratliff",
+            "role": "title_chain"
+          },
+          {
+            "basis": "title chain language",
+            "certainty": "medium",
+            "name": "Isaiah Ratliff",
+            "role": "title_chain"
+          },
+          {
+            "basis": "bounds neighbor",
+            "certainty": "low",
+            "name": "Raugton",
+            "role": "adjoining_land"
+          },
+          {
+            "basis": "bounds neighbor",
+            "certainty": "high",
+            "name": "Hightower",
+            "role": "adjoining_land"
+          },
+          {
+            "basis": "bounds neighbor",
+            "certainty": "high",
+            "name": "Little",
+            "role": "adjoining_land"
+          }
+        ]
+      },
+      "records": [
+        {
+          "citation": "Montgomery County, Georgia, Deed Book CPG, pp. 81–82 (as provided)",
+          "event_id": "E01059",
+          "type": "deed"
+        }
+      ],
+      "scope": {
+        "date_range": {
+          "end": "1795-07-10",
+          "start": "1793-08-15"
+        },
+        "notes": [
+          "Execution in Washington County; recording/attestation in Montgomery County."
+        ],
+        "places": [
+          "Washington County, Georgia",
+          "Montgomery County, Georgia"
+        ],
+        "record_types": [
+          "deed"
+        ]
+      },
+      "subsets": [],
+      "tags": [
+        "Georgia",
+        "Big Creek",
+        "deed",
+        "Sermon",
+        "Foreman",
+        "Ratliff"
+      ]
+    },
+    "FAN00007": {
+      "focus": {
+        "focus_cluster": null,
+        "focus_name": "Edmund/Edmond Deens",
+        "focus_person_id": null
+      },
+      "id": "FAN00007",
+      "label": "Deens — Faircloth deed network (Montgomery→Laurens GA, 1804/1814)",
+      "members": {
+        "people": [],
+        "unresolved_people": [
+          {
+            "basis": "grantor; signed Edmond",
+            "certainty": "high",
+            "name": "Edmun Deens / Edmond Deens",
+            "role": "grantor/subject"
+          },
+          {
+            "basis": "grantee in deed",
+            "certainty": "high",
+            "name": "Benjamin Faircloth",
+            "role": "grantee"
+          },
+          {
+            "basis": "adjoining land named",
+            "certainty": "high",
+            "name": "Robert Faircloth",
+            "role": "adjoining_land"
+          },
+          {
+            "basis": "subscribing witness",
+            "certainty": "medium",
+            "name": "Allen Belsher",
+            "role": "witness"
+          },
+          {
+            "basis": "subscribing witness; made oath",
+            "certainty": "high",
+            "name": "Sam'l Carter",
+            "role": "witness/affiant"
+          },
+          {
+            "basis": "JP at proof (Washington County)",
+            "certainty": "high",
+            "name": "Wm Gainer",
+            "role": "justice_of_peace"
+          }
+        ]
+      },
+      "records": [
+        {
+          "citation": "Laurens County, Georgia, Deed Book C, p. 189 (as provided)",
+          "event_id": "E01060",
+          "type": "deed"
+        }
+      ],
+      "scope": {
+        "date_range": {
+          "end": "1814-05-30",
+          "start": "1804-11-11"
+        },
+        "notes": [
+          "Proof taken in Washington County; recorded in Laurens County."
+        ],
+        "places": [
+          "Montgomery County, Georgia",
+          "Washington County, Georgia",
+          "Laurens County, Georgia"
+        ],
+        "record_types": [
+          "deed"
+        ]
+      },
+      "subsets": [],
+      "tags": [
+        "Georgia",
+        "deed",
+        "Deens",
+        "Faircloth",
+        "Montgomery County",
+        "Laurens County"
+      ]
+    },
+    "FAN00008": {
+      "focus": {
+        "description": "FAN links derived from Phase-3 adjudicated records.",
+        "person_ids": [],
+        "type": "cluster"
+      },
+      "id": "FAN00008",
+      "label": "Montgomery GA (1796–1811) + Richard Deens/Winnifred Dyson linkage (1793–1819)",
+      "members": {
+        "people": [],
+        "unresolved_people": [
+          {
+            "name": "Richard Deen",
+            "note": "court recognizance (principal/surety); certainty=high; source=Richard Deen surety for Lewis Delaney (Superior Court recognizance)",
+            "role": "subject"
+          },
+          {
+            "name": "Lewis Delaney",
+            "note": "court recognizance (principal/surety); certainty=high; source=Richard Deen surety for Lewis Delaney (Superior Court recognizance)",
+            "role": "associate"
+          },
+          {
+            "name": "Richard Deen",
+            "note": "co-surety in court recognizance; certainty=high; source=Richard Deen surety for Lewis Delaney (Superior Court recognizance)",
+            "role": "subject"
+          },
+          {
+            "name": "Samuel Spullock",
+            "note": "co-surety in court recognizance; certainty=high; source=Richard Deen surety for Lewis Delaney (Superior Court recognizance)",
+            "role": "associate"
+          },
+          {
+            "name": "Richard Deens",
+            "note": "co-appraisers for William Bush estate; certainty=high; source=Estate Appraisement of William Bush, dec'd",
+            "role": "subject"
+          },
+          {
+            "name": "Moses Tison",
+            "note": "co-appraisers for William Bush estate; certainty=high; source=Estate Appraisement of William Bush, dec'd",
+            "role": "associate"
+          },
+          {
+            "name": "John Roach",
+            "note": "co-appraisers for William Bush estate; certainty=high; source=Estate Appraisement of William Bush, dec'd",
+            "role": "associate"
+          },
+          {
+            "name": "Richard Deens",
+            "note": "bondsman on marriage bond; certainty=high; source=Marriage Bond — Richard Deens & Winnifred Dyson",
+            "role": "subject"
+          },
+          {
+            "name": "Sherod Deens",
+            "note": "bondsman on marriage bond; certainty=high; source=Marriage Bond — Richard Deens & Winnifred Dyson",
+            "role": "associate"
+          },
+          {
+            "name": "Richard Deens",
+            "note": "witness on marriage bond; certainty=high; source=Marriage Bond — Richard Deens & Winnifred Dyson",
+            "role": "subject"
+          },
+          {
+            "name": "William Hall",
+            "note": "witness on marriage bond; certainty=high; source=Marriage Bond — Richard Deens & Winnifred Dyson",
+            "role": "associate"
+          },
+          {
+            "name": "Winnifred Dyson",
+            "note": "bondsman on marriage bond; certainty=high; source=Marriage Bond — Richard Deens & Winnifred Dyson",
+            "role": "subject"
+          },
+          {
+            "name": "Richard Deens",
+            "note": "administrator of estate; certainty=high; source=Estate of Richard Deens — multi-document set",
+            "role": "subject"
+          },
+          {
+            "name": "R. W. W. Wynne",
+            "note": "administrator of estate; certainty=high; source=Estate of Richard Deens — multi-document set",
+            "role": "associate"
+          },
+          {
+            "name": "Richard Deens",
+            "note": "spouse identity linkage (1793 bond + 1814 sale venue); certainty=high; source=Estate of Richard Deens — multi-document set",
+            "role": "subject"
+          },
+          {
+            "name": "Winefred Deens",
+            "note": "spouse identity linkage (1793 bond + 1814 sale venue); certainty=high; source=Estate of Richard Deens — multi-document set",
+            "role": "associate"
+          },
+          {
+            "name": "Richard Deens",
+            "note": "adjoining landowner in real estate description; certainty=high; source=Estate of Richard Deens — multi-document set",
+            "role": "subject"
+          },
+          {
+            "name": "A. Smith",
+            "note": "adjoining landowner in real estate description; certainty=high; source=Estate of Richard Deens — multi-document set",
+            "role": "associate"
+          },
+          {
+            "name": "Winnifred (Dyson) Deens",
+            "note": "estate appraiser; certainty=high; source=Appraisement of the estate of Winiford Deans, dec'd",
+            "role": "subject"
+          },
+          {
+            "name": "Daniel Hill",
+            "note": "estate appraiser; certainty=high; source=Appraisement of the estate of Winiford Deans, dec'd",
+            "role": "associate"
+          },
+          {
+            "name": "Winnifred (Dyson) Deens",
+            "note": "estate appraiser (signs by mark); certainty=high; source=Appraisement of the estate of Winiford Deans, dec'd",
+            "role": "subject"
+          },
+          {
+            "name": "Young Woodard",
+            "note": "estate appraiser (signs by mark); certainty=high; source=Appraisement of the estate of Winiford Deans, dec'd",
+            "role": "associate"
+          },
+          {
+            "name": "Needham Cock",
+            "note": "estate appraiser; certainty=high; source=Appraisement of the estate of Winiford Deans, dec'd",
+            "role": "associate"
+          }
+        ]
+      },
+      "records": [
+        {
+          "event_ids": [
+            "E01066",
+            "E01067",
+            "E01068",
+            "E01069",
+            "E01070",
+            "E01071",
+            "E01072",
+            "E01073"
+          ],
+          "note": "Event IDs added in TIMELINE_Master_v026.json",
+          "type": "timeline_events"
+        }
+      ],
+      "scope": {
+        "locations": [
+          {
+            "country": "USA",
+            "county": "Nash County",
+            "note": null,
+            "place": null,
+            "place_raw": "Nash County, North Carolina, USA",
+            "state": "North Carolina"
+          },
+          {
+            "country": "USA",
+            "county": "Montgomery County",
+            "note": null,
+            "place": null,
+            "place_raw": "Montgomery County, Georgia, USA",
+            "state": "Georgia"
+          },
+          {
+            "country": "USA",
+            "county": "Laurens County",
+            "note": null,
+            "place": null,
+            "place_raw": "Laurens County, Georgia, USA",
+            "state": "Georgia"
+          }
+        ],
+        "record_types": [
+          "marriage_bond",
+          "deed",
+          "court",
+          "probate"
+        ],
+        "time_end_year": 1819,
+        "time_start_year": 1793
+      },
+      "subsets": [],
+      "tags": [
+        "Phase4",
+        "Deens",
+        "Montgomery GA",
+        "Laurens GA",
+        "Nash NC"
+      ]
+    },
+    "FAN00009": {
+      "focus": {
+        "description": "Phase-4 cohort set created from six Phase-3 dossiers for Edmond Dean Sr.'s older children.",
+        "person_ids": [],
+        "type": "family_cluster"
+      },
+      "id": "FAN00009",
+      "label": "Edmond Dean Sr. — Older Children Cohort (Phase-4)",
+      "members": {
+        "people": [],
+        "unresolved_people": []
+      },
+      "records": [],
+      "scope": {
+        "locations": [],
+        "record_types": [
+          "dossier",
+          "vital",
+          "probate",
+          "tax",
+          "dna"
+        ],
+        "time_end_year": 1900,
+        "time_start_year": 1790
+      },
+      "subsets": [],
+      "tags": [
+        "Phase4",
+        "EdmondDeanSr",
+        "OlderChildren"
+      ]
+    },
+    "FAN00010": {
+      "focus": {
+        "description": "Phase-4 fan set derived from Phase-3 dossier: Jeremiah Deens War of 1812.",
+        "person_ids": [
+          "P00079"
+        ],
+        "type": "person_cluster"
+      },
+      "id": "FAN00010",
+      "label": "Jeremiah Deens — War of 1812 (Phase-4)",
+      "members": {
+        "people": [
+          "P00079"
+        ],
+        "unresolved_people": []
+      },
+      "notes": [
+        "Reattach FAN00010 to new Jeremiah Deens PID after correction of prior P00072 corruption. Scope: War of 1812 service (Georgia militia; Walker’s Company)."
+      ],
+      "records": [],
+      "scope": {
+        "locations": [],
+        "record_types": [
+          "military",
+          "roll",
+          "service",
+          "dossier"
+        ],
+        "time_end_year": 1816,
+        "time_start_year": 1812
+      },
+      "subsets": [],
+      "tags": [
+        "Phase4",
+        "JeremiahDeens",
+        "WarOf1812"
+      ]
+    },
+    "FAN00011": {
+      "focus": {
+        "person_ids": [
+          "P00079",
+          "P00009"
+        ],
+        "type": "cluster"
+      },
+      "id": "FAN00011",
+      "label": "Jackson County GA — Cochran’s Battalion (FAN)",
+      "members": {
+        "people": [
+          "P00079",
+          "P00009"
+        ],
+        "unresolved_people": [
+          {
+            "name": "Jeremiah Deens, orphans of",
+            "note": "Lottery entry class (not a person). At minimum includes Polly Deens (Mary “Polly” Deens, later Gilmore) as a candidate; do not assert enumeration beyond documentary proof.",
+            "role": "Georgia Land Lottery fortunate drawer class"
+          },
+          {
+            "name": "James Strawn",
+            "note": "",
+            "role": "Cochran’s Battalion entrant list"
+          },
+          {
+            "name": "Talbert Arthur",
+            "note": "",
+            "role": "Cochran’s Battalion entrant list"
+          },
+          {
+            "name": "William Cates",
+            "note": "",
+            "role": "Cochran’s Battalion entrant list"
+          },
+          {
+            "name": "Absolom Steward",
+            "note": "",
+            "role": "Cochran’s Battalion entrant list"
+          },
+          {
+            "name": "Mary Deans (widow)",
+            "note": "qualifiers=['widow']",
+            "role": "Cochran’s Battalion entrant list"
+          },
+          {
+            "name": "John White",
+            "note": "",
+            "role": "Cochran’s Battalion entrant list"
+          },
+          {
+            "name": "Drury Kelly",
+            "note": "",
+            "role": "Cochran’s Battalion entrant list"
+          },
+          {
+            "name": "James Louridge",
+            "note": "",
+            "role": "Cochran’s Battalion entrant list"
+          },
+          {
+            "name": "Duncan Campbell",
+            "note": "",
+            "role": "Cochran’s Battalion entrant list"
+          },
+          {
+            "name": "William Howard",
+            "note": "",
+            "role": "Cochran’s Battalion entrant list"
+          },
+          {
+            "name": "William Foster, Esq.",
+            "note": "qualifiers=['Esq.']",
+            "role": "Cochran’s Battalion entrant list"
+          },
+          {
+            "name": "William Henley",
+            "note": "",
+            "role": "Cochran’s Battalion entrant list"
+          },
+          {
+            "name": "William Walker",
+            "note": "",
+            "role": "Cochran’s Battalion entrant list"
+          },
+          {
+            "name": "Hordridge Maddox",
+            "note": "",
+            "role": "Cochran’s Battalion entrant list"
+          },
+          {
+            "name": "James Clements",
+            "note": "",
+            "role": "Cochran’s Battalion entrant list"
+          },
+          {
+            "name": "James Orr",
+            "note": "",
+            "role": "Cochran’s Battalion entrant list"
+          },
+          {
+            "name": "Jesse Windham, orphans",
+            "note": "qualifiers=['orphans']",
+            "role": "Cochran’s Battalion entrant list"
+          },
+          {
+            "name": "John Davis Jr.",
+            "note": "",
+            "role": "Cochran’s Battalion entrant list"
+          },
+          {
+            "name": "Sampson Harris",
+            "note": "",
+            "role": "Cochran’s Battalion entrant list"
+          },
+          {
+            "name": "Absalom Hamby",
+            "note": "",
+            "role": "Cochran’s Battalion entrant list"
+          },
+          {
+            "name": "George Pierce",
+            "note": "",
+            "role": "Cochran’s Battalion entrant list"
+          },
+          {
+            "name": "Simon Strickland",
+            "note": "",
+            "role": "Cochran’s Battalion entrant list"
+          },
+          {
+            "name": "John Lyles",
+            "note": "",
+            "role": "Cochran’s Battalion entrant list"
+          },
+          {
+            "name": "Leaven Maddox",
+            "note": "",
+            "role": "Cochran’s Battalion entrant list"
+          },
+          {
+            "name": "Eleazor Mobley",
+            "note": "",
+            "role": "Cochran’s Battalion entrant list"
+          },
+          {
+            "name": "Jesse Harris",
+            "note": "",
+            "role": "Cochran’s Battalion entrant list"
+          },
+          {
+            "name": "James Armstrong",
+            "note": "",
+            "role": "Cochran’s Battalion entrant list"
+          },
+          {
+            "name": "Solomon Strickland (bit nose)",
+            "note": "qualifiers=['bit nose']",
+            "role": "Cochran’s Battalion entrant list"
+          },
+          {
+            "name": "William Bell",
+            "note": "",
+            "role": "Cochran’s Battalion entrant list"
+          },
+          {
+            "name": "Reubin Steward",
+            "note": "",
+            "role": "Cochran’s Battalion entrant list"
+          },
+          {
+            "name": "John Evans",
+            "note": "",
+            "role": "Cochran’s Battalion entrant list"
+          },
+          {
+            "name": "Samuel House",
+            "note": "",
+            "role": "Cochran’s Battalion entrant list"
+          },
+          {
+            "name": "William Cates",
+            "note": "",
+            "role": "Cochran’s Battalion entrant list"
+          },
+          {
+            "name": "Purnel Walker",
+            "note": "",
+            "role": "Cochran’s Battalion entrant list"
+          },
+          {
+            "name": "John Hemphill",
+            "note": "",
+            "role": "Cochran’s Battalion entrant list"
+          },
+          {
+            "name": "Ezekiel Rollston",
+            "note": "",
+            "role": "Cochran’s Battalion entrant list"
+          },
+          {
+            "name": "John Austin",
+            "note": "",
+            "role": "Cochran’s Battalion entrant list"
+          },
+          {
+            "name": "Thomas Carrell",
+            "note": "",
+            "role": "Cochran’s Battalion entrant list"
+          },
+          {
+            "name": "Aaron Woodward",
+            "note": "",
+            "role": "Cochran’s Battalion entrant list"
+          },
+          {
+            "name": "Benjamin Mole",
+            "note": "",
+            "role": "Cochran’s Battalion entrant list"
+          },
+          {
+            "name": "Thomas Harris (Hog Mountain)",
+            "note": "qualifiers=['Hog Mountain']",
+            "role": "Cochran’s Battalion entrant list"
+          },
+          {
+            "name": "John Hughs",
+            "note": "",
+            "role": "Cochran’s Battalion entrant list"
+          },
+          {
+            "name": "Jacob Cole",
+            "note": "",
+            "role": "Cochran’s Battalion entrant list"
+          },
+          {
+            "name": "Robert Atkins",
+            "note": "",
+            "role": "Cochran’s Battalion entrant list"
+          },
+          {
+            "name": "Sally Hill",
+            "note": "",
+            "role": "Cochran’s Battalion entrant list"
+          },
+          {
+            "name": "Joseph Davis",
+            "note": "",
+            "role": "Cochran’s Battalion entrant list"
+          },
+          {
+            "name": "John Foster Jr.",
+            "note": "",
+            "role": "Cochran’s Battalion entrant list"
+          },
+          {
+            "name": "Robert Allison",
+            "note": "",
+            "role": "Cochran’s Battalion entrant list"
+          },
+          {
+            "name": "Thomas Hays",
+            "note": "",
+            "role": "Cochran’s Battalion entrant list"
+          },
+          {
+            "name": "John Sparks",
+            "note": "",
+            "role": "Cochran’s Battalion entrant list"
+          },
+          {
+            "name": "Willis Rowland",
+            "note": "",
+            "role": "Cochran’s Battalion entrant list"
+          },
+          {
+            "name": "Abner Camp",
+            "note": "",
+            "role": "Cochran’s Battalion entrant list"
+          },
+          {
+            "name": "Sarah McCutchen",
+            "note": "",
+            "role": "Cochran’s Battalion entrant list"
+          },
+          {
+            "name": "John Stewart",
+            "note": "",
+            "role": "Cochran’s Battalion entrant list"
+          },
+          {
+            "name": "John Lyles",
+            "note": "",
+            "role": "Cochran’s Battalion entrant list"
+          },
+          {
+            "name": "Samuel Johnson Jr.",
+            "note": "",
+            "role": "Cochran’s Battalion entrant list"
+          },
+          {
+            "name": "James Cockran (Major)",
+            "note": "qualifiers=['Major']",
+            "role": "Cochran’s Battalion entrant list"
+          },
+          {
+            "name": "Jonas Short",
+            "note": "",
+            "role": "Cochran’s Battalion entrant list"
+          },
+          {
+            "name": "Margaret Reed",
+            "note": "",
+            "role": "Cochran’s Battalion entrant list"
+          },
+          {
+            "name": "Joseph Jones",
+            "note": "",
+            "role": "Cochran’s Battalion entrant list"
+          },
+          {
+            "name": "Sherwood Camp",
+            "note": "",
+            "role": "Cochran’s Battalion entrant list"
+          },
+          {
+            "name": "William Giddings",
+            "note": "",
+            "role": "Cochran’s Battalion entrant list"
+          },
+          {
+            "name": "Elijah Ofil",
+            "note": "",
+            "role": "Cochran’s Battalion entrant list"
+          },
+          {
+            "name": "Daniel Oneal",
+            "note": "",
+            "role": "Cochran’s Battalion entrant list"
+          },
+          {
+            "name": "Charles Weatherford",
+            "note": "",
+            "role": "Cochran’s Battalion entrant list"
+          },
+          {
+            "name": "Thomas Cockran",
+            "note": "",
+            "role": "Cochran’s Battalion entrant list"
+          },
+          {
+            "name": "Jeremiah Deens",
+            "note": "",
+            "role": "Cochran’s Battalion entrant list"
+          },
+          {
+            "name": "John Maddox",
+            "note": "",
+            "role": "Cochran’s Battalion entrant list"
+          },
+          {
+            "name": "Thomas Watson (Williamson Creek)",
+            "note": "qualifiers=['Williamson Creek']",
+            "role": "Cochran’s Battalion entrant list"
+          },
+          {
+            "name": "Susannah Harrod (widow)",
+            "note": "qualifiers=['widow']",
+            "role": "Cochran’s Battalion entrant list"
+          },
+          {
+            "name": "Rubin Stewart",
+            "note": "",
+            "role": "Cochran’s Battalion entrant list"
+          },
+          {
+            "name": "John Maddox",
+            "note": "",
+            "role": "Cochran’s Battalion entrant list"
+          },
+          {
+            "name": "Edward Jackson",
+            "note": "",
+            "role": "Cochran’s Battalion entrant list"
+          },
+          {
+            "name": "John Coker, orphans",
+            "note": "qualifiers=['orphans']",
+            "role": "Cochran’s Battalion entrant list"
+          },
+          {
+            "name": "John Robertson, orphans",
+            "note": "qualifiers=['orphans']",
+            "role": "Cochran’s Battalion entrant list"
+          },
+          {
+            "name": "Polly Hurley",
+            "note": "",
+            "role": "Cochran’s Battalion entrant list"
+          },
+          {
+            "name": "William Spence",
+            "note": "",
+            "role": "Cochran’s Battalion entrant list"
+          },
+          {
+            "name": "Daniel Strawn",
+            "note": "",
+            "role": "Cochran’s Battalion entrant list"
+          },
+          {
+            "name": "Robert Venable",
+            "note": "",
+            "role": "Cochran’s Battalion entrant list"
+          },
+          {
+            "name": "Vann Loftin",
+            "note": "",
+            "role": "Cochran’s Battalion entrant list"
+          },
+          {
+            "name": "Jane Bell (widow)",
+            "note": "qualifiers=['widow']",
+            "role": "Cochran’s Battalion entrant list"
+          },
+          {
+            "name": "James Blassingame",
+            "note": "",
+            "role": "Cochran’s Battalion entrant list"
+          },
+          {
+            "name": "Samuel Howard",
+            "note": "",
+            "role": "Cochran’s Battalion entrant list"
+          },
+          {
+            "name": "Samuel Langston",
+            "note": "",
+            "role": "Cochran’s Battalion entrant list"
+          },
+          {
+            "name": "Charles Weatherford",
+            "note": "",
+            "role": "Cochran’s Battalion entrant list"
+          },
+          {
+            "name": "John Turner",
+            "note": "",
+            "role": "Cochran’s Battalion entrant list"
+          },
+          {
+            "name": "Andrew Hathorn",
+            "note": "",
+            "role": "Cochran’s Battalion entrant list"
+          },
+          {
+            "name": "Benjamin Watts",
+            "note": "",
+            "role": "Cochran’s Battalion entrant list"
+          },
+          {
+            "name": "Sherwood Liles",
+            "note": "",
+            "role": "Cochran’s Battalion entrant list"
+          },
+          {
+            "name": "Isaac Haynes",
+            "note": "",
+            "role": "Cochran’s Battalion entrant list"
+          },
+          {
+            "name": "David Holmes",
+            "note": "",
+            "role": "Cochran’s Battalion entrant list"
+          },
+          {
+            "name": "Clayborne Maddox",
+            "note": "",
+            "role": "Cochran’s Battalion entrant list"
+          },
+          {
+            "name": "Brown, orphans",
+            "note": "qualifiers=['orphans']",
+            "role": "Cochran’s Battalion entrant list"
+          },
+          {
+            "name": "John Stubblefield, orphans",
+            "note": "qualifiers=['orphans']",
+            "role": "Cochran’s Battalion entrant list"
+          },
+          {
+            "name": "Benjamin Perkins",
+            "note": "",
+            "role": "Cochran’s Battalion entrant list"
+          },
+          {
+            "name": "Jeremiah Deens, orphans",
+            "note": "qualifiers=['orphans']",
+            "role": "Cochran’s Battalion entrant list"
+          },
+          {
+            "name": "Samuel Jordan",
+            "note": "",
+            "role": "Cochran’s Battalion entrant list"
+          },
+          {
+            "name": "Valentine Mooney",
+            "note": "",
+            "role": "Cochran’s Battalion entrant list"
+          },
+          {
+            "name": "Benjamin Jones Sr.",
+            "note": "",
+            "role": "Cochran’s Battalion entrant list"
+          },
+          {
+            "name": "Timothy McGuire",
+            "note": "",
+            "role": "Cochran’s Battalion entrant list"
+          },
+          {
+            "name": "Robert McEver",
+            "note": "",
+            "role": "Cochran’s Battalion entrant list"
+          },
+          {
+            "name": "Elizabeth Whitehead",
+            "note": "",
+            "role": "Cochran’s Battalion entrant list"
+          },
+          {
+            "name": "Perren Farrow",
+            "note": "",
+            "role": "Cochran’s Battalion entrant list"
+          },
+          {
+            "name": "William Cope",
+            "note": "",
+            "role": "Cochran’s Battalion entrant list"
+          },
+          {
+            "name": "James Diell",
+            "note": "",
+            "role": "Cochran’s Battalion entrant list"
+          },
+          {
+            "name": "John Morris",
+            "note": "",
+            "role": "Cochran’s Battalion entrant list"
+          },
+          {
+            "name": "Joseph Thompson (son of Benjamin)",
+            "note": "qualifiers=['son of Benjamin']",
+            "role": "Cochran’s Battalion entrant list"
+          },
+          {
+            "name": "James Butler Sr.",
+            "note": "",
+            "role": "Cochran’s Battalion entrant list"
+          },
+          {
+            "name": "John Evans",
+            "note": "",
+            "role": "Cochran’s Battalion entrant list"
+          },
+          {
+            "name": "Robert Ellison Sr.",
+            "note": "",
+            "role": "Cochran’s Battalion entrant list"
+          },
+          {
+            "name": "James Moore",
+            "note": "",
+            "role": "Cochran’s Battalion entrant list"
+          },
+          {
+            "name": "William Alexander",
+            "note": "",
+            "role": "Cochran’s Battalion entrant list"
+          },
+          {
+            "name": "Timothy McGuire",
+            "note": "",
+            "role": "Cochran’s Battalion entrant list"
+          },
+          {
+            "name": "Robert Martin",
+            "note": "",
+            "role": "Cochran’s Battalion entrant list"
+          },
+          {
+            "name": "Archibald Tanner",
+            "note": "",
+            "role": "Cochran’s Battalion entrant list"
+          },
+          {
+            "name": "Lucy Hill",
+            "note": "",
+            "role": "Cochran’s Battalion entrant list"
+          },
+          {
+            "name": "Nancy Ellison",
+            "note": "",
+            "role": "Cochran’s Battalion entrant list"
+          },
+          {
+            "name": "Joseph Riche",
+            "note": "",
+            "role": "Cochran’s Battalion entrant list"
+          },
+          {
+            "name": "Job Jackson",
+            "note": "",
+            "role": "Cochran’s Battalion entrant list"
+          }
+        ]
+      },
+      "notes": [
+        "Populate Cochran’s Battalion FAN members. Jeremiah Deens here refers to Jeremiah (adult, W1812). Include Mary Deens (widow) as separate proven entrant. Preserve 'orphans of Jeremiah Deens' as a lottery class entry (not a person)."
+      ],
+      "records": [],
+      "scope": {
+        "locations": [],
+        "record_types": [
+          "militia",
+          "court",
+          "tax"
+        ],
+        "time_end_year": 1815,
+        "time_start_year": 1805
+      },
+      "subsets": [],
+      "tags": [
+        "Phase4",
+        "JacksonGA",
+        "CochransBattalion"
+      ]
+    },
+    "FAN20000": {
+      "id": "FAN20000",
+      "label": "Dean–Eubanks",
+      "members": {
+        "people": []
+      },
+      "person_ids": [
+        "P00033",
+        "P00036"
+      ],
+      "records": []
+    },
+    "FAN20001": {
+      "id": "FAN20001",
+      "label": "Dean–Gilmore fiduciary",
+      "members": {
+        "people": []
+      },
+      "person_ids": [
+        "P00035",
+        "P00036",
+        "P00032"
+      ],
+      "records": []
+    },
+    "FAN20002": {
+      "id": "FAN20002",
+      "label": "Dean–Dukes adjacency",
+      "members": {
+        "people": []
+      },
+      "person_ids": [
+        "P00032",
+        "P00034"
+      ],
+      "records": []
+    },
+    "FAN90000": {
+      "id": "FAN90000",
+      "label": "Deens households — Nash County, North Carolina (1790 census cluster)",
+      "members": {
+        "people": [
+          {
+            "name_raw": "Willis Deens",
+            "status": "unresolved"
+          },
+          {
+            "name_raw": "Thomas Deens",
+            "status": "unresolved"
+          },
+          {
+            "name_raw": "Henry Deens",
+            "status": "unresolved"
+          }
+        ]
+      },
+      "person_ids": [],
+      "records": []
+    },
+    "FAN90001": {
+      "fan_set_id": "FAN90001",
+      "id": "FAN90001",
+      "label": "Wedding Week 1806 cohort",
+      "notes": [
+        "Phase3 source fan_id was 'FAN9WW' (remapped to FAN90001 during Phase-4)."
+      ],
+      "person_ids": [],
+      "records": [],
+      "scope": {
+        "date": "Nov 1806",
+        "place": "Jackson County, GA"
+      }
+    },
+    "FAN90002": {
+      "fan_set_id": "FAN90002",
+      "id": "FAN90002",
+      "label": "Barber–McNutt Creek neighborhood",
+      "members": {
+        "people": [
+          "P00011",
+          "P00019",
+          "P00017",
+          "P00018",
+          "P00039",
+          "P00047"
+        ]
+      },
+      "notes": [
+        "Update BMC FAN (FAN90002) with confirmed existing PIDs only; additional actors pending PID creation/confirmation."
+      ],
+      "person_ids": [],
+      "records": [],
+      "scope": {
+        "date": "1792–1807",
+        "place": "Clarke–Jackson border"
+      },
+      "tags": [
+        "contextual_only",
+        "BMC_neighborhood",
+        "wedding_week_overlap_flagged"
+      ]
+    },
+    "FAN90003": {
+      "fan_set_id": "FAN90003",
+      "id": "FAN90003",
+      "label": "Edmond Dean Jr. household and associates",
+      "members": {
+        "organizations": [],
+        "people": [
+          "P9EDJR_SPOUSE1",
+          "P9EDJR_SPOUSE2"
+        ],
+        "places": []
+      },
+      "notes": [
+        "Core household and legal associates",
+        "Phase3 source fan_id was 'F9EDJR_CORE' (remapped to FAN90003 during Phase-4)."
+      ],
+      "person_ids": [
+        "P00037"
+      ],
+      "records": []
+    },
+    "FAN90004": {
+      "fan_set_id": "FAN90004",
+      "id": "FAN90004",
+      "label": "Nathaniel Pearce Dean household and legal associates",
+      "members": {
+        "organizations": [],
+        "people": [
+          "P9NPD_SPOUSE1",
+          "P9NPD_SPOUSE2"
+        ],
+        "places": []
+      },
+      "notes": [
+        "Independent adult male; guardian and landholder.",
+        "Phase3 source fan_id was 'F9NPD_CORE' (remapped to FAN90004 during Phase-4)."
+      ],
+      "person_ids": [
+        "P00036"
+      ],
+      "records": []
+    },
+    "FAN90005": {
+      "fan_set_id": "FAN90005",
+      "id": "FAN90005",
+      "label": "Garrison Dean household",
+      "members": {
+        "organizations": [],
+        "people": [
+          "P9GAR_SPOUSE"
+        ],
+        "places": []
+      },
+      "notes": [
+        "Household-level FAN derived from census and marriage records.",
+        "Phase3 source fan_id was 'F9GAR_CORE' (remapped to FAN90005 during Phase-4)."
+      ],
+      "person_ids": [
+        "P00034"
+      ],
+      "records": []
+    },
+    "FAN90006": {
+      "focus": {
+        "person_ids": [
+          "P00018",
+          "P00039"
+        ]
+      },
+      "id": "FAN90006",
+      "label": "Mary Polly Deens & Solomon Gilmore household",
+      "members": {
+        "people": [
+          "P00018",
+          "P00039"
+        ],
+        "unresolved_people": []
+      },
+      "new_entity_fingerprint": {
+        "approx_birth_year": null,
+        "name_raw": "Mary Polly Deens household",
+        "place_raw": "Mississippi",
+        "sex": null,
+        "spouse_name": "Solomon Gilmore"
+      },
+      "notes": [
+        "Household and spousal context; children adjacency to be layered later."
+      ],
+      "scope": {
+        "date_range": {
+          "end": "1860",
+          "start": "1830"
+        },
+        "place_raw": "Monroe / Itawamba Counties, Mississippi"
+      }
+    }
+  },
+  "indexes": {
+    "by_focus_cluster": {
+      "GA_FRONTIER_SHERROD_RICHARD_1795_1813": [
+        "FAN00002"
+      ],
+      "LAUDERDALE_DEAN_TAX_1839_1848": [
+        "FAN00001"
+      ]
+    },
+    "by_focus_person": {
+      "EDMOND DEENS": [
+        "FAN00007"
+      ],
+      "LEVI SERMON": [
+        "FAN00006"
+      ],
+      "P00011": [
+        "FAN00002"
+      ],
+      "P00013": [
+        "FAN00002"
+      ]
+    },
+    "by_location": {
+      "GEORGIA (WASHINGTON, MONTGOMERY, CLARKE, JACKSON, LAURENS COUNTIES), USA": [
+        "FAN00002",
+        "FAN00006",
+        "FAN00007"
+      ],
+      "LAUDERDALE COUNTY, MISSISSIPPI, USA": [
+        "FAN00001"
+      ]
+    },
+    "by_record_type": {
+      "DEED": [
+        "FAN00006",
+        "FAN00007"
+      ],
+      "guardianship": [
+        "FAN00002"
+      ],
+      "land": [
+        "FAN00002"
+      ],
+      "marriage": [
+        "FAN00002"
+      ],
+      "petition": [
+        "FAN00002"
+      ],
+      "probate": [
+        "FAN00002"
+      ],
+      "tax": [
+        "FAN00001",
+        "FAN00002"
+      ]
+    }
+  },
+  "project": {
+    "metadata_schema": "master_meta_v001",
+    "project_id": "dean-ralph",
+    "master_type": "FAN",
+    "rev": "v028",
+    "filename": "FAN_Master_v028.json",
+    "timezone": "America/Chicago",
+    "updated_at_utc": "2026-01-06T01:02:46Z",
+    "created_at_utc": "2025-12-11T00:00:00Z",
+    "name": "Dean–Ralph FAN Master",
+    "description": "FAN (Friends, Associates, Neighbors) clusters for the DEAN / DEEN / RALPH / PRIDGEON project."
+  },
+  "schema_version": "1.0"
+}
